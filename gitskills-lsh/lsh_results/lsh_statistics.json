@@ -1,0 +1,21 @@
+{
+  "documents": 13000,
+  "views": {
+    "full_total": 13000,
+    "body_total": 13000,
+    "full_short": 104,
+    "body_short": 228
+  },
+  "candidate_view_pairs": 109926,
+  "retained_content_pairs": 11249,
+  "parameters": {
+    "shingle_words": 5,
+    "min_shingles": 20,
+    "hash_bits": 64,
+    "permutations": 128,
+    "bands": 32,
+    "rows_per_band": 4,
+    "min_jaccard": 0.5,
+    "min_containment": 0.8
+  }
+}
