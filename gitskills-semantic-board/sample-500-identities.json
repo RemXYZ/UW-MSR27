@@ -1,0 +1,3002 @@
+[
+  {
+    "number": 1,
+    "sha": "0072ab6f5c230e579de8c09ac493294629a073d6",
+    "repository": "Way-Of/wayofmono",
+    "path": ".gemini/skills/opticat_ui_builder/SKILL.md"
+  },
+  {
+    "number": 2,
+    "sha": "007482f67935e0b5e635d0d3f946f4d73117c60a",
+    "repository": "zwright8/OpenClaw-Code",
+    "path": "skills/generated/4820-incident-playbook-synthesis-for-personal-finance-management/SKILL.md"
+  },
+  {
+    "number": 3,
+    "sha": "015f9cd6dbd3bb5782c050e1bddbcc34992af90c",
+    "repository": "RobTurvey/agrc-shared-infra",
+    "path": ".github/skills/support_incident/SKILL.md"
+  },
+  {
+    "number": 4,
+    "sha": "00dd9d6f04ad10e40c222a0e2429f20497f15b25",
+    "repository": "knownasnaffy/prompthound",
+    "path": "dataset/case_03954/SKILL.md"
+  },
+  {
+    "number": 5,
+    "sha": "00baf75fed68ea58a2d37f406311b8bdd00968ea",
+    "repository": "Arcadi4/nerdy",
+    "path": "clrs/amortized-algorithms/SKILL.md"
+  },
+  {
+    "number": 6,
+    "sha": "01149f1c1908e378149cc9f26084286d31072354",
+    "repository": "JGabrielGlez/NegocIA_V2",
+    "path": ".github/skills/react-native/SKILL.md"
+  },
+  {
+    "number": 7,
+    "sha": "01650cec78e9dcbcae9efb7b141f048696b7f996",
+    "repository": "martinholovsky/SOTA-skills",
+    "path": "skills/sota-databases/SKILL.md"
+  },
+  {
+    "number": 8,
+    "sha": "00b2e6b303d66f8e9c5a4b50ba9ad611b1abd006",
+    "repository": "NeuralBlitz/ncx",
+    "path": "ncx/.opencode/skills/nonparametric-industrial-engineering-verification/SKILL.md"
+  },
+  {
+    "number": 9,
+    "sha": "013c7a45d4daaecd9af994ee69cbe3a3b9d529c3",
+    "repository": "JHamidun/claude-code-config-pack",
+    "path": ".claude/skills/crosspost/SKILL.md"
+  },
+  {
+    "number": 10,
+    "sha": "0006b650685909ea5257c169b23f22a711747904",
+    "repository": "StrategicMilk/AM-Workbench",
+    "path": "vetinari/skills/catalog/worker/error-handling-hardening/SKILL.md"
+  },
+  {
+    "number": 11,
+    "sha": "0115cb53e4d9308d9e46bb6e96d81cc39f61e2b6",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/newsletter-events-write/SKILL.md"
+  },
+  {
+    "number": 12,
+    "sha": "0066a61fa33ca838edc5add8592d7e7901b6dc10",
+    "repository": "NeuralNomadsAI/CodeNomad",
+    "path": ".opencode/skills/codenomad-architecture-guide/SKILL.md"
+  },
+  {
+    "number": 13,
+    "sha": "017c461564d4400491a680b004b50656941d4ef3",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/advanced-extragalactic-astronomy-interpretation/SKILL.md"
+  },
+  {
+    "number": 14,
+    "sha": "0002f269842027a15e23170ea95264d55a525443",
+    "repository": "pinkroosterai/PinkRoosterMcp",
+    "path": ".claude/skills/pm-brainstorm/SKILL.md"
+  },
+  {
+    "number": 15,
+    "sha": "01a2f0153b716f000b73e152d2e2e77c7a0c54da",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/deterministic-environmental-science-classification/SKILL.md"
+  },
+  {
+    "number": 16,
+    "sha": "011f55cdf15a616e69cc8795654100176703bc60",
+    "repository": "iQeda/MyRust-NeetCode",
+    "path": ".claude/skills/lc-show/SKILL.md"
+  },
+  {
+    "number": 17,
+    "sha": "0113571b84120747622c4888036f0584925c3496",
+    "repository": "Matrixx0070/sudo-skills",
+    "path": "docs/skills/aigov-matter-workspace/SKILL.md"
+  },
+  {
+    "number": 18,
+    "sha": "015b544b001aad37f3344b826d35f8b29af2b2b3",
+    "repository": "AdmiralGallade/harness-repository",
+    "path": "harnesses/claude-skills/.gemini/skills/cs-agile-product-owner/SKILL.md"
+  },
+  {
+    "number": 19,
+    "sha": "013c5983d795632833ccd8348567a3c180852da7",
+    "repository": "NeuralBlitz/ncx",
+    "path": "buggy/ncx/.opencode/skills/static-big-data-simulation/SKILL.md"
+  },
+  {
+    "number": 20,
+    "sha": "00c8de174b32b2795d594eb95215531a9cebaab9",
+    "repository": "0bserver07/chimera",
+    "path": "chimera/skills/algorithms/string-algos/SKILL.md"
+  },
+  {
+    "number": 21,
+    "sha": "011373bf5eaa9a62cbd4cfd4a0c0b7c179ea6ad5",
+    "repository": "eliransu/digital-brain",
+    "path": "skills/task/SKILL.md"
+  },
+  {
+    "number": 22,
+    "sha": "00865927db70a1c42c0d6ca1c114fb1cd329a35e",
+    "repository": "ArtMin96/soloist",
+    "path": ".claude/skills/tauri-testing/SKILL.md"
+  },
+  {
+    "number": 23,
+    "sha": "0136b710d2093d0c31976f6744a95c83cb2e3b24",
+    "repository": "aiagentslibrary/awesome-gemini-spark-skills",
+    "path": "skills/google-workspace/spark-calendar-planner/SKILL.md"
+  },
+  {
+    "number": 24,
+    "sha": "011f1941c186465101d6c75ef51b4ad79c0b4d45",
+    "repository": "andrem-sec/psc-comet",
+    "path": ".claude/skills/workflow/refactor/SKILL.md"
+  },
+  {
+    "number": 25,
+    "sha": "00ef1e8d17189d45af6e63dace86ca3eb490b570",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "development/open-in-editor/SKILL.md"
+  },
+  {
+    "number": 26,
+    "sha": "0135ab31bec08f98843b5cbe319786590dd57780",
+    "repository": "sitharaj88/claude-skills",
+    "path": "skills/azure-logic-apps/SKILL.md"
+  },
+  {
+    "number": 27,
+    "sha": "00c5615c9eceb1ca37729998d4e62b728b28ca22",
+    "repository": "severeon/neuroscript-rs",
+    "path": ".claude/skills/ns-stdlib/SKILL.md"
+  },
+  {
+    "number": 28,
+    "sha": "0133dd67359518a651741be4d3d51a064d37747d",
+    "repository": "hichipli/websites-to-worlds-skills",
+    "path": "skills/websites-to-worlds/SKILL.md"
+  },
+  {
+    "number": 29,
+    "sha": "008d747a7d997c7d2cc12eaf783fc0458f5e3624",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/vuejs-best-practices/SKILL.md"
+  },
+  {
+    "number": 30,
+    "sha": "0186231753d7716281f2f0a521787a05f46f5611",
+    "repository": "RISHASUN001/LegacyModernization_Testing_SKILLS",
+    "path": "skills/playwright-browser-verification/SKILL.md"
+  },
+  {
+    "number": 31,
+    "sha": "0012dc7bf5cb6375328b3498d19eaa65ea9a74bf",
+    "repository": "LJT-520/openClaw-backup",
+    "path": "skills/guaiyu11/daily-standup-generator/SKILL.md"
+  },
+  {
+    "number": 32,
+    "sha": "0079f5580794ac8bc0dc78b2d0ac7d4fcf7b9061",
+    "repository": "JimCline/claude-3t",
+    "path": "claude-3t-plugin/skills/3t-start/SKILL.md"
+  },
+  {
+    "number": 33,
+    "sha": "013b4db57873612cfb3717100dbd575251869a0a",
+    "repository": "David-Li0406/meta-skill-evloving",
+    "path": "skill-flow/data/skills-refined-skillclaw-36k/skillsmp/skillclaw-47a04393ce4cf3de-nuget-manager/SKILL.md"
+  },
+  {
+    "number": 34,
+    "sha": "00ee5c45b8ae1bd67a0594380d9903f1a626a977",
+    "repository": "benbaichmankass/ict-trading-bot",
+    "path": ".claude/skills/before-asking-the-operator/SKILL.md"
+  },
+  {
+    "number": 35,
+    "sha": "00dcc31d17b09fc3c363589ee34b412608d2462f",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/pokemon-tcg-pocket-skill-builder/SKILL.md"
+  },
+  {
+    "number": 36,
+    "sha": "00fa7446c5a0a184797089c7341aaf0bfa13b3c7",
+    "repository": "HolobiomicsLab/asb-skill-collections",
+    "path": "collections/metabolomics/v1/skills/uncertainty-quantification-rt-prediction/SKILL.md"
+  },
+  {
+    "number": 37,
+    "sha": "0162f765bd1db6a5c9f631a03fbd40f5c1dee55f",
+    "repository": "Carloss616/seanime-extensions",
+    "path": ".claude/skills/prune-comments/SKILL.md"
+  },
+  {
+    "number": 38,
+    "sha": "0041f319dde42ae47c5d89670964f9f961bf4eb5",
+    "repository": "a5c-ai/babysitter",
+    "path": "library/specializations/game-development/skills/decal-systems/SKILL.md"
+  },
+  {
+    "number": 39,
+    "sha": "01ae55c6273d0c8a0b3df721d5e8c1eb72c14e76",
+    "repository": "saimatab/skills",
+    "path": "SQAMockInterview/SKILL.md"
+  },
+  {
+    "number": 40,
+    "sha": "00ff6410864b115f93fb81d70e0afce1666f68e9",
+    "repository": "Rynaro/TabRelay",
+    "path": ".claude/skills/idg-section-parallel/SKILL.md"
+  },
+  {
+    "number": 41,
+    "sha": "006f2e1198156bdff06c6dc9011889e59ee6f9f4",
+    "repository": "marcmontecalvo/waywarden",
+    "path": ".agents/skills/plan-to-issues/SKILL.md"
+  },
+  {
+    "number": 42,
+    "sha": "00639354fe4d4cf2ef89b4e02aa0b6c2a62d46b7",
+    "repository": "dvcrn/openclaw-skills-marketplace",
+    "path": "plugins/abhibavishi--verk/skills/verk/SKILL.md"
+  },
+  {
+    "number": 43,
+    "sha": "007c72db115325472a1f46dea5248ebe7915bb8d",
+    "repository": "kuboon/id.kbn.one",
+    "path": ".agents/skills/gist-skills/SKILL.md"
+  },
+  {
+    "number": 44,
+    "sha": "013f1d43bafa297a436927dc35df04e7be867803",
+    "repository": "huang-sh/DeepScience",
+    "path": "packages/science/skills/data-engineering/bio-workflows-hic-pipeline/SKILL.md"
+  },
+  {
+    "number": 45,
+    "sha": "0002b3dd7cb64f7991824b378de1c043c9fed7d8",
+    "repository": "arcasilesgroup/ai-engineering",
+    "path": ".claude/skills/ai-skill-improve/SKILL.md"
+  },
+  {
+    "number": 46,
+    "sha": "000305968581ee85280789c7070320c9b1e4c0b4",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/supervised-data-visualization-implementation/SKILL.md"
+  },
+  {
+    "number": 47,
+    "sha": "0073f54efb2434d37aa61fb2455617b898118261",
+    "repository": "uukjtisa/systema-auxilium",
+    "path": "skills/self-knowledge/SKILL.md"
+  },
+  {
+    "number": 48,
+    "sha": "00d91acfb78b71b8f1f56c444fb3032384aabc17",
+    "repository": "hiyenwong/ai_collection",
+    "path": "collection/skills/general-ml/universal-complementarity-identity/SKILL.md"
+  },
+  {
+    "number": 49,
+    "sha": "010a0af3b1ea889c77d8661a5e8e5b83795c8fd7",
+    "repository": "MerrillLi/openspec-superpowers",
+    "path": "skills/openspec-propose/SKILL.md"
+  },
+  {
+    "number": 50,
+    "sha": "01891b39cd2c8502bf4731b609baaf9e8a3994f3",
+    "repository": "HolobiomicsLab/asb-skill-collections",
+    "path": "collections/metabolomics/v1/skills/mass-spectrometry-peak-pair-analysis/SKILL.md"
+  },
+  {
+    "number": 51,
+    "sha": "00552d791bf61d984c48c7ffef159b456d24f80d",
+    "repository": "Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-Website",
+    "path": ".agent/skills/intelligent-routing/SKILL.md"
+  },
+  {
+    "number": 52,
+    "sha": "006899c9cbdc363b83d71d7cded9112f724963b8",
+    "repository": "dcmirandah/agent-skills",
+    "path": "powers/subagent-driven-development/SKILL.md"
+  },
+  {
+    "number": 53,
+    "sha": "018fd4c3cbfdb84ce55991e0099d7388c7206e3d",
+    "repository": "ruake/AWARE",
+    "path": ".opencode/skills/superdesign/SKILL.md"
+  },
+  {
+    "number": 54,
+    "sha": "004a20c468f1d0d5b82bf623f1463ed76af7ed57",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/websocket-realtime/SKILL.md"
+  },
+  {
+    "number": 55,
+    "sha": "0088dc800bb5a4a23987887e2be3a35b79669f7d",
+    "repository": "JasonRowe/Wahoo-KICKR-Randomizer",
+    "path": ".gemini/skills/bluetooth-trainer-expert/SKILL.md"
+  },
+  {
+    "number": 56,
+    "sha": "019127b2f03161af392a036d0fc8cb002dbbc50b",
+    "repository": "saitejreddy007/MIRA",
+    "path": ".opencode/skills/typescript-pro/SKILL.md"
+  },
+  {
+    "number": 57,
+    "sha": "012669d89e2eacfa03a9d810717469a68433ff73",
+    "repository": "vamseeachanta/workspace-hub",
+    "path": ".agents/skills/_archive/business/productivity/today/notes/SKILL.md"
+  },
+  {
+    "number": 58,
+    "sha": "012e930f65e405754d956a65ae72d5ccf5d1ba7a",
+    "repository": "ngocsangyem/MeowKit",
+    "path": ".claude/skills/jira-estimator/SKILL.md"
+  },
+  {
+    "number": 59,
+    "sha": "0080c1587c1ce1aaf73e0feeee8010babc101688",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/docusaurus/SKILL.md"
+  },
+  {
+    "number": 60,
+    "sha": "01a9cbf7315397846bbb14cd52a36f2963a6875f",
+    "repository": "abdellaziz-ali/AI-Skills",
+    "path": "skills/agent-room/SKILL.md"
+  },
+  {
+    "number": 61,
+    "sha": "00d7ebb5e3b2c74fd0acb82743b297f15989f89a",
+    "repository": "ABBranca/go2_ws-",
+    "path": ".claude/skills/ros2-expert/SKILL.md"
+  },
+  {
+    "number": 62,
+    "sha": "003e0873e88915d0d95e4db536a2c3f172ee4bd8",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/spectral-data-visualization-interpretation/SKILL.md"
+  },
+  {
+    "number": 63,
+    "sha": "005910408299e9714b3af032f0592a1fb7a01b10",
+    "repository": "AMindToThink/claude-code-settings",
+    "path": "skills/read-large-md/SKILL.md"
+  },
+  {
+    "number": 64,
+    "sha": "0145d8ac1ebc837e8cfa0ad2361ec86901fdcb38",
+    "repository": "I-Synergy/I-Synergy.Framework",
+    "path": "skills/ui-blazor/SKILL.md"
+  },
+  {
+    "number": 65,
+    "sha": "002bef8ce582b6d101d4ec5f09d3ff8cdfe4504e",
+    "repository": "dylanyunlon/Neuron_SP",
+    "path": "Megatron-LM/skills/cicd/SKILL.md"
+  },
+  {
+    "number": 66,
+    "sha": "006eb1c8c840f55e5793fc85be8d88c29692024f",
+    "repository": "alexandrecastello/rails-pokedex",
+    "path": ".claude/skills/stitch-rails-pages/SKILL.md"
+  },
+  {
+    "number": 67,
+    "sha": "00f6afbdc8dbb985ddf9a9648a81ae7386d8d537",
+    "repository": "bruce808/pet-central",
+    "path": ".cursor/skills/build-pet-central/SKILL.md"
+  },
+  {
+    "number": 68,
+    "sha": "00722560b089bb3ed9d89c8a563483f94ff62803",
+    "repository": "testland/qa",
+    "path": "plugins/qa-search-relevance/skills/hybrid-search-eval-author/SKILL.md"
+  },
+  {
+    "number": 69,
+    "sha": "0110401a61ea9ac68e44caa55cae40a2173c297d",
+    "repository": "wagleanuj/aha",
+    "path": "skills/debug/SKILL.md"
+  },
+  {
+    "number": 70,
+    "sha": "015b31aad8a3311d2012e43557c6f989d9b4c5ee",
+    "repository": "Mikacr1138/claude-bug-bounty",
+    "path": "skills/web2-vuln-classes/SKILL.md"
+  },
+  {
+    "number": 71,
+    "sha": "0001a2f8d5a0a99d5c7c4a170ff440cfe16c37c3",
+    "repository": "BEKO2210/Firstbrain",
+    "path": "03 - Resources/Skills/seo-keyword-strategist/SKILL.md"
+  },
+  {
+    "number": 72,
+    "sha": "00e4ecf99306250d28ef5b537ad57ea7ad137d1c",
+    "repository": "ShubhamManachekar/GeoSupply",
+    "path": ".claude/skills/portal-designer/SKILL.md"
+  },
+  {
+    "number": 73,
+    "sha": "00403b3671a77804d3cb8b02aa0086d0a4e41dc1",
+    "repository": "brycewang-stanford/Awesome-Journal-Skills",
+    "path": "ECCV-Skills/skills/eccv-submission/SKILL.md"
+  },
+  {
+    "number": 74,
+    "sha": "0065cf4316862c986b35f7739390d63377d32244",
+    "repository": "HamishT26/Beyonder-Real-True-Journey",
+    "path": "skills/deep-materialize-regression-v11-operations/SKILL.md"
+  },
+  {
+    "number": 75,
+    "sha": "015b62c19fac129015b94e8e4710286ee21bbee9",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/tools/commit-wakepon/SKILL.md"
+  },
+  {
+    "number": 76,
+    "sha": "0158c48a21e4568ad6cd52a810f037853ef84613",
+    "repository": "ronanrodrigo/monster-energy-generator",
+    "path": ".opencode/skills/scaffold/SKILL.md"
+  },
+  {
+    "number": 77,
+    "sha": "00b007b76bd3f15f2e2113749396af2590e9a115",
+    "repository": "jerelvelarde/visualize-skill",
+    "path": "visualize/SKILL.md"
+  },
+  {
+    "number": 78,
+    "sha": "00a15635eb311dd05052cb594d719783dd731081",
+    "repository": "minhtranin/personal-skills",
+    "path": "skills/summary/ps:summary/SKILL.md"
+  },
+  {
+    "number": 79,
+    "sha": "015a69c20ee182b75f50db1a38bf2f875cb7f740",
+    "repository": "choguun/pi-extensions",
+    "path": "extensions/aidlc-workflow/skills/finishing-a-development-branch/SKILL.md"
+  },
+  {
+    "number": 80,
+    "sha": "00e80915717eba0c0590d7ba8d1353b95f0db01d",
+    "repository": "wxul/openrouter-generate-image-skill",
+    "path": "skills/generate-image/SKILL.md"
+  },
+  {
+    "number": 81,
+    "sha": "0085e50bde8f8b8347411f9fe419f7ed9865bf45",
+    "repository": "dongtingshuo/academic-word-codex-skill",
+    "path": "artifact-template-academic-word/SKILL.md"
+  },
+  {
+    "number": 82,
+    "sha": "00d6519538a876f3058bcd5bc3a6b64ec45fa7b9",
+    "repository": "munisp/farmer-data-collection",
+    "path": ".agents/skills/testing-ui-ux/SKILL.md"
+  },
+  {
+    "number": 83,
+    "sha": "00d5f5b6262b85746388befe3ef3b899fe57c80e",
+    "repository": "vheins/Notulensi",
+    "path": ".agents/skills-src/debugging/log-interpretation/SKILL.md"
+  },
+  {
+    "number": 84,
+    "sha": "01a317d38524e2931cd237bd99a955d9061eb462",
+    "repository": "Amankumar006/Cadence",
+    "path": ".agents/skills/fastapi-streaming/SKILL.md"
+  },
+  {
+    "number": 85,
+    "sha": "004130de041d5ea05769313aaa2720af28cc47f1",
+    "repository": "lionelsimai/claude-skills-collection",
+    "path": "skills/incident-management-ops/SKILL.md"
+  },
+  {
+    "number": 86,
+    "sha": "00fe33e21e093f5aad1493a54e9441c82f7fa3f6",
+    "repository": "ranbot-ai/awesome-skills",
+    "path": "skills/github-actions-templates/SKILL.md"
+  },
+  {
+    "number": 87,
+    "sha": "0130fcffae6eb409c9419a7492ab82ea56cf5517",
+    "repository": "Michae2xl/claude-skills-michael",
+    "path": "skills/awesome-design-md/SKILL.md"
+  },
+  {
+    "number": 88,
+    "sha": "015fe0a51e8a856583c1f21634979fdced42634f",
+    "repository": "zgid123/skills",
+    "path": "skills/react/SKILL.md"
+  },
+  {
+    "number": 89,
+    "sha": "003d2dfb05be0af20c57cb0413d74d7909783930",
+    "repository": "ejkaz/claude-mac-security",
+    "path": "skills/security-scan/SKILL.md"
+  },
+  {
+    "number": 90,
+    "sha": "00a85570b65145c2fd0a431e7b0aae6b5a8c98e4",
+    "repository": "flight505/skill-forge",
+    "path": "skills/15-api-development/bearer-token-validator/SKILL.md"
+  },
+  {
+    "number": 91,
+    "sha": "00d46df07de1d4fb3018581e9483d5ee2445fdbc",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/communication/writing-project-technical-writing/SKILL.md"
+  },
+  {
+    "number": 92,
+    "sha": "00db9a3657b0adb0eb5c282c48f31639afebfa88",
+    "repository": "qianxian-yang/harness-plugin",
+    "path": "skills/td-debugging-and-error-recovery/SKILL.md"
+  },
+  {
+    "number": 93,
+    "sha": "01962fe29727ae7a270c9436a2b4b81885495208",
+    "repository": "b3belov/security-superpowers",
+    "path": "plugins/security-superpowers/skills/performing-cve-prioritization-with-kev-catalog/SKILL.md"
+  },
+  {
+    "number": 94,
+    "sha": "0157f7c2bf3eb50eb5791c35839e4f55fc1e93c5",
+    "repository": "POPCORNBOOM/ShadowDocumentDotMD",
+    "path": "shadow-document/SKILL.md"
+  },
+  {
+    "number": 95,
+    "sha": "0120caa71762266243315f8bf46e1567267f5887",
+    "repository": "RenseiAI/donmai",
+    "path": "daemon/testdata/released-kit-packages/go/skills/go-debugging/SKILL.md"
+  },
+  {
+    "number": 96,
+    "sha": "007def6743fe984fa0a5d3e0182f4783a89fe8c7",
+    "repository": "Bhavana-2916/4-moods",
+    "path": "Documents/ai-career-coach/.claude/skills/career-coach/SKILL.md"
+  },
+  {
+    "number": 97,
+    "sha": "010c0ace6669ba15fd38643244eee192d62c1f93",
+    "repository": "JesseQin123/clipmarts",
+    "path": "products/mcp-bundles/productivity-mcp-bundle/SKILL.md"
+  },
+  {
+    "number": 98,
+    "sha": "00206367421df60fbd42a32f83a7a0e5222f123f",
+    "repository": "derekhu0002/Argo",
+    "path": ".cursor/skills/architecture-diff-plantuml/SKILL.md"
+  },
+  {
+    "number": 99,
+    "sha": "000633a4e2cbb841c75005818b05cdfe89488aba",
+    "repository": "pranaysuyash/waypoint-os",
+    "path": "skills/scenario_case_study_replication/SKILL.md"
+  },
+  {
+    "number": 100,
+    "sha": "002660e7749bb9389adaf10a00b94049f0323c99",
+    "repository": "tuanfung/pqt-agent-skills",
+    "path": "skills/idea-refine/SKILL.md"
+  },
+  {
+    "number": 101,
+    "sha": "004e9c8f69ecf032f78d5f3284cc9133db5dd9eb",
+    "repository": "msrv-tech/skills",
+    "path": "web-info/SKILL.md"
+  },
+  {
+    "number": 102,
+    "sha": "000cf661ba69729dd7e9dcbef8e6a92d7f3309f0",
+    "repository": "u007/ocode",
+    "path": "skills/gws-accounts/SKILL.md"
+  },
+  {
+    "number": 103,
+    "sha": "00809abe48e0878d079ce238d1c26e934dce5938",
+    "repository": "martelogan/pi-autoclanker",
+    "path": "skills/autoclanker-hooks/SKILL.md"
+  },
+  {
+    "number": 104,
+    "sha": "006e97457dbad1124ea1f753837568d29ce9a341",
+    "repository": "germanros1987/agentic-swe-workflow",
+    "path": "templates/skills/orchestration/skill.md"
+  },
+  {
+    "number": 105,
+    "sha": "0075da0ac1e352958e5b9f01b06cf6aa2588acf4",
+    "repository": "Vigilox/evelyn-tax-copilot",
+    "path": ".claude/skills/harness-orchestrator/SKILL.md"
+  },
+  {
+    "number": 106,
+    "sha": "00bfca24a5c5f82dd0af017ef075287d9e2b82e3",
+    "repository": "membranedev/application-skills",
+    "path": "skills/gpt-trainer/SKILL.md"
+  },
+  {
+    "number": 107,
+    "sha": "00a847eb7f76e50fb0bb11418b00ecf2c464e1d4",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "communication/slack-message/SKILL.md"
+  },
+  {
+    "number": 108,
+    "sha": "0076b72cc27987a1ac37bdb251843c1328bafeff",
+    "repository": "epicrunze/JaRVIS",
+    "path": "skills/jarvis-validate/SKILL.md"
+  },
+  {
+    "number": 109,
+    "sha": "00c0830fe4f1340f7e7d5c130e0d56c8621a5fca",
+    "repository": "Jiachen-T-Wang/curation-bench-pro",
+    "path": "curation-bench/skills/data-synthesis/phi-3-technical-report-a-highly-capable-language-model-locally-on-your-phone-arxiv-2404-14219v2/SKILL.md"
+  },
+  {
+    "number": 110,
+    "sha": "0100d5499c6e3f6a124485090edbf7f7cdbf2059",
+    "repository": "luciafrancinewu-beep/group14",
+    "path": "skills/math/SKILL.md"
+  },
+  {
+    "number": 111,
+    "sha": "002136eba9027c0253a2be6014029e10b1b26754",
+    "repository": "Emasoft/ai-maestro-visual-communicator-plugin",
+    "path": "skills/amvcp-charts-part-of-whole/SKILL.md"
+  },
+  {
+    "number": 112,
+    "sha": "0005e6a6954312a438e8096861bd9d8d83c6bbcc",
+    "repository": "jukeyman/jukeyman-skills",
+    "path": "skills/saas-packs--castai-pack--castai-install-auth/SKILL.md"
+  },
+  {
+    "number": 113,
+    "sha": "019e1c1cb6511cc074ffffdebf5b5a0877201689",
+    "repository": "roo2323/ce-part-repo",
+    "path": "solocheck-skills/skills/security-design/SKILL.md"
+  },
+  {
+    "number": 114,
+    "sha": "00c4ec6b1679b2fbae17be875346732c4f3b882f",
+    "repository": "LoganDark/get-shit-done",
+    "path": "skills/gsd-sketch/SKILL.md"
+  },
+  {
+    "number": 115,
+    "sha": "00a4b8815ceb723b87759115fd19cd2455ae177d",
+    "repository": "laurelye/humanities-to-ai-pm",
+    "path": "humanities-to-ai-pm/SKILL.md"
+  },
+  {
+    "number": 116,
+    "sha": "009f2e54b5e529417d7f35eb936542d09f1034bf",
+    "repository": "Klotzkette/claude-fuer-deutsches-recht",
+    "path": "aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-embargo-russland/SKILL.md"
+  },
+  {
+    "number": 117,
+    "sha": "0109747aae96975d993875e98dd59cc6ade78851",
+    "repository": "parhumm/jaan-to",
+    "path": "adapters/codex/skillpack/skills/skill-create/SKILL.md"
+  },
+  {
+    "number": 118,
+    "sha": "0188faf6109c9b26d64386c73927f548bbd5ce10",
+    "repository": "HolobiomicsLab/asb-skill-collections",
+    "path": "collections/metabolomics/v2/skills/database-integration-and-linkage/SKILL.md"
+  },
+  {
+    "number": 119,
+    "sha": "004000aeb4d45b228ea79d653014e6e47c1df45f",
+    "repository": "miaodi/llm_config",
+    "path": "skills/cpp-performance/SKILL.md"
+  },
+  {
+    "number": 120,
+    "sha": "011ab14addbf3700792de0f2a417001098d26835",
+    "repository": "mtfum/openai-build-ios-skills",
+    "path": "skills/ios-ettrace-performance/SKILL.md"
+  },
+  {
+    "number": 121,
+    "sha": "01981d6dc032775076511a0ec6a943d7d745dffb",
+    "repository": "bryonjacob/ffflow",
+    "path": "plugin/skills/spec-first-development/SKILL.md"
+  },
+  {
+    "number": 122,
+    "sha": "00dbff3af86cb4373d51a2deed0c80a2fb7832f0",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/business/seo-djnsty23/SKILL.md"
+  },
+  {
+    "number": 123,
+    "sha": "01040fa22554503b31637330780fb410483c9631",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/mypa/SKILL.md"
+  },
+  {
+    "number": 124,
+    "sha": "005e00b3fadad84d38615b57a669668a701a2156",
+    "repository": "SobshDev/audio-anything",
+    "path": "agent/skills/migrate-radix-to-base/SKILL.md"
+  },
+  {
+    "number": 125,
+    "sha": "0045b7d74fb1d546b724707b100314b5d54599c9",
+    "repository": "maqitong/harness-architect",
+    "path": "SKILL.md"
+  },
+  {
+    "number": 126,
+    "sha": "00a8abcb008e0eb5ee3eb3df41514ed64fe9d392",
+    "repository": "adobe/ffcpe-custom-node-sdk",
+    "path": "skills/ffcpe-custom-node-sdk/SKILL.md"
+  },
+  {
+    "number": 127,
+    "sha": "016db3b6c98e2333604f5c518f221dbd660b8fc1",
+    "repository": "majiayu000/claude-skill-registry",
+    "path": "skills/domains/audit-domain/SKILL.md"
+  },
+  {
+    "number": 128,
+    "sha": "017280c1c3d6999dece03fa4bef65b731c77ca43",
+    "repository": "exilonX/ap2",
+    "path": ".agents/skills/vtex-io-application-performance/SKILL.md"
+  },
+  {
+    "number": 129,
+    "sha": "012b8f81381baf5caf6b23d336ff4bb3dd557fa6",
+    "repository": "dvcrn/openclaw-skills-marketplace",
+    "path": "plugins/kenswj--openclaw-shield-1-0-3/skills/openclaw-shield-1-0-3/SKILL.md"
+  },
+  {
+    "number": 130,
+    "sha": "014584d36a9b148bf7890d65888be7b26adf4fa5",
+    "repository": "jamon8888/cc-suite",
+    "path": "copywriter-w/skills/icp-creator/SKILL.md"
+  },
+  {
+    "number": 131,
+    "sha": "012d78b6c84a6dabf79d731aaa35c10f199dd212",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/resume/SKILL.md"
+  },
+  {
+    "number": 132,
+    "sha": "0048d4de30b86bce036062332fe0c26c5a73a372",
+    "repository": "arvinty/cddc-image",
+    "path": "skills/cddc-skills/cddc-unknown/SKILL.md"
+  },
+  {
+    "number": 133,
+    "sha": "015323d0637db6800d86146e3ff2de6de26a4096",
+    "repository": "JDL440/nfl-eval",
+    "path": ".squad/skills/stage5-valid-draft-fixtures/SKILL.md"
+  },
+  {
+    "number": 134,
+    "sha": "0081100796c3505d1c71f7a37f6c6b98ea6e3051",
+    "repository": "zwright8/OpenClaw-Code",
+    "path": "skills/generated/8761-scientific-hypothesis-prioritization-for-childcare-support-systems/SKILL.md"
+  },
+  {
+    "number": 135,
+    "sha": "0136542e28abf320342d7569a16c7281fb1573fa",
+    "repository": "26zl/cybersec-toolkit",
+    "path": ".claude/skills/extracting-browser-history-artifacts/SKILL.md"
+  },
+  {
+    "number": 136,
+    "sha": "0059892912e89babff492820fc00d1d4c8691712",
+    "repository": "Gabriel-Operator/team-agents",
+    "path": "nodes/node-structured-output/SKILL.md"
+  },
+  {
+    "number": 137,
+    "sha": "0143f8bb0ce04690fb344230da94bc5e44a6f8b3",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/spatial-environmental-engineering-measurement/SKILL.md"
+  },
+  {
+    "number": 138,
+    "sha": "015a3e16065dafd0c33213ec310720931fd2e6c5",
+    "repository": "Saiderlux/Turmalin",
+    "path": ".claude/skills/verify/SKILL.md"
+  },
+  {
+    "number": 139,
+    "sha": "018013218cdd432aa6327d0ad8294af9685f07ae",
+    "repository": "pankajpm/kanban-app",
+    "path": ".agents/skills/kanban-design-guidelines/SKILL.md"
+  },
+  {
+    "number": 140,
+    "sha": "01872518ad0862b55491cdf028bcb45a355bd027",
+    "repository": "TheTrickeyOne/claude-harness",
+    "path": "skills-catalog/_vendored/GPL/red-run/skills/web/browser-exploitation/SKILL.md"
+  },
+  {
+    "number": 141,
+    "sha": "016e7f0d6005354a2688ab7d56004f549395edea",
+    "repository": "weholt/weholt.github.io",
+    "path": ".opencode/skills/wire-photography-gallery/SKILL.md"
+  },
+  {
+    "number": 142,
+    "sha": "006a190a65130c69e62cf325f66a0510a90058d1",
+    "repository": "tukaelu/skills",
+    "path": "compose-commit/SKILL.md"
+  },
+  {
+    "number": 143,
+    "sha": "01295990cfc5caed1d72efae898e3402e71ca92f",
+    "repository": "oskarostlind/nextwatch",
+    "path": ".cursor/skills/ios-appflow-build/SKILL.md"
+  },
+  {
+    "number": 144,
+    "sha": "0034a60c7633b6ddd9a1f23fe60e1c2f84bc73e6",
+    "repository": "ohwiki/llmwiki-template",
+    "path": ".agents/skills/ma-sanli-writer/SKILL.md"
+  },
+  {
+    "number": 145,
+    "sha": "00441960f9a0e9696d1cc1a48edc58126b915527",
+    "repository": "fractary/core",
+    "path": "plugins/file/skills/fractary-file-move/SKILL.md"
+  },
+  {
+    "number": 146,
+    "sha": "0026f4ee6426e6bce8a0549def71109dbd7cd64e",
+    "repository": "docxology/template",
+    "path": "infrastructure/search/SKILL.md"
+  },
+  {
+    "number": 147,
+    "sha": "0156d95397f3e6d6fed389d8b86fb0b27c0d1d2d",
+    "repository": "s977043/river-review",
+    "path": "skills/upstream/migration-safety/SKILL.md"
+  },
+  {
+    "number": 148,
+    "sha": "0029aefc34835ebe8e47accf90ca59a5b11ca4dc",
+    "repository": "h102-log/pdfrag",
+    "path": ".claude/skills/moai-tool-ast-grep/SKILL.md"
+  },
+  {
+    "number": 149,
+    "sha": "002f8e48cddecb01d2e4aa1360eef84963a84e74",
+    "repository": "Sandeeprdy1729/skill_galaxy",
+    "path": "skills/spatial/spatial-expert-123/SKILL.md"
+  },
+  {
+    "number": 150,
+    "sha": "0040041c4321053370207af8c8b403676988815c",
+    "repository": "0x1337c0d3/claude-security",
+    "path": "skills/sentinel/skills/api/SKILL.md"
+  },
+  {
+    "number": 151,
+    "sha": "0047e935a2c532d9180135a71717a568b2ce2af6",
+    "repository": "mage0535/hermes-memory-installer",
+    "path": "skills/memory-archivist/SKILL.md"
+  },
+  {
+    "number": 152,
+    "sha": "0118f07a4322b7d076d816b912f6e9ed970d3471",
+    "repository": "berlinguyinca/autospec",
+    "path": "crates/autospec-cli/tests/fixtures/validation-cutover/documentation-contracts/skills/autospec-define/SKILL.md"
+  },
+  {
+    "number": 153,
+    "sha": "005fedc51c3a89e09f928ef85a0775d6ce8994a4",
+    "repository": "Harsh2227kumar/anonymous-defi-reputation-passport",
+    "path": "agent/skills/midnightskill/SKILL.md"
+  },
+  {
+    "number": 154,
+    "sha": "004138ed75c0343dcba1418d2102e641f49f61c8",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/m4-api/SKILL.md"
+  },
+  {
+    "number": 155,
+    "sha": "0138c60825622eb4b370f6d1a5683a9684a373ac",
+    "repository": "sky770825/openclaw-console-hub",
+    "path": "docs/openclaw-taskboard-skill/SKILL.md"
+  },
+  {
+    "number": 156,
+    "sha": "00a5ef90ca097a02bcf2653e4b8701fa66921d43",
+    "repository": "hatch3r/hatch3r",
+    "path": "skills/hatch3r-design-system-detect/SKILL.md"
+  },
+  {
+    "number": 157,
+    "sha": "018df5d7df5fad8f4621180a20ba06df0a36570d",
+    "repository": "GiulSposito/r-claude-skills",
+    "path": ".claude/skills/r-bayes/SKILL.md"
+  },
+  {
+    "number": 158,
+    "sha": "01a65a7bc9d582a60b68a45efa74642e53821626",
+    "repository": "Mutfak-Yazilimevi/.github",
+    "path": "project-template/.claude/skills/sec-performing-network-traffic-analysis-with-zeek/SKILL.md"
+  },
+  {
+    "number": 159,
+    "sha": "0133ea693a99a0ef4d7f9d4f51a8314862be801d",
+    "repository": "Ayushh-is-here/premium-web-design",
+    "path": "skills/accessibility-engineer/SKILL.md"
+  },
+  {
+    "number": 160,
+    "sha": "018135c39f49e45a7ad648aa674e720ff1c1856f",
+    "repository": "brycewang-stanford/Awesome-Journal-Skills",
+    "path": "Current-Anthropology-Skills/skills/curranthro-transparency-and-data/SKILL.md"
+  },
+  {
+    "number": 161,
+    "sha": "0059501ea872737c9b26cd76090fa803da2b5393",
+    "repository": "Klotzkette/claude-fuer-deutsches-recht",
+    "path": "berufsrecht-wirtschaftspruefer/skills/aufbewahrung-pruefungsakte-kammerantwort/SKILL.md"
+  },
+  {
+    "number": 162,
+    "sha": "00a91edbcd0ad6fb7ac90a800964e316f0fba84e",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/quieter/SKILL.md"
+  },
+  {
+    "number": 163,
+    "sha": "00b793b9b78f11f6c4e8924fd5786cc69d48e459",
+    "repository": "lowdefy/lowdefy",
+    "path": ".claude/skills/l-pr/SKILL.md"
+  },
+  {
+    "number": 164,
+    "sha": "00290c96cce86d352461407e561b58c27bc587af",
+    "repository": "Klotzkette/claude-fuer-deutsches-recht",
+    "path": "immobilienrechtspraxis/skills/immor-erbbaurecht-vertrag-spezial/SKILL.md"
+  },
+  {
+    "number": 165,
+    "sha": "0027e049433c6bb37ae4a0700dc927e7bb7abd00",
+    "repository": "dansusman/skills",
+    "path": "grill-me/SKILL.md"
+  },
+  {
+    "number": 166,
+    "sha": "013b3a7ac738c2c552d43a30cc86e8111b1f5882",
+    "repository": "AcidicSoil/skill-porter",
+    "path": "examples/before-after/code-formatter-converted/SKILL.md"
+  },
+  {
+    "number": 167,
+    "sha": "005a1725d1157e2f109137d81b4dd538ee3e54bf",
+    "repository": "datadog-labs/agent-skills",
+    "path": "dd-apm/service-remapping/SKILL.md"
+  },
+  {
+    "number": 168,
+    "sha": "00c349a93802ba31bcb004c26a1c47adb040a164",
+    "repository": "Apartsalan/luxis",
+    "path": ".claude/skills/bekende-fouten/SKILL.md"
+  },
+  {
+    "number": 169,
+    "sha": "0161126791f89dee2f76ad5c614eb33d860eb067",
+    "repository": "jberlanga748-a11y/concrete-ops-2",
+    "path": ".agents/skills/apex-sales-outreach/SKILL.md"
+  },
+  {
+    "number": 170,
+    "sha": "00c14137f9a7a89d9be869b19e3a574d19e4fe20",
+    "repository": "dvcrn/openclaw-skills-marketplace",
+    "path": "plugins/alirezarezvani--ui-design-system/skills/ui-design-system/SKILL.md"
+  },
+  {
+    "number": 171,
+    "sha": "004c66b1e7a5a7f3b08813b786475b9b60c08e62",
+    "repository": "BB-84C/omo-slim-superpowers-patch-kit",
+    "path": "opencode-config/skills/best-of-n-with-judge/SKILL.md"
+  },
+  {
+    "number": 172,
+    "sha": "008c0b7c9c064f0bdda211279fdcf9d51690f7ba",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/gh-ci-triage/SKILL.md"
+  },
+  {
+    "number": 173,
+    "sha": "010c77a1e2cf0e3fe0bdd460a053f408be7f6015",
+    "repository": "vamseeachanta/workspace-hub",
+    "path": ".agents/skills/_archive/business/legal/canned-responses/required-customization/SKILL.md"
+  },
+  {
+    "number": 174,
+    "sha": "00d476d8a7d210a3b154586cf297eb1eab4de946",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/data-ai/monitor-db/SKILL.md"
+  },
+  {
+    "number": 175,
+    "sha": "003d27a522f2fe7ba7ecc89a643adb108cc15379",
+    "repository": "lxyeternal/MalSkillBench",
+    "path": "Dataset/Skills/malware/task-swarm-controller/SKILL.md"
+  },
+  {
+    "number": 176,
+    "sha": "01957ae18f377a070d187f3c52465f5ad529b7c6",
+    "repository": "stacklok/toolhive",
+    "path": ".claude/skills/code-review-assist/SKILL.md"
+  },
+  {
+    "number": 177,
+    "sha": "005a7c7000118ecd2d20074f073d00e1bc82b215",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/file-archiver/SKILL.md"
+  },
+  {
+    "number": 178,
+    "sha": "00d96e316eb36ced1ea63a5ee5823a9b11bac60e",
+    "repository": "yogsoth-ai/de-anthropocentric-research-engine",
+    "path": "skills/forced-bridge-construction/SKILL.md"
+  },
+  {
+    "number": 179,
+    "sha": "014ee1bf27447b10f795618f056ef3ae673b8eae",
+    "repository": "ewe-studios/agentic-coding-starter",
+    "path": "skills/code-verification/skill.md"
+  },
+  {
+    "number": 180,
+    "sha": "011c857405b06bb421dd1680a9229abc7bb6595a",
+    "repository": "a-ng-d/claude-ui-color-palette",
+    "path": "skills/gitlab-cli-skills/glab-auth/SKILL.md"
+  },
+  {
+    "number": 181,
+    "sha": "01803e4ae3ea04fd74d94089804606240377aba6",
+    "repository": "arkilstsko/Codex-Game-Studio",
+    "path": "codex-adapter/skills/ccgs-create-epics/SKILL.md"
+  },
+  {
+    "number": 182,
+    "sha": "00aae9c2a65b4e0842a7b59b66867311c18220a1",
+    "repository": "lichao689/woeai",
+    "path": ".agents/skills/wechat-paper/SKILL.md"
+  },
+  {
+    "number": 183,
+    "sha": "010d3212aa54083bacaf64306902a3bb39543331",
+    "repository": "stericishere/skills",
+    "path": "build/SKILL.md"
+  },
+  {
+    "number": 184,
+    "sha": "007031631305b3a76e2d0b2675aba179e5837835",
+    "repository": "lgjsd/StoryShell",
+    "path": "openclaw/skills/story-authoring/SKILL.md"
+  },
+  {
+    "number": 185,
+    "sha": "00bef2e1bafe5716d6d4cf3712daeca28a7ae024",
+    "repository": "caishengold/ai-agent-ops",
+    "path": "skills/academic-paper-reviewer/SKILL.md"
+  },
+  {
+    "number": 186,
+    "sha": "0132be48f9fe0380f1541bebd4a6ca9e2e0edb38",
+    "repository": "eose23-beep/hair-by-william",
+    "path": ".agents/skills/specialized-workflow-architect/SKILL.md"
+  },
+  {
+    "number": 187,
+    "sha": "013a95309e4cb97e1cdc09e8a447855d2d57aeec",
+    "repository": "L1l1thLY/skill-creator-claw",
+    "path": "skill-creator-claw/SKILL.md"
+  },
+  {
+    "number": 188,
+    "sha": "00079874bb5784070d1f2180203195030d9ae12c",
+    "repository": "eliferjunior/Claude",
+    "path": ".claude/skills/ts-code-reviewer/SKILL.md"
+  },
+  {
+    "number": 189,
+    "sha": "00d4ebfd3badffd52464ca979b3cb93ee5f16305",
+    "repository": "kl3inIT/ai-agent-core",
+    "path": ".claude/skills/jmix-create-list-view/SKILL.md"
+  },
+  {
+    "number": 190,
+    "sha": "00cdad7087f52dedef549a769127a25639eb7563",
+    "repository": "modbender/skill-library-mcp",
+    "path": "data/crow/SKILL.md"
+  },
+  {
+    "number": 191,
+    "sha": "0066f7768705c680a30468ec54782cb9610c4a4f",
+    "repository": "levu304/claude-code-boilerplate",
+    "path": ".claude/skills/review-pr/SKILL.md"
+  },
+  {
+    "number": 192,
+    "sha": "01a48f2b21adfae295d507e7e180e700b3a82382",
+    "repository": "NeuralBlitz/ncx",
+    "path": "buggy/ncx/.opencode/skills/nonlinear-numerical-analysis-analysis/SKILL.md"
+  },
+  {
+    "number": 193,
+    "sha": "00f033d964b5f7ef3283dc83745ff0df70e6f320",
+    "repository": "Dkalds/TenderFlow",
+    "path": ".claude/skills/upstash-vector-js/SKILL.md"
+  },
+  {
+    "number": 194,
+    "sha": "00c5afde72313bce6bd8c4c3f78de51c143817ee",
+    "repository": "ComeOnOliver/skillshub",
+    "path": "skills/jeremylongshore/claude-code-plugins-plus-skills/attio-debug-bundle/SKILL.md"
+  },
+  {
+    "number": 195,
+    "sha": "0173b9206b61a03385c620699399b3bd9ce35ebd",
+    "repository": "NeuralBlitz/ncx",
+    "path": "ncx/.opencode/skills/continuous-parasitology-troubleshooting/SKILL.md"
+  },
+  {
+    "number": 196,
+    "sha": "017354eb7818d127e0e358afac9052eefaa1b515",
+    "repository": "engremran07/gsmvault",
+    "path": ".claude/skills/static-assets/SKILL.md"
+  },
+  {
+    "number": 197,
+    "sha": "00e9f7d1d5ec7831b68d0651068a7d9b725379c8",
+    "repository": "Nakshatra-Vashistha/forge2-qualifier-nakshatraold",
+    "path": "skills/status-report/SKILL.md"
+  },
+  {
+    "number": 198,
+    "sha": "00f8079c44a9d9caec768ba0ff705f4bc915dd39",
+    "repository": "gaegulgaegul/gaegulzip",
+    "path": ".claude/skills/pdca/SKILL.md"
+  },
+  {
+    "number": 199,
+    "sha": "019bfb91384f40f1c334bf3845f84778f6234d43",
+    "repository": "RockaRhymeLLC/kithkit-a2a-client",
+    "path": "skills/agent-comms/SKILL.md"
+  },
+  {
+    "number": 200,
+    "sha": "00016d74de04c71bdbde7f41ae4a34b7849e9849",
+    "repository": "zwright8/OpenClaw-Code",
+    "path": "skills/generated/shards/tools01/0036-jira-report-builder/SKILL.md"
+  },
+  {
+    "number": 201,
+    "sha": "00808d98bc5733dbfd41fbbce4d666f08e3d2d3a",
+    "repository": "qhjqhj00/research-skills-pool",
+    "path": "skill-factory/output/clicktok-eval/SKILL.md"
+  },
+  {
+    "number": 202,
+    "sha": "009d3dcad191ca08ef20308b0e2930214ec6cdfb",
+    "repository": "milanhorvatovic/skill-system-foundry",
+    "path": ".agents/skills/local-ci-code-review/SKILL.md"
+  },
+  {
+    "number": 203,
+    "sha": "008ff392da084af23a1f9d0591c205fe2b15252e",
+    "repository": "firebitsbr/Writeups-claudeskills",
+    "path": "claudeskills/writeup-r0nen/SKILL.md"
+  },
+  {
+    "number": 204,
+    "sha": "0186d81d095eb6a597359c425f34af399b4ec391",
+    "repository": "ali-master/skills",
+    "path": "skills/orpc-batch-requests/SKILL.md"
+  },
+  {
+    "number": 205,
+    "sha": "0061ac29be8ab1d28f858d3f7379ca369e3acbf2",
+    "repository": "Jaseelkt007/Robotics_berlin_hack",
+    "path": ".claude/skills/box-stacker/SKILL.md"
+  },
+  {
+    "number": 206,
+    "sha": "01389264bec96f4a1acdc209ecf2f7ac4c4d7d18",
+    "repository": "selmer512/mira_assistant",
+    "path": "skills/music_audio_toolkit_skill/SKILL.md"
+  },
+  {
+    "number": 207,
+    "sha": "01814d0b225df447390331981a83d25f659a66b5",
+    "repository": "togorashi45/skills-directory",
+    "path": "re-appointment-setter/SKILL.md"
+  },
+  {
+    "number": 208,
+    "sha": "0119637095ea8fe31cdfae7f55052fd1f3a35bb3",
+    "repository": "avvale/aurora-back",
+    "path": ".claude/skills/aurora-tools-scripts/SKILL.md"
+  },
+  {
+    "number": 209,
+    "sha": "005d76cd388acbc590a3ee2f950b8b5156468222",
+    "repository": "smyx-sunjinhui/smyx-open-claw-skills",
+    "path": "skills/smyx-grooming-effect-assessment-analysis/SKILL.md"
+  },
+  {
+    "number": 210,
+    "sha": "014501d65f2df5572ce7986822f1528b2834c95c",
+    "repository": "Demerzels-lab/elsamultiskillagent",
+    "path": "public/skills/linhui1010/asdasdsasdasa12312/SKILL.md"
+  },
+  {
+    "number": 211,
+    "sha": "0041a1faa4ad5914f6cdd703d6a2eff4444163ce",
+    "repository": "hiyenwong/ai_collection",
+    "path": "collection/skills/neuroscience/naimark-qnn-measurement-circuits/SKILL.md"
+  },
+  {
+    "number": 212,
+    "sha": "01199328d45c8acead630b84d9aed97b42be5ad3",
+    "repository": "pcitalian/pcplayground",
+    "path": "openclaw/workspace/skills/device-management/SKILL.md"
+  },
+  {
+    "number": 213,
+    "sha": "008f6be1201742d7db166ad7e90f19bb5c9e3505",
+    "repository": "Aradotso/mcp-skills",
+    "path": "skills/vulnerable-mcp-servers-lab/SKILL.md"
+  },
+  {
+    "number": 214,
+    "sha": "0061ea0c97016b898d650b65f5513e84bc506ee8",
+    "repository": "sbetav/fortnite-item-shop-scraper",
+    "path": ".agents/skills/pytest/SKILL.md"
+  },
+  {
+    "number": 215,
+    "sha": "00a2ec4efdeea39be6db50dcad24d7b55dc2649a",
+    "repository": "gabrielmoreira/agent-skills-mirror",
+    "path": "mirrors/repos/dadbodgeoff@drift/drift v1 depreciated/skills/sse-resilience/SKILL.md"
+  },
+  {
+    "number": 216,
+    "sha": "00322e030fb818e62bb30ff61933344541952c93",
+    "repository": "cic8822-cpu/20260710",
+    "path": "skill 모음/1._(skill)_harness-100 skills/ko/76-travel-planner/.claude/skills/budget-calculator/skill.md"
+  },
+  {
+    "number": 217,
+    "sha": "00b9681431fdb1b84208b506306f61eb0853846a",
+    "repository": "gaaschk/gaasch-family",
+    "path": ".claude/skills/gstack/.agents/skills/gstack-plan-design-review/SKILL.md"
+  },
+  {
+    "number": 218,
+    "sha": "01aed9297187a1b61949f4e565a0c69eeb45b6b3",
+    "repository": "RUC-NLPIR/ClawTrojan",
+    "path": "claw_trojan/envs/cs_delay_002/step_1/workspace/skills/planning-with-files/SKILL.md"
+  },
+  {
+    "number": 219,
+    "sha": "019f3c3395ec3cc3dc7e289b5e04852d236654e7",
+    "repository": "christophacham/agent-skills-library",
+    "path": "skills/agents/memory-systems/SKILL.md"
+  },
+  {
+    "number": 220,
+    "sha": "0190a6e28506ae5ea5fe58422a19cfff122f56d2",
+    "repository": "third774/dotfiles",
+    "path": "opencode/skills/systematic-debugging/SKILL.md"
+  },
+  {
+    "number": 221,
+    "sha": "001ba5ff5db6c905e55cd6c997e07bf0451e1aec",
+    "repository": "karais89/agent-skills-for-codex",
+    "path": "harness/source/full/root/.agents/skills/security-and-hardening/SKILL.md"
+  },
+  {
+    "number": 222,
+    "sha": "0067baa815128ecc3c68666b50d58c4120c9f70e",
+    "repository": "abdulbasit742/anydesk",
+    "path": ".agents/skills/skill_gen_397/SKILL.md"
+  },
+  {
+    "number": 223,
+    "sha": "00b15a35dcfb5cd5c46f1a5f550c785e10f32b70",
+    "repository": "waldokilian2/unravel",
+    "path": "skills/extract-api-contracts/SKILL.md"
+  },
+  {
+    "number": 224,
+    "sha": "010d8f4b51db5a6929a55ab210896b57b7504a12",
+    "repository": "Lord1Egypt/awesome-skill-forge",
+    "path": "community/clawhub/h/hr-ai-assistant/SKILL.md"
+  },
+  {
+    "number": 225,
+    "sha": "00c5ca9deb2ff01450b534739f6f745998f9de32",
+    "repository": "dg/agent-persona",
+    "path": "skills/kkrdboys/SKILL.md"
+  },
+  {
+    "number": 226,
+    "sha": "011cf1003160dad2cb3eb3971a741461c8c895ce",
+    "repository": "NeuralBlitz/Agent-Gateway",
+    "path": "agent-gateway/skills/user/continuous-clustering-design/SKILL.md"
+  },
+  {
+    "number": 227,
+    "sha": "0019a291648900c3bcf96c5535fcc9980c5ff36f",
+    "repository": "UitbreidenOS/UitKit",
+    "path": "plugins/uitkit-backend/skills/nodejs__react/SKILL.md"
+  },
+  {
+    "number": 228,
+    "sha": "00e7d86a79b473c46b83a52657bcb0c36edac7cd",
+    "repository": "OrangeViolin/content-pipeline",
+    "path": "SKILL.md"
+  },
+  {
+    "number": 229,
+    "sha": "00d012edd9326a30a600e4f2db3c2789a416230f",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/nova-net-worth/SKILL.md"
+  },
+  {
+    "number": 230,
+    "sha": "0057a5f72d895daaa1898ada66cb5e7e1567a40b",
+    "repository": "knownasnaffy/prompthound",
+    "path": "dataset/case_04351/SKILL.md"
+  },
+  {
+    "number": 231,
+    "sha": "01826596f21aefd4213fce1295d779cdd7becbc7",
+    "repository": "ibragimov-oasis/name-navigator",
+    "path": ".antigravity/skills/skills-antigravity/source-antigravity-awesome-skills/plugins/antigravity-awesome-skills/skills/ai-studio-image/SKILL.md"
+  },
+  {
+    "number": 232,
+    "sha": "01577138c13ef58e1ea30562189161fb0c89d879",
+    "repository": "David-Li0406/meta-skill-evloving",
+    "path": "AutoSkill/SkillBank/ConvSkill/english_gpt4_8_GLM4.7/generate_presentation_notes/SKILL.md"
+  },
+  {
+    "number": 233,
+    "sha": "00764146bf70a920a17d5b5fac29972e7f506c18",
+    "repository": "duc-cute/course-english",
+    "path": "course_english_frontend/.cursor/skills/admin-exam-editor-ui/SKILL.md"
+  },
+  {
+    "number": 234,
+    "sha": "01114be17b38f2d7dbaa9bbe5fda3305794ae87d",
+    "repository": "mrilikecoding/dotfiles",
+    "path": "home/.vibe/skills/argument-audit/SKILL.md"
+  },
+  {
+    "number": 235,
+    "sha": "014f8ecbcb92464a8af680a95a86334977a63a68",
+    "repository": "creator-hian/claude-code-plugins",
+    "path": "csharp-plugin/skills/csharp-xml-docs/SKILL.md"
+  },
+  {
+    "number": 236,
+    "sha": "010f6a227f0ea5a2ba1e550970ca07c50b7bd3e0",
+    "repository": "aibot88/sec_skill_store",
+    "path": "skills/claudskills/radicale-self-hosted-caldav-carddav-server/SKILL.md"
+  },
+  {
+    "number": 237,
+    "sha": "002f0b2f4209b2d4690204dd9894f923fec25ab2",
+    "repository": "nomotomo/syn-grid-client",
+    "path": ".cursor/skills/godot-input-and-controls/SKILL.md"
+  },
+  {
+    "number": 238,
+    "sha": "0103b0be26815c1c3ba1d9ba9797c0d3b72bd7aa",
+    "repository": "marconardelli/rl-skills",
+    "path": "skills/designing-deterministic-eval-loop/SKILL.md"
+  },
+  {
+    "number": 239,
+    "sha": "01383399da6cecd844f70a0c67522139166e421d",
+    "repository": "Baltsat/harness",
+    "path": "tools/claude/skills/agent-browser/SKILL.md"
+  },
+  {
+    "number": 240,
+    "sha": "0067d980b45dc19cbbfa656a2e74d856287db353",
+    "repository": "johwer/marketplace",
+    "path": "skills/request-refactor-plan/SKILL.md"
+  },
+  {
+    "number": 241,
+    "sha": "004d9f1844fc677e7c1602d7a6f8cc47b602e7b1",
+    "repository": "William-kelvem94/Will-obsidian",
+    "path": ".continue/skills/bigquery-basics/SKILL.md"
+  },
+  {
+    "number": 242,
+    "sha": "007fb9f541359b8220174dbe72317a674879ce11",
+    "repository": "mshron/polynumeral-assistant",
+    "path": "workspace/skills/agent-browser/SKILL.md"
+  },
+  {
+    "number": 243,
+    "sha": "002933a63cc0487cec5cc4665f8d817d350f6709",
+    "repository": "FerroxLabs/wayland",
+    "path": "src/process/resources/skills-library/bodies/skills/career-development/skill-gap-analysis/SKILL.md"
+  },
+  {
+    "number": 244,
+    "sha": "0160f157f0cc860650cf5860458f928c4bcef035",
+    "repository": "Brmbobo/Web2podcast",
+    "path": ".claude/agents/enterprise-frontend-design/agents/saas-packs/exa-pack/skills/exa-core-workflow-b/SKILL.md"
+  },
+  {
+    "number": 245,
+    "sha": "01059636d74954b81bf8f5cd11dad995b2cd2b3d",
+    "repository": "ygolan93/BeaverMania",
+    "path": ".agents/skills/unity-ui-controller/SKILL.md"
+  },
+  {
+    "number": 246,
+    "sha": "00b5483dcb137e064173cacb059dd30d1f58a0f4",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/gitlab-ci/SKILL.md"
+  },
+  {
+    "number": 247,
+    "sha": "00f2519647155837492baad80befed68c2d5c26a",
+    "repository": "phuccodenub/Kit_Analyze",
+    "path": "Antigravity_Kit/packages/springboot-kit/src/skills/spring-security/SKILL.md"
+  },
+  {
+    "number": 248,
+    "sha": "00f50a5f939b7f9d68a413649b872c5e24244147",
+    "repository": "Kimurist2024/rverythong-skills",
+    "path": "skills/implementing-continuous-security-validation-with-bas/SKILL.md"
+  },
+  {
+    "number": 249,
+    "sha": "00f7a9045b547a34004b928e91469d5a984c202d",
+    "repository": "theycallmeigor/Thermoslim-Intel-Platform",
+    "path": ".claude/skills/code-reviewer/SKILL.md"
+  },
+  {
+    "number": 250,
+    "sha": "012d7bc1c7c82c917120056a2f7624ec7ae6736d",
+    "repository": "ifernandez89/productos_crud_bkd",
+    "path": "skills/assistant-behavior/skill.md"
+  },
+  {
+    "number": 251,
+    "sha": "009b280195bb4cf470fde40630db0e08c8069b76",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/create-feature-branch/SKILL.md"
+  },
+  {
+    "number": 252,
+    "sha": "019b999d43402b3ffb79551069c63cfad3955d8c",
+    "repository": "apresmoi/unpack",
+    "path": ".claude/skills/up-init/SKILL.md"
+  },
+  {
+    "number": 253,
+    "sha": "00104ab552e3b8dc88538a199b3a56d1ebb6cdab",
+    "repository": "majiayu000/claude-skill-registry",
+    "path": "skills/performance/storefront-health/SKILL.md"
+  },
+  {
+    "number": 254,
+    "sha": "008154c83d3dc826a1e50eaa27bd0a8f5d2c16ed",
+    "repository": "roseDwayane/forecasting_the_brain",
+    "path": ".claude/skills/bilingual-translation/SKILL.md"
+  },
+  {
+    "number": 255,
+    "sha": "00b44c813032d93c97cc2f12596560f00ab64a14",
+    "repository": "Joshu2001/Regaarder-Compose",
+    "path": ".agents/skills/color-hierarchy-resolution/SKILL.md"
+  },
+  {
+    "number": 256,
+    "sha": "00d8aa5a4adc90089a76c6e6d901d9db1313c1cb",
+    "repository": "heymishy/2x2-v3-28-03-20216",
+    "path": ".github/skills/ea-registry/SKILL.md"
+  },
+  {
+    "number": 257,
+    "sha": "0185534395a283f08b434c864ff31e66970ac5c2",
+    "repository": "Klotzkette/claude-fuer-deutsches-recht",
+    "path": "gebrauchsmusterrecht/skills/lizenzvertrag-gebrauchsmuster/SKILL.md"
+  },
+  {
+    "number": 258,
+    "sha": "0172e77e9cda3264fffe95973ab18c4d1f0f036b",
+    "repository": "marketingLendario/cohort-de-marketing",
+    "path": ".claude/skills/design-md/SKILL.md"
+  },
+  {
+    "number": 259,
+    "sha": "016ebe4c467461968b5e174cd02f9d56b949b07c",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "integration/web3-manager/SKILL.md"
+  },
+  {
+    "number": 260,
+    "sha": "006c7e8791fc740f107263b218e7fedce91e54a6",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/cdd-gather-context/SKILL.md"
+  },
+  {
+    "number": 261,
+    "sha": "0195ca1b23dae98d732817c5a19bd1695a05baf3",
+    "repository": "viloc2b-a11y/Vilo-Research-OS",
+    "path": "vilo-skills/stock-analysis/SKILL.md"
+  },
+  {
+    "number": 262,
+    "sha": "003c7d54fd1a517b88a339e03b40d1b0059318ba",
+    "repository": "DVampire/AgentEvolver",
+    "path": "agentevolver/skill/creator/skill_creator_skill/SKILL.md"
+  },
+  {
+    "number": 263,
+    "sha": "004c340fdf90f18c8e6526abcce78db79b7d0e3c",
+    "repository": "muminkoykiran/uptime-sage",
+    "path": ".agents/skills/telegram-dispatch/SKILL.md"
+  },
+  {
+    "number": 264,
+    "sha": "0005bfdfffae9c0aa20b16c806c33b47bb41cc1c",
+    "repository": "vitorsoratto/skills",
+    "path": "mongodb-expert/SKILL.md"
+  },
+  {
+    "number": 265,
+    "sha": "000d08c366f931a70d8e5b62c8b4a52f3fdeeaff",
+    "repository": "jwnichols3/bmad-kiro-agents",
+    "path": ".kiro/skills/create-epics/SKILL.md"
+  },
+  {
+    "number": 266,
+    "sha": "004ddd2276892bd9010466bb25d9899ec602b43b",
+    "repository": "NeuralBlitz/ncx",
+    "path": "buggy/ncx/.opencode/skills/numerical-mineralogy-interpretation/SKILL.md"
+  },
+  {
+    "number": 267,
+    "sha": "00ad9eba9e2f08d5c39f82d30ae4e806d21f5b33",
+    "repository": "billydeeii136/black-opps-gstack",
+    "path": "devex-review/SKILL.md"
+  },
+  {
+    "number": 268,
+    "sha": "00ffaec6208faf7436da10a0603798709ca4747b",
+    "repository": "ComeOnOliver/skillshub",
+    "path": "skills/jeremylongshore/claude-code-plugins-plus-skills/coderabbit-local-dev-loop/SKILL.md"
+  },
+  {
+    "number": 269,
+    "sha": "00b9df82312b38d3e4fbe05fbf42e91b8487518b",
+    "repository": "laudoluxDev/lawtasksai-api",
+    "path": "loader/eventplanner/SKILL.md"
+  },
+  {
+    "number": 270,
+    "sha": "01b1d73b559bc2383c629e03f5b67b178de7b6a9",
+    "repository": "ComeOnOliver/skillshub",
+    "path": "skills/CharlesWiltgen/Axiom/axiom-xctrace-ref/SKILL.md"
+  },
+  {
+    "number": 271,
+    "sha": "000bb0ca148f052c677bb7e86b9a843ac3cc0794",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/clawhub-auto-publisher/SKILL.md"
+  },
+  {
+    "number": 272,
+    "sha": "00e876f2057774fa2894e45b89b0861e5205485d",
+    "repository": "codekiln/logseq-encode-garden",
+    "path": ".agents/skills/readwise-skills-sync/SKILL.md"
+  },
+  {
+    "number": 273,
+    "sha": "00d210853a80c94c4d15a0860ed744f53dc7e906",
+    "repository": "microsoft/vscode-team-kit",
+    "path": "github-inbox/skills/inbox-mark-all-read/SKILL.md"
+  },
+  {
+    "number": 274,
+    "sha": "00881feef82c5a520bf77981b4d1da9ca8b4195a",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/ops-detection-incident-routing/SKILL.md"
+  },
+  {
+    "number": 275,
+    "sha": "015fe7a74230831f1bae19000847192629402e83",
+    "repository": "jimiryquai/pi-agent",
+    "path": "skills/compound/SKILL.md"
+  },
+  {
+    "number": 276,
+    "sha": "00e3442800f2685a76be32060852957fb7e9a954",
+    "repository": "MAMAOUTALIBE/GESTION-ECOLE",
+    "path": ".claude/skills/developpeur/SKILL.md"
+  },
+  {
+    "number": 277,
+    "sha": "00d13abfe709370d3d1e3b997e2fe7bfbf2c44c4",
+    "repository": "MaTriXy/babysitter-codex",
+    "path": "upstream/babysitter/skills/babysit/process/specializations/domains/science/chemical-engineering/skills/corrosion-materials-selector/SKILL.md"
+  },
+  {
+    "number": 278,
+    "sha": "0174c5daf4195dfac6e08da97e1258f92d853f5b",
+    "repository": "nyvlemyt/MultiAgentOS",
+    "path": "packages/skills/library/seo/SKILL.md"
+  },
+  {
+    "number": 279,
+    "sha": "01895e923cda2c610d36cbeb75be967ad15cca68",
+    "repository": "tmdgusya/hermes-provider-switcher",
+    "path": "skills/setup/SKILL.md"
+  },
+  {
+    "number": 280,
+    "sha": "00f9ae8a983c55c21b30d3939a5c59aebe82375a",
+    "repository": "Lord1Egypt/awesome-skill-forge",
+    "path": "community/clawhub/a/audio-translator/SKILL.md"
+  },
+  {
+    "number": 281,
+    "sha": "00d3a836c7f8008ad350132a1b51a449c05d7863",
+    "repository": "flight505/skill-forge",
+    "path": "plugins/saas-packs/juicebox-pack/skills/juicebox-webhooks-events/SKILL.md"
+  },
+  {
+    "number": 282,
+    "sha": "015758f75665614b6a381997b54f99014e851d29",
+    "repository": "ForceInjection/domain-driven-design-skills",
+    "path": "relative-skills/claude-skill-registry/skills/productivity/kanban-qa-simonblancoe-kanban-mcp/SKILL.md"
+  },
+  {
+    "number": 283,
+    "sha": "010c025744a92c874ca09a973d4caf6fec65b8bf",
+    "repository": "David-Li0406/meta-skill-evloving",
+    "path": "skill-flow/data/skills-refined-36k/skillsmp/merged-d7313a687dcd3fc3-fetch-rss-feeds/SKILL.md"
+  },
+  {
+    "number": 284,
+    "sha": "00ea8bd7ff03f02293c8a18c11fc14a14f658f1c",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/security-checklist/SKILL.md"
+  },
+  {
+    "number": 285,
+    "sha": "001b467f6f3ece7e02b25748cacef74dd2e7a1e1",
+    "repository": "ramzihizi/dotfiles",
+    "path": "claude/skills/handoff/SKILL.md"
+  },
+  {
+    "number": 286,
+    "sha": "017affe30735dcc04c7ad0ec5d04568edeb77965",
+    "repository": "aj1126/antigravity-token-optimizations",
+    "path": "templates/skills/git-check-commit-push/SKILL.md"
+  },
+  {
+    "number": 287,
+    "sha": "01a5e21f3becd625e2eff7822cd2fd7bf14a2450",
+    "repository": "johfrah/voices-vercel",
+    "path": ".cursor/skills-archive/theme-dark-scan/SKILL.md"
+  },
+  {
+    "number": 288,
+    "sha": "0160f68477e82baf36b03e5b42b4b789e985e0f0",
+    "repository": "harshana-ukhsa/govask",
+    "path": ".github/skills/build-presentation/SKILL.md"
+  },
+  {
+    "number": 289,
+    "sha": "0137fa2a88dddc1b4e5087979780942d9f478105",
+    "repository": "vmaia00/claude-specs",
+    "path": "plugins/pm/skills/porters-five-forces/SKILL.md"
+  },
+  {
+    "number": 290,
+    "sha": "011f17598d774065c3a44df1eae1bb15de64b3ec",
+    "repository": "grahama1970/agent-skills",
+    "path": "skills.pre-symlink-1776435493/tts-horus/taxonomy/SKILL.md"
+  },
+  {
+    "number": 291,
+    "sha": "003108d679304bcdfd3aa59cc51fc3aee74f685b",
+    "repository": "harir03/promptwars2.0",
+    "path": ".antigravity/skills/karpathy-guidelines/SKILL.md"
+  },
+  {
+    "number": 292,
+    "sha": "003ca49c31ace2f3e6b012a3105fb51ed7cff1d4",
+    "repository": "klod68/littlerae",
+    "path": ".claude/skills/grpc-standards/SKILL.md"
+  },
+  {
+    "number": 293,
+    "sha": "00176ea6ecefd30a5749d68f63b23e2e8a03571f",
+    "repository": "etacCAD/my-claude-skills",
+    "path": "skills/test-engineer/SKILL.md"
+  },
+  {
+    "number": 294,
+    "sha": "00b12086d5e187497fc5602dc28b300ac8fe3141",
+    "repository": "k821209/co-scientist-mcp-public",
+    "path": "apps/local-mcp/co_scientist_local/skills/paper-export/SKILL.md"
+  },
+  {
+    "number": 295,
+    "sha": "01784c9b973147e135ce2499c249fb03596644e2",
+    "repository": "devjotaduo/picoclaw",
+    "path": "internal/saas/api/baseline-workspace/skills/vendas/agendar-reuniao/SKILL.md"
+  },
+  {
+    "number": 296,
+    "sha": "013c7636085eb13f46f0e0972346af860c6766ad",
+    "repository": "continuity-bridge/continuity-bridge",
+    "path": ".claude/FOUNDATION/SKILLS/FOCUS_SHEPHERD/SKILL.md"
+  },
+  {
+    "number": 297,
+    "sha": "006362c61c091464d8f7e838094c2f9f0b58775a",
+    "repository": "epci971/claude-epci",
+    "path": "archive/5.4/skills/core/breakpoint-display/SKILL.md"
+  },
+  {
+    "number": 298,
+    "sha": "008c11f198453be76e53c9d724449477433f77ba",
+    "repository": "KarubiOhayo/Dev-Agent-Orchestrator",
+    "path": ".agents/skills/round-main-control/SKILL.md"
+  },
+  {
+    "number": 299,
+    "sha": "005c81548490a3296d61b905dc2a2bc423022a5d",
+    "repository": "RelevanceAI/agent-skills",
+    "path": "SKILL.md"
+  },
+  {
+    "number": 300,
+    "sha": "016dee437eb6c7a12f63bb64b964a13eb8ea0e01",
+    "repository": "Tassadar2499/NovaTune",
+    "path": ".codex/skills/add-outbox-pattern/SKILL.md"
+  },
+  {
+    "number": 301,
+    "sha": "00936cf7d4f538d5925e68cd2a38b88d1b959d07",
+    "repository": "tools-only/X-Skills",
+    "path": "development/075-agents_2b784408/skill.md"
+  },
+  {
+    "number": 302,
+    "sha": "013da72f921d0e5d55e24d03b6cdb81db0f4e3cb",
+    "repository": "eladb/2nd-hand-seller",
+    "path": ".claude/skills/post-to-yad2/SKILL.md"
+  },
+  {
+    "number": 303,
+    "sha": "01161e87618db1135f14aefafaa346b9132fc495",
+    "repository": "opencue/skills",
+    "path": "skills/rust/sccache/SKILL.md"
+  },
+  {
+    "number": 304,
+    "sha": "00748695f17767b1280e359d178100114f5ab694",
+    "repository": "kbaseincubator/BERIL-research-observatory",
+    "path": ".claude/skills/remote-compute/SKILL.md"
+  },
+  {
+    "number": 305,
+    "sha": "00bd1daf2e2289f03b67e8cdd7545d04ba783b37",
+    "repository": "mahg-es/araya",
+    "path": "skills/pm-status/SKILL.md"
+  },
+  {
+    "number": 306,
+    "sha": "014f9d98da6296aaac8debf409137e1b742a6987",
+    "repository": "blame19/claude-skills",
+    "path": "terraform-tests/SKILL.md"
+  },
+  {
+    "number": 307,
+    "sha": "000ff011c6054482a58a7e9386f183a3e31095b3",
+    "repository": "Hbah8/swade-app",
+    "path": ".github/agents/skills/release-procedures/SKILL.md"
+  },
+  {
+    "number": 308,
+    "sha": "000c0571a199f121252a6166399060745cb3934a",
+    "repository": "simtransforma/HAOS_CC",
+    "path": "skills/haos-memory-triple/SKILL.md"
+  },
+  {
+    "number": 309,
+    "sha": "008e50d1c4119fa0c1d1189aa193f25bdf94f7d9",
+    "repository": "plops/cl-cpp-generator2",
+    "path": ".agents/skills/cl-cpp-generator2/SKILL.md"
+  },
+  {
+    "number": 310,
+    "sha": "01521aaa4aa54aefa5a732a455cd33c9149aa350",
+    "repository": "blackplume233/UnrealMCPHub",
+    "path": "skills/use-unrealhub/SKILL.md"
+  },
+  {
+    "number": 311,
+    "sha": "018009e26226c8aebc7e62f994edf62ffb72a860",
+    "repository": "ToanPV90/dotfiles",
+    "path": "claude/.claude/skills/unfreeze/SKILL.md"
+  },
+  {
+    "number": 312,
+    "sha": "00deb5afa6870869a64ae86f2c4a10d0eddc7e26",
+    "repository": "AI4Scientist/nano-scientist",
+    "path": "skills/arxiv/SKILL.md"
+  },
+  {
+    "number": 313,
+    "sha": "00e60fc035f051b8550f87b9f3982b535eb7f76b",
+    "repository": "euroconic/noter",
+    "path": "skills/electron-ipc-bridge/SKILL.md"
+  },
+  {
+    "number": 314,
+    "sha": "0035b10f2193bbff27c19e28c057a31bea081da7",
+    "repository": "monotio/spa-vue-template",
+    "path": ".claude/skills/bump-deps/SKILL.md"
+  },
+  {
+    "number": 315,
+    "sha": "0116c78e21c33e42f856104ba3f3e7d970bd3d97",
+    "repository": "davidkdickson/dotfiles",
+    "path": "agent/skills/todo-opez/SKILL.md"
+  },
+  {
+    "number": 316,
+    "sha": "0181c73c94ebb71d4dd94cbc7b95e6402fda4b56",
+    "repository": "modbender/skill-library-mcp",
+    "path": "data/homepod-tts/SKILL.md"
+  },
+  {
+    "number": 317,
+    "sha": "010fe6970da5e06d0f5c79ec946cb7488eb14640",
+    "repository": "dededecline/dotfiles",
+    "path": "claude/skills/security-review/SKILL.md"
+  },
+  {
+    "number": 318,
+    "sha": "002b2fec5738dfd8461071a3d448bb4bba541805",
+    "repository": "contentincubator2-ops/sowork-agents",
+    "path": "skills/content-calendar/monthly-report-content-plan/SKILL.md"
+  },
+  {
+    "number": 319,
+    "sha": "014553ac2abf20f70664497c2f830e35ead0e6d5",
+    "repository": "Aznatkoiny/zAI-Skills",
+    "path": "consulting-toolkit/skills/consulting-frameworks/SKILL.md"
+  },
+  {
+    "number": 320,
+    "sha": "005b44b764b7ef67cadb91a303753ab7188e8946",
+    "repository": "dominicusin/Surypus",
+    "path": ".codebuddy/skills/gsd-validate-phase/SKILL.md"
+  },
+  {
+    "number": 321,
+    "sha": "010dcb48bd85b242e3bf51192a3fd96a7ae3d3dd",
+    "repository": "findsun-vn/E-Commerce",
+    "path": ".codex/skills/backend-code-guideline/SKILL.md"
+  },
+  {
+    "number": 322,
+    "sha": "00a9a62a92ce5a2b15ef09f65fb49a862211368e",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/fix-validation-errors-with-overlays/SKILL.md"
+  },
+  {
+    "number": 323,
+    "sha": "0123f4d0765aad8c9bf5c9866ea1db75525786d1",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "development/check-physics/SKILL.md"
+  },
+  {
+    "number": 324,
+    "sha": "005515f5cb4c8171faeb3ef2aa5eda3979245a1b",
+    "repository": "AIA-11-HN-MIB/MIB-MockInterviewAIBot",
+    "path": ".claude/skills/ffmpeg/SKILL.md"
+  },
+  {
+    "number": 325,
+    "sha": "006d5b406b1d388c1f2238a0c87f4dbf43ba6f0c",
+    "repository": "jf3096/personal-configs",
+    "path": ".codex/skills/planning-loop-orchestrator/SKILL.md"
+  },
+  {
+    "number": 326,
+    "sha": "00b5df83f047177f03b6197f2801b735f8aa8e61",
+    "repository": "richfrem/Project_Sanctuary",
+    "path": ".agent/skills/obsidian-graph-traversal/SKILL.md"
+  },
+  {
+    "number": 327,
+    "sha": "008dda50b1e52d6e3a8362d2d36163d57e21abb4",
+    "repository": "boshu2/agentops",
+    "path": "images/gemini/skills/reverse-engineer/SKILL.md"
+  },
+  {
+    "number": 328,
+    "sha": "001c2bd2c93d91054f583fa67ef20cf4cb57fda5",
+    "repository": "uygnoey/skills-from-claude-blog",
+    "path": "2025.10.16_skills/skills/agent-skills-overview/SKILL.md"
+  },
+  {
+    "number": 329,
+    "sha": "015752fa5d302ae47034c075fdb0660c7528a2d1",
+    "repository": "MarceloClaro/OpenCode_Ecosystem",
+    "path": "skills/agency/engineering/minimalchange/SKILL.md"
+  },
+  {
+    "number": 330,
+    "sha": "00ca6bd2a61a48da307444b75dab6e4260bdb67e",
+    "repository": "azigler/dotfiles",
+    "path": "agents/skills/fix/SKILL.md"
+  },
+  {
+    "number": 331,
+    "sha": "004028b5b1bc2ca4da7b932e529939e532118700",
+    "repository": "ever-oli/io",
+    "path": "skills/social-media/xitter/SKILL.md"
+  },
+  {
+    "number": 332,
+    "sha": "00608b31b7279b6cfe1ef0aab45058d68272c5d2",
+    "repository": "SatangThevalue/ai-skills",
+    "path": "skills/gaming/pokemon-player/SKILL.md"
+  },
+  {
+    "number": 333,
+    "sha": "008fac81fad58e568d55e6ac273b03c11c68fec2",
+    "repository": "CyberStrikeus/CyberStrike",
+    "path": ".cyberstrike/skill/CIS_benchmarks/Server_Software/Apache_HTTP_Server/CIS_Apache_HTTP_Server_2.4_Benchmark_v2.3.0/cis-apache24-5.17/SKILL.md"
+  },
+  {
+    "number": 334,
+    "sha": "01a91ea1ecea027385bd5bfbf0d5879395082d84",
+    "repository": "DCx7C5/ai-marketplace",
+    "path": "skills/webapp-operations-logging/SKILL.md"
+  },
+  {
+    "number": 335,
+    "sha": "009d02d7f9ea8206b37afee4f9dd54ff6e2d3ab9",
+    "repository": "Vincent1949/claude-homelab-config",
+    "path": "homelab-plugin/skills/delegate-task/SKILL.md"
+  },
+  {
+    "number": 336,
+    "sha": "00960def616f13144a61345849cb3c987f517ddd",
+    "repository": "giannis-vasilopoulos/greek-sports-forum",
+    "path": ".cursor/skills/validation-crud/SKILL.md"
+  },
+  {
+    "number": 337,
+    "sha": "0126fc334bd63505eaa5b91e6937e877b710566c",
+    "repository": "JayKim88/claude-ai-engineering",
+    "path": "plugins/frontend-toolkit/skills/third-party-scripts/SKILL.md"
+  },
+  {
+    "number": 338,
+    "sha": "00b596be0f0402db0159fa0dd6b57e81c87bd965",
+    "repository": "Mutfak-Yazilimevi/.github",
+    "path": "project-template/.claude/skills/ali-content-strategy/SKILL.md"
+  },
+  {
+    "number": 339,
+    "sha": "00741ae4949baf9767b8b2031f183bfbf5e6275a",
+    "repository": "tools-only/X-Skills",
+    "path": "development/233-api-setup_25282acf/skill.md"
+  },
+  {
+    "number": 340,
+    "sha": "017c180bfb3d89f29b7b718259a81b2999315f74",
+    "repository": "akourmaz/translate2",
+    "path": ".agents/skills/architectural-planning/SKILL.md"
+  },
+  {
+    "number": 341,
+    "sha": "011ced5d7f88cffdb39237f3e472a32b9f7e48b4",
+    "repository": "DCx7C5/ai-marketplace",
+    "path": "skills/db-mysql-credential/SKILL.md"
+  },
+  {
+    "number": 342,
+    "sha": "013c48aa8cff26c1606136cce92438c0b17ce273",
+    "repository": "antonsmedberg/HermesAnton",
+    "path": ".agent/skills/scoped-xcode-tests/SKILL.md"
+  },
+  {
+    "number": 343,
+    "sha": "01407256bce9ff8812238aac6cb5a2f0573c9358",
+    "repository": "Animism001/skills",
+    "path": ".agents/skills/bilibili-search/SKILL.md"
+  },
+  {
+    "number": 344,
+    "sha": "011e309aa3782f3dc8c2ae0f53291de99e3f2e9e",
+    "repository": "NeuralBlitz/Agent-Gateway",
+    "path": "agent-gateway/skills/user/computational-neuroscience-troubleshooting-fundamental/SKILL.md"
+  },
+  {
+    "number": 345,
+    "sha": "0076df62fc489ee24c01b17a2da9425b2a7052c2",
+    "repository": "Saturate/agents",
+    "path": "skills/norriq-writing/SKILL.md"
+  },
+  {
+    "number": 346,
+    "sha": "002f38ad95fad17b4bf8c29559da43ccfd9f9752",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "ai-ml/ml-pipeline-avav25-ai-assets/SKILL.md"
+  },
+  {
+    "number": 347,
+    "sha": "003fc052336727f3d5845936a3d7596bdca93e06",
+    "repository": "toly1994328/flash_im_by_ai",
+    "path": ".kiro/skills/fx-event-emitter/SKILL.md"
+  },
+  {
+    "number": 348,
+    "sha": "011ff902030b6adace0c91f9071cd2482d2286c3",
+    "repository": "Jeeva0104/connector-service-mini",
+    "path": ".claude/skills/angular-migration/SKILL.md"
+  },
+  {
+    "number": 349,
+    "sha": "0157cd4d59ee7e263369bab86f9ceb2aa87d41ab",
+    "repository": "91zgaoge/memoh-X",
+    "path": "internal/skills/defaults/docx/SKILL.md"
+  },
+  {
+    "number": 350,
+    "sha": "00db3d8442687d353ef6b18aa0498d64a4773e99",
+    "repository": "adarshp/adarsh.cc",
+    "path": ".claude/skills/cv-add-paper/SKILL.md"
+  },
+  {
+    "number": 351,
+    "sha": "001f33032dbd264a15935603a600f7e0f4b5aa89",
+    "repository": "jdinkla/user-story-skills",
+    "path": "skills/story-questions/SKILL.md"
+  },
+  {
+    "number": 352,
+    "sha": "00171e28a75e1ffaa6411adc3e2ec356196d8cc5",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/ccn-create-topic/SKILL.md"
+  },
+  {
+    "number": 353,
+    "sha": "004a37e30f75520220ff8baa753d44c713704dcd",
+    "repository": "byerlikaya/claude-starter-kit",
+    "path": "claude-starter/skills/docs-writer/SKILL.md"
+  },
+  {
+    "number": 354,
+    "sha": "0154184707acd7f205cdd8841ca40125477a6afc",
+    "repository": "dgroch/higgsfield-prompt-engineer",
+    "path": "skills/12-brand-story/SKILL.md"
+  },
+  {
+    "number": 355,
+    "sha": "013e887ecee830e1b12fdd897493ef3b9923fb96",
+    "repository": "tools-only/X-Skills",
+    "path": "development/1140-readme_flat_claude-md_az_79249ca0/skill.md"
+  },
+  {
+    "number": 356,
+    "sha": "0038049227ac035ba78f779c48dda9fa77675274",
+    "repository": "revfactory/harness-100",
+    "path": "en/47-strategy-framework/.claude/skills/strategy-framework/skill.md"
+  },
+  {
+    "number": 357,
+    "sha": "00ebc817ab1b5bc60f52ece90f92f103a3a98ee1",
+    "repository": "NeuralBlitz/ncx",
+    "path": "buggy/ncx/.opencode/skills/univariate-big-data-simulation/SKILL.md"
+  },
+  {
+    "number": 358,
+    "sha": "014a22d897e93ec9ee2f07ade4f030436df75a25",
+    "repository": "Ubaldo-Santos/portfolio-v3",
+    "path": ".cursor/.agents/skills/frontend-patterns/SKILL.md"
+  },
+  {
+    "number": 359,
+    "sha": "0078dcd80b2c96326ffacfe27394697eff208153",
+    "repository": "CannonCoPilot/Project_Aion",
+    "path": ".claude/skills/_disabled/mcp-builder/SKILL.md"
+  },
+  {
+    "number": 360,
+    "sha": "00e478dc8a145882933554a30a8cf1b3944b6099",
+    "repository": "j-plugins/spiral-plugin",
+    "path": ".claude/skills/kotlin-developer/SKILL.md"
+  },
+  {
+    "number": 361,
+    "sha": "007f1ca1fe3cf516f356571274ed6a481fe4f825",
+    "repository": "KILWA73/MiniSoc",
+    "path": ".agents/skills/framework-concept-mapper/SKILL.md"
+  },
+  {
+    "number": 362,
+    "sha": "006a6819d2017767bda0ead242110d26b999d7e9",
+    "repository": "testland/qa",
+    "path": "plugins/qa-sbom/skills/grype-scanning/SKILL.md"
+  },
+  {
+    "number": 363,
+    "sha": "01119ed8770a1b3546d273804a736d65b8c4621f",
+    "repository": "gensparx/GenSparx",
+    "path": "skills/nano-banana-pro/SKILL.md"
+  },
+  {
+    "number": 364,
+    "sha": "0094a541c1881ffe36f06b25ce945be73aba65dc",
+    "repository": "pkirsanov/bubbles",
+    "path": "skills/bubbles-anti-fabrication/SKILL.md"
+  },
+  {
+    "number": 365,
+    "sha": "00a7918cf4384e2608ba4fa80a834294a59400e6",
+    "repository": "jcdoll/agents",
+    "path": ".codex/skills/code-review/SKILL.md"
+  },
+  {
+    "number": 366,
+    "sha": "009259137563b144b86b783ec3b2cdf688b2b44c",
+    "repository": "deepakkamboj/pwagent",
+    "path": "cli/src/content/skills/ado/SKILL.md"
+  },
+  {
+    "number": 367,
+    "sha": "00bcdfa4cb6e5f32c6eb0544da4bc920a21c15ca",
+    "repository": "arkangelai/skills",
+    "path": "skills/competitive-intel/SKILL.md"
+  },
+  {
+    "number": 368,
+    "sha": "00a8a2c2890eb39276454d64bb02f0808826b197",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/feature-status/SKILL.md"
+  },
+  {
+    "number": 369,
+    "sha": "00cb67b0e103df70d0143f3cc1f26bb17cd84485",
+    "repository": "0xmariowu/Autosearch",
+    "path": "autosearch/skills/channels/dblp/SKILL.md"
+  },
+  {
+    "number": 370,
+    "sha": "008fc0a0c5ca5c10ea16a84a339e187e0f37d389",
+    "repository": "deOliveira-R/ORPHEUS",
+    "path": ".claude/skills/numerical-bug-signatures/SKILL.md"
+  },
+  {
+    "number": 371,
+    "sha": "008d2f209986db596754efc805169e863ce524c7",
+    "repository": "kazukin123/anet-lab",
+    "path": ".claude/skills/grill-me/SKILL.md"
+  },
+  {
+    "number": 372,
+    "sha": "014f708adb728044db74ee297fb793d0980d3baa",
+    "repository": "RobotFlow-Labs/skills-repo",
+    "path": "skills/detecting-modbus-command-injection-attacks/SKILL.md"
+  },
+  {
+    "number": 373,
+    "sha": "00b9e495889471e783a267d7572486833e35c041",
+    "repository": "David-Li0406/meta-skill-evloving",
+    "path": "skill-flow/data/skills-refined-agentskillos-36k/skillsmp/nixos/SKILL.md"
+  },
+  {
+    "number": 374,
+    "sha": "0127d1cb75d7763952821968f0c211882b66d2ff",
+    "repository": "saintgo7/agents-skills",
+    "path": "scientific-visualization/SKILL.md"
+  },
+  {
+    "number": 375,
+    "sha": "00fb2b7585e2e9b279be2fb0c24e007b76f8b652",
+    "repository": "novaainet2025/NCO-Dashboard",
+    "path": ".nco-skills.backup/nco-task-master/SKILL.md"
+  },
+  {
+    "number": 376,
+    "sha": "00b199b99470740e16823dfe9290233478596ef2",
+    "repository": "ArdenoStudio/dinaya",
+    "path": "apple-ultra-skills/dag-task-runner/SKILL.md"
+  },
+  {
+    "number": 377,
+    "sha": "019e397ed9e6a2b1925f5280bda66339d2aa6bc4",
+    "repository": "hashgraph-online/awesome-codex-plugins",
+    "path": "plugins/LVTD-LLC/skills/skills/htmx-foundations/SKILL.md"
+  },
+  {
+    "number": 378,
+    "sha": "010d179c517af2355164a2b9c9784728fcd9abbc",
+    "repository": "kocakburhan/Marketonomy",
+    "path": "marketing-agent/skills/product-marketing/SKILL.md"
+  },
+  {
+    "number": 379,
+    "sha": "01acf44b18a29903b11103313059e4315daa88e1",
+    "repository": "BeltDoor/aios-template",
+    "path": ".king-intelligence/plugins/king-intelligence/skills/codex-ready/SKILL.md"
+  },
+  {
+    "number": 380,
+    "sha": "00ace031752ee73e8909d8c2c6f99d8c6974b3bb",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/content-media/extract-page/SKILL.md"
+  },
+  {
+    "number": 381,
+    "sha": "008127b63e324a15fc6f49dacbfb72ef9aa7eaeb",
+    "repository": "luoluomashang/narrativespace",
+    "path": "modules/knowledge-base/SKILL.md"
+  },
+  {
+    "number": 382,
+    "sha": "0107d5fb346331140a2675a380290a58a9c91216",
+    "repository": "cianfhoghlaim/cianfhoghlaim",
+    "path": "dlthub-ai-workbench/workbench/dlthub-init-skills/skills/deploy-minimal-ingestion-pipeline/SKILL.md"
+  },
+  {
+    "number": 383,
+    "sha": "009b777f2d43108869b100ab80ece66dc085cf6e",
+    "repository": "clowlove/Hermes-House",
+    "path": "skills/marketing-private-domain-operator/SKILL.md"
+  },
+  {
+    "number": 384,
+    "sha": "00a3eec3e70d9f9f26674d5b114828b9e20a727f",
+    "repository": "hadimiftahulf/antigravity-skills",
+    "path": "stakeholder-translator/SKILL.md"
+  },
+  {
+    "number": 385,
+    "sha": "0173db9e2f615a5c229fe8c0ff2fdbed046bc766",
+    "repository": "iblai/vibe-marketing",
+    "path": "skills/iblai-marketing-analytics-tracking/SKILL.md"
+  },
+  {
+    "number": 386,
+    "sha": "00f7f423a30fd0c665c94515e0625017eccda9d7",
+    "repository": "HolobiomicsLab/asb-skill-collections",
+    "path": "packs/metabolomics/lc-ms/skills/feature-list-format-validation/SKILL.md"
+  },
+  {
+    "number": 387,
+    "sha": "01675e9b2067f53f4ba75a3ec2b04aac2df3c045",
+    "repository": "lewisf94/Home-Controller",
+    "path": ".claude/skills/sync-private/SKILL.md"
+  },
+  {
+    "number": 388,
+    "sha": "00baff8b5b16ab96be2ba259ebfe3c8b229d061a",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "development/tdd-jkitchin-skillz/SKILL.md"
+  },
+  {
+    "number": 389,
+    "sha": "00188bf11ea94c36fb9f88ef4151de00298d309d",
+    "repository": "Trompetilla/Skills",
+    "path": "skills/kaicianflone/consensus-interact/SKILL.md"
+  },
+  {
+    "number": 390,
+    "sha": "00d110ecf2c5d212abae7c9189e8f8823bde80eb",
+    "repository": "LumenHelixLab/187WEB",
+    "path": ".gemini/skills/187launch/SKILL.md"
+  },
+  {
+    "number": 391,
+    "sha": "00f871fb202603aba7156f73e60013363977f804",
+    "repository": "shibukawa/spec-compiler-skill",
+    "path": "skills/spec-compiler/SKILL.md"
+  },
+  {
+    "number": 392,
+    "sha": "01ac9a659c950facaa587b2d0f06cf61ea3cca1a",
+    "repository": "Zurybr/lefarma-skills",
+    "path": "letta/benchmarks/trajectory-feedback/extract-elf/SKILL.md"
+  },
+  {
+    "number": 393,
+    "sha": "00b03cfa8730fd6b7a620e6b4f1fce4e54b0522e",
+    "repository": "David-Li0406/meta-skill-evloving",
+    "path": "skill-flow/data/skills-refined-autoskill-36k/skillsmp/merged-26da919ce135e1c4-skill-judge/SKILL.md"
+  },
+  {
+    "number": 394,
+    "sha": "000d31614a88f3bfd032a3ae5a313f087dedee35",
+    "repository": "krisnapradyana/Hermes-Agent-Slack",
+    "path": "skills/security-policy/SKILL.md"
+  },
+  {
+    "number": 395,
+    "sha": "018d5203b9ed6a08398c242f3c25c7bc1f183c6d",
+    "repository": "Kelvin1761/Kelvin-Agents",
+    "path": ".agents/skills/nba/nba_batch_qa/SKILL.md"
+  },
+  {
+    "number": 396,
+    "sha": "0118da88b61705c6b0839a4b1b12b5ba2f368b91",
+    "repository": "ChristineTham/aidou",
+    "path": ".agents/skills/draw-io-diagram-generator/SKILL.md"
+  },
+  {
+    "number": 397,
+    "sha": "003f5c3341dc8369c3947a63fa73b37da6d85998",
+    "repository": "copilot-ld/copilot-ld",
+    "path": "packages/libagent/SKILL.md"
+  },
+  {
+    "number": 398,
+    "sha": "00622d9f8fbf1d2dad0d3a12d245b6e211c57381",
+    "repository": "zwj19950316-boop/claude-skills",
+    "path": "game-voice-content-inspiration/SKILL.md"
+  },
+  {
+    "number": 399,
+    "sha": "0099fa6a1bca76bbe9efb3dc080ebc428271ccf1",
+    "repository": "watmin/datamancy.dev",
+    "path": "purgare/SKILL.md"
+  },
+  {
+    "number": 400,
+    "sha": "0189ec30cee9c7caaa0219b8db88e0da3ccb795e",
+    "repository": "Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity",
+    "path": "tests/manual-repair-test/.agent/skills/server-management/SKILL.md"
+  },
+  {
+    "number": 401,
+    "sha": "0146abe62837e7107f6659e321ae40768bb6c570",
+    "repository": "TronLink/tronlink-skills",
+    "path": "skills/tron-resource/SKILL.md"
+  },
+  {
+    "number": 402,
+    "sha": "00ba16fe5583f383a8be8d7a7218e1bf0149106a",
+    "repository": "miguelbacalhau/orca",
+    "path": "skills/config/SKILL.md"
+  },
+  {
+    "number": 403,
+    "sha": "000491b78290b9021d48ef6a7d5870d1cfdc8867",
+    "repository": "aws-samples/sample-ai-agent-skills",
+    "path": "ram-troubleshooting/SKILL.md"
+  },
+  {
+    "number": 404,
+    "sha": "019dd39011812a60e3831e9953519f95b7562625",
+    "repository": "majiayu000/claude-skill-registry",
+    "path": "skills/design/workflow-orchestrator-zenobi-us-dotfiles/SKILL.md"
+  },
+  {
+    "number": 405,
+    "sha": "010d74f0a61dcd2695333214b5de2b2f5d9c8caf",
+    "repository": "chenxin-yan/crust",
+    "path": "packages/skills/tests/fixtures/bundle-second/SKILL.md"
+  },
+  {
+    "number": 406,
+    "sha": "0195b2ac2c9002b477a0918ff1e4cb74ece939ce",
+    "repository": "XerafinaTaleSedrin/FI-skill-suite",
+    "path": "skills/redirect/SKILL.md"
+  },
+  {
+    "number": 407,
+    "sha": "01b32911eab28fa44281996986731354fdd6fca0",
+    "repository": "mattwynne/yaks",
+    "path": "skills/yak-mapping/SKILL.md"
+  },
+  {
+    "number": 408,
+    "sha": "0077ff9a64aaff497298f31897a38f6d42eaa2f6",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "development/rebase-stack/SKILL.md"
+  },
+  {
+    "number": 409,
+    "sha": "0036a85f6b23fd17edc9f551acfab09d52994a60",
+    "repository": "JantonioFC/skillsbank",
+    "path": "skills/performance-profiler/SKILL.md"
+  },
+  {
+    "number": 410,
+    "sha": "019b1d2b3743776ea850a05445cdb6692721ff05",
+    "repository": "Sompote/Tiger_bot",
+    "path": "skills/search-x/SKILL.md"
+  },
+  {
+    "number": 411,
+    "sha": "002cefa17759c4cdcc5ce926c466835f79ef63b9",
+    "repository": "tnikhil-24/handy-claude-skills",
+    "path": "plugins/my-skills/skills/clarify-first/SKILL.md"
+  },
+  {
+    "number": 412,
+    "sha": "008087d93840c926c0347fe1b957b8dfcb5334de",
+    "repository": "Prorise-cool/prorise-claude-skills",
+    "path": ".claude/skills/product-specialist/references/domains/product-management/saas-revenue-growth-metrics/SKILL.md"
+  },
+  {
+    "number": 413,
+    "sha": "01848ad8fd2ea21d16e32c239bc7576f02a631fe",
+    "repository": "hongyangAndroid/blog_ai",
+    "path": ".trae/skills/fogsight-skill/SKILL.md"
+  },
+  {
+    "number": 414,
+    "sha": "01a67e1b868646ebc9d7ab7d8989673a5c9e3ab4",
+    "repository": "drvoss/everything-copilot-cli",
+    "path": "skills/documentation/api-documentation/SKILL.md"
+  },
+  {
+    "number": 415,
+    "sha": "00ee3a8ba258ab9c0c12c69f8f8f4c1786275c3e",
+    "repository": "tomharris/dev-rag",
+    "path": ".claude/skills/rag-first/SKILL.md"
+  },
+  {
+    "number": 416,
+    "sha": "013c9d064a41a6a1e48362e72ffea4fa5a36fd0c",
+    "repository": "brittanie945/bri-learing",
+    "path": ".agents/skills/deploy-castrel-sit/SKILL.md"
+  },
+  {
+    "number": 417,
+    "sha": "010f6988fcef20aab7abf16ff38b5149f893f0e9",
+    "repository": "Demerzels-lab/elsamultiskillagent",
+    "path": "public/skills/heiheimaoya/xiaohongshu/SKILL.md"
+  },
+  {
+    "number": 418,
+    "sha": "004b2631d2eb5ff6ac07246a02b73bf2cfe938de",
+    "repository": "jukeyman/jukeyman-skills",
+    "path": "skills/configure/SKILL.md"
+  },
+  {
+    "number": 419,
+    "sha": "0125da24aec2001aff6a6be8e610d72d70bd7cae",
+    "repository": "charlesnpx/mise-en-place",
+    "path": "skills/pr/claude/pr__colon__review__colon__local__colon__no-file/SKILL.md"
+  },
+  {
+    "number": 420,
+    "sha": "00378d8900035c9f638fd80c5e797da7eec2cf65",
+    "repository": "tercel/gemini-forge",
+    "path": "skills/gskills-forge/SKILL.md"
+  },
+  {
+    "number": 421,
+    "sha": "00040072c732d16ea2d3a1c84844d7ae473e1035",
+    "repository": "mediastormDev/dream-to-video-skill",
+    "path": "skills/dream-to-video/SKILL.md"
+  },
+  {
+    "number": 422,
+    "sha": "011927b1e383eb7576c6282181b87516f1fdccd6",
+    "repository": "NeuralBlitz/ncx",
+    "path": "buggy/ncx/.opencode/skills/astrophotography-troubleshooting-research-level/SKILL.md"
+  },
+  {
+    "number": 423,
+    "sha": "00da44ace3fe3b4a1c976502e2c7e9944d53e44e",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/agentguard/SKILL.md"
+  },
+  {
+    "number": 424,
+    "sha": "002c90c2bb0b0444d96cbbc9e3facbc5efba896f",
+    "repository": "DonaldMurillo/momentum-cms",
+    "path": ".claude/skills/agent-browser/SKILL.md"
+  },
+  {
+    "number": 425,
+    "sha": "01aeb015c35fca16b79a67880dd9daa8a4d95f81",
+    "repository": "tcytan/tecton",
+    "path": ".claude/skills/team-perf-opt/SKILL.md"
+  },
+  {
+    "number": 426,
+    "sha": "00cbad793ea8158a0b22ee0d640ad8ab9ab6aa01",
+    "repository": "shushuitie2017/design-agent-skills",
+    "path": "agent-skills/codex/elevenlabs-tts/SKILL.md"
+  },
+  {
+    "number": 427,
+    "sha": "015bffa5c807936a0743327349cc934f8922c9d1",
+    "repository": "Dach-Coin/claude_rules_1c",
+    "path": ".claude/skills/form-patterns/SKILL.md"
+  },
+  {
+    "number": 428,
+    "sha": "008b0de16e97978d194f00615aba7920000e09df",
+    "repository": "mouadja02/skills",
+    "path": "skills/llm-tooling/openai-image-gen/SKILL.md"
+  },
+  {
+    "number": 429,
+    "sha": "01297688d994a72dd776a929897495f743a60a03",
+    "repository": "dcc-mcp/dcc-mcp-3dsmax",
+    "path": ".claude/skills/vx-commands/SKILL.md"
+  },
+  {
+    "number": 430,
+    "sha": "00b972b8ed1ea9e632f4d6c6a876c9eff97783df",
+    "repository": "izkreny/agentifico",
+    "path": "skills/socratic-tutor/SKILL.md"
+  },
+  {
+    "number": 431,
+    "sha": "012fc28541ba92b76e80be7693cf25cfe3367597",
+    "repository": "rock-hu/agent-skills",
+    "path": "skills/circuit-event/SKILL.md"
+  },
+  {
+    "number": 432,
+    "sha": "0111eb328e0102c4cab9183040083fe4d0e98c06",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/methylation-variability-analysis/SKILL.md"
+  },
+  {
+    "number": 433,
+    "sha": "01958cd651c22dc065be38016698a202085ac34c",
+    "repository": "DatBeat/GIFMakerz",
+    "path": ".claude/skills/media/interview-transcript/SKILL.md"
+  },
+  {
+    "number": 434,
+    "sha": "0086793f4f33b187e95523c882fd1487ad70588b",
+    "repository": "svenflow/dispatch",
+    "path": "skills/contacts/SKILL.md"
+  },
+  {
+    "number": 435,
+    "sha": "009a23a1af4af0a83366ab2b3d9ae10dd5c90741",
+    "repository": "kingpinzs/claude_parallel_templates",
+    "path": "spec-kit/.claude/skills/spec-parallel/SKILL.md"
+  },
+  {
+    "number": 436,
+    "sha": "0126c32bf4904609d50394f8dd5b0ad4faa13884",
+    "repository": "iTzFaisal/agency-agents",
+    "path": ".agents/skills/legal-document-review/SKILL.md"
+  },
+  {
+    "number": 437,
+    "sha": "00407b4706de4159f3c5a8da3011f06101e4d2c9",
+    "repository": "meghal86/stacksignal",
+    "path": ".agents/skills/bexio/SKILL.md"
+  },
+  {
+    "number": 438,
+    "sha": "01a2e6bdb5e5672dff29c145574f49fc733b1d43",
+    "repository": "stanislavorlov/chess-game",
+    "path": ".agents/skills/docker-expert/SKILL.md"
+  },
+  {
+    "number": 439,
+    "sha": "00038ee41b82f76f5161f0541a562cb493f89d02",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/sojustack-best-practices/SKILL.md"
+  },
+  {
+    "number": 440,
+    "sha": "009448c2b8a35b5817da18fa015f9cc8d783cbfd",
+    "repository": "zgbrenner/agentcounsel",
+    "path": "skills/privacy/vendor-privacy-diligence/SKILL.md"
+  },
+  {
+    "number": 441,
+    "sha": "015a9172938d1db2afe6dbc64fff0bbbed479d2a",
+    "repository": "DCx7C5/ai-marketplace",
+    "path": "skills/net-traffic-arppoisoning/SKILL.md"
+  },
+  {
+    "number": 442,
+    "sha": "012a7e5d51ad3f5d37fe71f395d008e301428642",
+    "repository": "qa-aman/claude-skills",
+    "path": "skills/by-role/devops/postmortem/SKILL.md"
+  },
+  {
+    "number": 443,
+    "sha": "008d939d5cfa6bb56b51e04f70955487f8f6c3df",
+    "repository": "Lord1Egypt/awesome-skill-forge",
+    "path": "community/clawhub/p/proposal-generator/SKILL.md"
+  },
+  {
+    "number": 444,
+    "sha": "0049ccb9734f2674e380516fd9f2c302c26c5698",
+    "repository": "modbender/skill-library-mcp",
+    "path": "data/book-brain/SKILL.md"
+  },
+  {
+    "number": 445,
+    "sha": "006f8d6b7a0ba2743cdd99d7df6af343b0f5d987",
+    "repository": "diegosouzapw/awesome-omni-skill",
+    "path": "skills/development/frontend-functional-validator-detective/SKILL.md"
+  },
+  {
+    "number": 446,
+    "sha": "0056e4117ca3c29b25960545cb1abf5f93d78b1e",
+    "repository": "yusuken1121/boilertemplate_ai",
+    "path": ".gemini/skills/architecture-overview/SKILL.md"
+  },
+  {
+    "number": 447,
+    "sha": "016b588aca5676bdbc1af4c727aec0a8910e5973",
+    "repository": "fierzone/agent-skills-standard",
+    "path": "skills/react-native/state-management/SKILL.md"
+  },
+  {
+    "number": 448,
+    "sha": "000f65f8f28f107a90784ab212bdf128e39ea616",
+    "repository": "ComeOnOliver/skillshub",
+    "path": "skills/jeremylongshore/claude-code-plugins-plus-skills/anth-security-basics/SKILL.md"
+  },
+  {
+    "number": 449,
+    "sha": "00971155a44ced33463ab896ab3d20edc635d338",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/polaris-local-forge/SKILL.md"
+  },
+  {
+    "number": 450,
+    "sha": "0019920a4b6b7982fedc60bf75be5ac20f130177",
+    "repository": "ssiumha/dots",
+    "path": "prompts/skills/documentation/SKILL.md"
+  },
+  {
+    "number": 451,
+    "sha": "013787806da488929f792f0b9f45c4243095003d",
+    "repository": "NeuralBlitz/Agent-Gateway",
+    "path": "agent-gateway/skills/user/environmental-engineering-based-derivation/SKILL.md"
+  },
+  {
+    "number": 452,
+    "sha": "004999d648fa0140eeae98d4639784e2e918ca04",
+    "repository": "edithatogo/conductor-next",
+    "path": "conductor-vscode/skills/conductor-newtrack/conductor-newtrack/SKILL.md"
+  },
+  {
+    "number": 453,
+    "sha": "00758602f6cb12c803e59600c4c23ea56b049cd6",
+    "repository": "a5c-ai/babysitter",
+    "path": "library/specializations/domains/science/nanotechnology/skills/targeting-ligand-designer/SKILL.md"
+  },
+  {
+    "number": 454,
+    "sha": "0124e7234f03a200d9b615f61baea88bc8a36cea",
+    "repository": "jamiojala/skillforge",
+    "path": "skills/privacy-preserving-analytics/SKILL.md"
+  },
+  {
+    "number": 455,
+    "sha": "00f83db96eec0f56dfcad62c24120810d5bd46e2",
+    "repository": "DDS-Solutions/AI-TadPole-OS",
+    "path": ".agent/skills/code-review-checklist/SKILL.md"
+  },
+  {
+    "number": 456,
+    "sha": "006b4fd0dcc9abef023050e1e0d4433ce91d5146",
+    "repository": "typemd/typemd",
+    "path": "marketplace/plugins/typemd/skills/vault-guide/SKILL.md"
+  },
+  {
+    "number": 457,
+    "sha": "00a0f996bf7922e0680b5a5fccca16ba2462c36d",
+    "repository": "psprowls/agent-research",
+    "path": "plugins/graph-wiki/skills/writing-plans/SKILL.md"
+  },
+  {
+    "number": 458,
+    "sha": "014bbb1359182cd92736940f18f9e332fc274a65",
+    "repository": "control-ui-kit/control-ui-kit",
+    "path": "resources/boost/skills/control-ui-kit-development/SKILL.md"
+  },
+  {
+    "number": 459,
+    "sha": "00f4c11d54c4127f56f46f0d283d13082a9ae198",
+    "repository": "JantonioFC/skillsbank",
+    "path": "skills/prd/SKILL.md"
+  },
+  {
+    "number": 460,
+    "sha": "010ce11f935aa61ff88a6b1a04db0100be3a4357",
+    "repository": "GGEdu/claude-god-mode-template",
+    "path": "skills/logistics-exception-management/SKILL.md"
+  },
+  {
+    "number": 461,
+    "sha": "0039b8bb47efa7ba2de38fc20a79ef22b3962198",
+    "repository": "geobarteam/github-copilot-configs",
+    "path": "skills/add-blazor-page/SKILL.md"
+  },
+  {
+    "number": 462,
+    "sha": "01b2b6ec05be4b66b568cf0c98d01e41027ee1ee",
+    "repository": "majiayu000/claude-skill-registry",
+    "path": "skills/data/domain-driven-design-builder/SKILL.md"
+  },
+  {
+    "number": 463,
+    "sha": "00cadba6693b99c62293851ca54806faa5fe6947",
+    "repository": "MikeCheng1208/BattleTree",
+    "path": ".agents/skills/newt-blueprint-generator/SKILL.md"
+  },
+  {
+    "number": 464,
+    "sha": "00997f2b8e26414d0fa26aab120abe2c9b5467e6",
+    "repository": "Nkzono99/emout",
+    "path": "plugins/emout-context/skills/emout-script-review/SKILL.md"
+  },
+  {
+    "number": 465,
+    "sha": "0052bd2e73e955f28a6408a774b39fdf7e12ced3",
+    "repository": "jamon8888/cc-suite",
+    "path": "solo/skills/invoice-generator/SKILL.md"
+  },
+  {
+    "number": 466,
+    "sha": "00c280b125ac3ad7732b4f9e746f52e08a4b7925",
+    "repository": "eliasisrael/n8n",
+    "path": ".claude/skills/adopt-workflow/SKILL.md"
+  },
+  {
+    "number": 467,
+    "sha": "000df8b3b3b716a8f2ba9647ed6815495866aede",
+    "repository": "qmfpdls4908/Vigos-s-Paradox",
+    "path": ".opencode/skills/conversation-filter/SKILL.md"
+  },
+  {
+    "number": 468,
+    "sha": "002aec7e443f69d122d8e42ce6471d2b83f14bd3",
+    "repository": "majiayu000/claude-skill-registry-data",
+    "path": "quality/code-review-laurenceputra-goal-portfolio-viewe/SKILL.md"
+  },
+  {
+    "number": 469,
+    "sha": "017344545f2a339e05be65763dcd41bf0f7b13de",
+    "repository": "NeuralBlitz/buggy",
+    "path": "ncx/.opencode/skills/supervised-behavioral-neuroscience-analysis/SKILL.md"
+  },
+  {
+    "number": 470,
+    "sha": "00f3495ebf0cc1192c2b31d9f53c3b13c76ae623",
+    "repository": "ZiolkowskiJakub/DiGi.CityGML",
+    "path": ".agents/skills/coding-general/SKILL.md"
+  },
+  {
+    "number": 471,
+    "sha": "0001bb8971e2d167ca63e4bfe5a11ef656e94edd",
+    "repository": "ivegamsft/basecoat",
+    "path": "skills/ux/SKILL.md"
+  },
+  {
+    "number": 472,
+    "sha": "005b5d53faacdef17addf8a9529b8734248c2d7f",
+    "repository": "Njones17/AI-agent-master-cyber-skills-list",
+    "path": "skills/penetration-testing/performing-aws-privilege-escalation-assessment/SKILL.md"
+  },
+  {
+    "number": 473,
+    "sha": "00f756cbd0c3786d46c54e90e22bbcd38a347ee5",
+    "repository": "mnemon-dev/mnemon",
+    "path": "internal/setup/assets/kimi/SKILL.md"
+  },
+  {
+    "number": 474,
+    "sha": "01b056dfe8fbc4b41baa7543fe916947ac259e64",
+    "repository": "Miosa-osa/osa-framework",
+    "path": "examples/browser-qa-agent/agent/skills/qa-report/SKILL.md"
+  },
+  {
+    "number": 475,
+    "sha": "011728c6b59be74e3b7bb7974d60d2329ea7f505",
+    "repository": "esphome/aioesphomeapi",
+    "path": ".claude/skills/pr-workflow/SKILL.md"
+  },
+  {
+    "number": 476,
+    "sha": "00bf2445a6552715068d1be17a0d9ab8056fd412",
+    "repository": "secretkeylabs/sats-connect-skills",
+    "path": "skills/sats-connect-stx-deployContract/SKILL.md"
+  },
+  {
+    "number": 477,
+    "sha": "00eba9e3837494aee69b230b7724f4cdc6fc2fb6",
+    "repository": "operationd8979/ai_assets",
+    "path": ".codex/skills/speckit-clarify/SKILL.md"
+  },
+  {
+    "number": 478,
+    "sha": "00199dbe366ecc3250e055d40191d985be91fbb3",
+    "repository": "Jmbarrienp/vitals.fit",
+    "path": "ai-system/skills/persona-communication/SKILL.md"
+  },
+  {
+    "number": 479,
+    "sha": "01b146a8a7e94d4e3f973291f6e711348673b759",
+    "repository": "HolobiomicsLab/asb-skill-collections",
+    "path": "packs/metabolomics/nmr/skills/summarized-experiment-object-handling/SKILL.md"
+  },
+  {
+    "number": 480,
+    "sha": "008879b39af3cdf0bd5bb73f5c40a0f98abd283e",
+    "repository": "modbender/skill-library-mcp",
+    "path": "data/openclaw-skill-ansible/skills/ansible-skills-admin/SKILL.md"
+  },
+  {
+    "number": 481,
+    "sha": "009392aa9112f6af6278eb29083dcbd20e7b978d",
+    "repository": "modbender/skill-library-mcp",
+    "path": "data/scholargraph/paper-analyzer/skill.md"
+  },
+  {
+    "number": 482,
+    "sha": "009f9ed6fe1eac60618e8c4fb6705535da0a0aff",
+    "repository": "anortham/razorback",
+    "path": "skills/executing-plans/SKILL.md"
+  },
+  {
+    "number": 483,
+    "sha": "019db4613388befc9ea1bf6e069b625679798662",
+    "repository": "ericmikkelsen/code-scaffold-mcp",
+    "path": ".github/skills/frontend-ui-engineering/SKILL.md"
+  },
+  {
+    "number": 484,
+    "sha": "010c3a1261baafa4e74b7d29268bcb8723aef748",
+    "repository": "argen/hornero",
+    "path": "skills/ingest/SKILL.md"
+  },
+  {
+    "number": 485,
+    "sha": "0075b59cb4af63be3e01f56f9d9a2663c246b57a",
+    "repository": "LG13-21/lg13-skills",
+    "path": "plugins/lg13-skills/skills/chatgpt-force-read/SKILL.md"
+  },
+  {
+    "number": 486,
+    "sha": "008cff333b8f19d3b7330afe167f4b0d8c04b03c",
+    "repository": "yanacuti1121/Yana-AI",
+    "path": ".claude/skills/performing-brand-monitoring-for-impersonation/SKILL.md"
+  },
+  {
+    "number": 487,
+    "sha": "01497a7aedc2729549e84abed9f59e3effef4ba4",
+    "repository": "ochtum/TechBlogWriter",
+    "path": ".github/skills/02_ArticleSectionCreation/SKILL.md"
+  },
+  {
+    "number": 488,
+    "sha": "006f10bc05bcc281f58f12f9895934c1d1bb7b92",
+    "repository": "deswalpratik/claude-harness",
+    "path": "skills/interview/SKILL.md"
+  },
+  {
+    "number": 489,
+    "sha": "01a3c5722142d1c27b9477495f1c234a36489cca",
+    "repository": "ReadyToGo-Education/fluxo_criativo",
+    "path": ".claude/skills/biblioteca-anuncios/SKILL.md"
+  },
+  {
+    "number": 490,
+    "sha": "015b1e7bd4e38743c4752dc09caff3cb264d1a74",
+    "repository": "yohayetsion/product-org-os",
+    "path": "skills/bet-invalidation-checkpoint/SKILL.md"
+  },
+  {
+    "number": 491,
+    "sha": "008107484faea2382f9ad5d47c1ad3b8d23ed21a",
+    "repository": "hndhr/software-dev-agentic",
+    "path": "cipherpol-aegis/lib/developer/skills/procedures/developer-debug-add-logs/SKILL.md"
+  },
+  {
+    "number": 492,
+    "sha": "016786c9b549e60cecbf72dac0ffd4c3c8d7985b",
+    "repository": "webdevtodayjason/subctl-rust",
+    "path": "skills/argentos-positioning-and-website-rewrite/SKILL.md"
+  },
+  {
+    "number": 493,
+    "sha": "0169e82b4ead249d01f294c474a3d56c0109a997",
+    "repository": "Coalescence-Labs/Chronos",
+    "path": ".claude/skills/privacy-preflight/SKILL.md"
+  },
+  {
+    "number": 494,
+    "sha": "0190c4fd50482cde9e0118eabcb416a477595038",
+    "repository": "0xDarkMatter/claude-mods",
+    "path": "skills/security-ops/SKILL.md"
+  },
+  {
+    "number": 495,
+    "sha": "016f6bb6cdd09912531acdb4bf39fb606c1783ef",
+    "repository": "Everyone-Needs-A-Copilot/codex-copilot",
+    "path": "packs/writing-legal/skills/cs/SKILL.md"
+  },
+  {
+    "number": 496,
+    "sha": "0157ae9207831ac60780cf5e8ce74bb8ba24aab4",
+    "repository": "zeis974/TaxDOM",
+    "path": ".agents/skills/turborepo/SKILL.md"
+  },
+  {
+    "number": 497,
+    "sha": "0080c449d5156a532b1de0bedba4afee24017d03",
+    "repository": "hacktronaut/ai-sdlc-demo",
+    "path": ".github/skills/changelog/SKILL.md"
+  },
+  {
+    "number": 498,
+    "sha": "01024884bdb88dd1b9dfaf1a3ab6d3c5d4385160",
+    "repository": "firebitsbr/OWASP-claudeskills",
+    "path": "claudeskills/skills/www-chapter-indian-institute-of-information-technology-kottayam/SKILL.md"
+  },
+  {
+    "number": 499,
+    "sha": "00dede60c6323741f6bfbed870dde712778396f8",
+    "repository": "Lap-Platform/claude-marketplace",
+    "path": "plugins/azure-com-azure-com-resources-deploymentscripts/skills/api/SKILL.md"
+  },
+  {
+    "number": 500,
+    "sha": "0111138fe0c71fd71c5ebde50797a4294df90153",
+    "repository": "hiddink-ai/hiddink-harness",
+    "path": "templates/skills/evaluator-optimizer/SKILL.md"
+  }
+]
