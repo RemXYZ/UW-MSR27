@@ -22,7 +22,6 @@ oraz środowisko `.venv` są lokalne i nie są publikowane w Git.
 - `results/skills_per_repository.parquet` — ten sam wynik w Parquet.
 - `results/summary.json` — podsumowanie, wersja danych i wyniki walidacji.
 - `results/skills_*.png` — trzy wykresy z notebooka: histogram, rozkład skumulowany i 15 największych repozytoriów.
-- `results/download_throughput.csv` i `.png` — pomiary tempa pobierania co 10 sekund i osobny wykres do rozmowy.
 
 ## Uruchomienie
 
@@ -74,14 +73,6 @@ bez artefaktów. Notebook zawiera jedną agregację, podstawowe podsumowanie, tr
 i eksport wyników. Dodatkowe kontrole kompletności, kluczy i eksportu są w osobnym
 skrypcie `scripts/validate_results.py`, który zapisuje `results/summary.json`.
 Obliczenia czytają wyłącznie potrzebne kolumny; nie wymagają wczytania treści skilli do RAM.
-
-## Pomiar pobierania
-
-`scripts/monitor_download.py` zapisuje co 10 sekund przyrost rozmiaru lokalnych plików
-datasetu w `results/download_throughput.csv`. To użyteczna przepustowość zapisu danych,
-bez narzutu HTTP/TLS. Pomiar rozpoczął się podczas pobierania, więc nie obejmuje początku
-transferu. `scripts/plot_download_throughput.py` rysuje osobny wykres z pomiarami i średnią
-z ostatniej minuty; wykres przepustowości nie jest częścią notebooka.
 
 ## Źródło i wersja
 
