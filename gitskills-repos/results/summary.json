@@ -1,0 +1,30 @@
+{
+  "repositories": 282200,
+  "skill_occurrences": 3797117,
+  "repositories_with_zero_skills": 0,
+  "min_skills": 1,
+  "median_skills": 2.0,
+  "mean_skills": 13.45541105598866,
+  "max_skills": 172267,
+  "dataset": "mvaccargiu/gitskills",
+  "dataset_revision": "ebab17454a7c236f8f26b183567f1a126f42e3f8",
+  "source_url": "https://huggingface.co/datasets/mvaccargiu/gitskills",
+  "download_completed_at_utc": "2026-11-23T14:02:29.987719+00:00",
+  "validated_at_utc": "2026-11-23T14:49:29.681708+00:00",
+  "table_rows": {
+    "artifacts": 3797117,
+    "repos": 282200,
+    "artifact_siblings": 7264865,
+    "mining_runs": 7
+  },
+  "validation": {
+    "invalid_artifact_keys": 0,
+    "duplicate_repo_path_pairs": 0,
+    "invalid_repo_names": 0,
+    "duplicate_repositories": 0,
+    "artifact_repos_missing_from_repos": 0
+  },
+  "csv_parquet_match": true,
+  "notebook_code_cells_executed": 6,
+  "notebook_charts": 3
+}
