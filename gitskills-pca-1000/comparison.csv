@@ -1,0 +1,1001 @@
+﻿number,sha,repository,path,previous_domain,cluster_baseline,cluster_stopwords,tokens_baseline,tokens_stopwords
+1,0072ab6f5c230e579de8c09ac493294629a073d6,Way-Of/wayofmono,.gemini/skills/opticat_ui_builder/SKILL.md,Software Development,7,7,666,586
+2,007482f67935e0b5e635d0d3f946f4d73117c60a,zwright8/OpenClaw-Code,skills/generated/4820-incident-playbook-synthesis-for-personal-finance-management/SKILL.md,Finance and Cryptocurrency,1,1,671,606
+3,015f9cd6dbd3bb5782c050e1bddbcc34992af90c,RobTurvey/agrc-shared-infra,.github/skills/support_incident/SKILL.md,IT Operations and Incident Management,2,2,321,307
+4,00dd9d6f04ad10e40c222a0e2429f20497f15b25,knownasnaffy/prompthound,dataset/case_03954/SKILL.md,Agent Orchestration,8,8,572,517
+5,00baf75fed68ea58a2d37f406311b8bdd00968ea,Arcadi4/nerdy,clrs/amortized-algorithms/SKILL.md,Computer Science and Algorithms,1,1,908,748
+6,01149f1c1908e378149cc9f26084286d31072354,JGabrielGlez/NegocIA_V2,.github/skills/react-native/SKILL.md,Software Development,7,7,1221,1166
+7,01650cec78e9dcbcae9efb7b141f048696b7f996,martinholovsky/SOTA-skills,skills/sota-databases/SKILL.md,Databases,6,5,1242,1136
+8,00b2e6b303d66f8e9c5a4b50ba9ad611b1abd006,NeuralBlitz/ncx,ncx/.opencode/skills/nonparametric-industrial-engineering-verification/SKILL.md,Engineering,3,3,559,479
+9,013c7a45d4daaecd9af994ee69cbe3a3b9d529c3,JHamidun/claude-code-config-pack,.claude/skills/crosspost/SKILL.md,Marketing and Communications,1,1,737,596
+10,0006b650685909ea5257c169b23f22a711747904,StrategicMilk/AM-Workbench,vetinari/skills/catalog/worker/error-handling-hardening/SKILL.md,Software Development,2,9,1094,985
+11,0115cb53e4d9308d9e46bb6e96d81cc39f61e2b6,MikeCheng1208/BattleTree,.agents/skills/newsletter-events-write/SKILL.md,Writing and Editing,1,6,1090,984
+12,0066a61fa33ca838edc5add8592d7e7901b6dc10,NeuralNomadsAI/CodeNomad,.opencode/skills/codenomad-architecture-guide/SKILL.md,Software Architecture,7,7,1521,1453
+13,017c461564d4400491a680b004b50656941d4ef3,NeuralBlitz/buggy,ncx/.opencode/skills/advanced-extragalactic-astronomy-interpretation/SKILL.md,Astronomy,3,3,576,496
+14,0002f269842027a15e23170ea95264d55a525443,pinkroosterai/PinkRoosterMcp,.claude/skills/pm-brainstorm/SKILL.md,Product and Business,1,1,1173,967
+15,01a2f0153b716f000b73e152d2e2e77c7a0c54da,NeuralBlitz/buggy,ncx/.opencode/skills/deterministic-environmental-science-classification/SKILL.md,Environmental Science,3,3,571,491
+16,011f55cdf15a616e69cc8795654100176703bc60,iQeda/MyRust-NeetCode,.claude/skills/lc-show/SKILL.md,Software Development,9,6,261,244
+17,0113571b84120747622c4888036f0584925c3496,Matrixx0070/sudo-skills,docs/skills/aigov-matter-workspace/SKILL.md,AI Security and Governance,2,1,1134,983
+18,015b544b001aad37f3344b826d35f8b29af2b2b3,AdmiralGallade/harness-repository,harnesses/claude-skills/.gemini/skills/cs-agile-product-owner/SKILL.md,Insufficient Information,8,2,24,24
+19,013c5983d795632833ccd8348567a3c180852da7,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/static-big-data-simulation/SKILL.md,Data Engineering and Analytics,3,3,572,492
+20,00c8de174b32b2795d594eb95215531a9cebaab9,0bserver07/chimera,chimera/skills/algorithms/string-algos/SKILL.md,Computer Science and Algorithms,6,5,1068,977
+21,011373bf5eaa9a62cbd4cfd4a0c0b7c179ea6ad5,eliransu/digital-brain,skills/task/SKILL.md,Project and Task Management,2,2,1448,1316
+22,00865927db70a1c42c0d6ca1c114fb1cd329a35e,ArtMin96/soloist,.claude/skills/tauri-testing/SKILL.md,Software Testing,7,8,833,783
+23,0136b710d2093d0c31976f6744a95c83cb2e3b24,aiagentslibrary/awesome-gemini-spark-skills,skills/google-workspace/spark-calendar-planner/SKILL.md,Productivity and Scheduling,1,1,417,368
+24,011f1941c186465101d6c75ef51b4ad79c0b4d45,andrem-sec/psc-comet,.claude/skills/workflow/refactor/SKILL.md,Software Development,2,9,901,731
+25,00ef1e8d17189d45af6e63dace86ca3eb490b570,majiayu000/claude-skill-registry-data,development/open-in-editor/SKILL.md,Developer Tools,8,6,166,132
+26,0135ab31bec08f98843b5cbe319786590dd57780,sitharaj88/claude-skills,skills/azure-logic-apps/SKILL.md,Cloud and Infrastructure,8,8,1109,1064
+27,00c5615c9eceb1ca37729998d4e62b728b28ca22,severeon/neuroscript-rs,.claude/skills/ns-stdlib/SKILL.md,AI and Machine Learning,6,6,1198,1167
+28,0133dd67359518a651741be4d3d51a064d37747d,hichipli/websites-to-worlds-skills,skills/websites-to-worlds/SKILL.md,Software Development,7,7,1160,921
+29,008d747a7d997c7d2cc12eaf783fc0458f5e3624,MikeCheng1208/BattleTree,.agents/skills/vuejs-best-practices/SKILL.md,Software Development,7,7,1217,1153
+30,0186231753d7716281f2f0a521787a05f46f5611,RISHASUN001/LegacyModernization_Testing_SKILLS,skills/playwright-browser-verification/SKILL.md,Software Testing,2,6,688,659
+31,0012dc7bf5cb6375328b3498d19eaa65ea9a74bf,LJT-520/openClaw-backup,skills/guaiyu11/daily-standup-generator/SKILL.md,Project and Task Management,1,1,166,147
+32,0079f5580794ac8bc0dc78b2d0ac7d4fcf7b9061,JimCline/claude-3t,claude-3t-plugin/skills/3t-start/SKILL.md,Agent Orchestration,2,2,1116,947
+33,013b4db57873612cfb3717100dbd575251869a0a,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-skillclaw-36k/skillsmp/skillclaw-47a04393ce4cf3de-nuget-manager/SKILL.md,Developer Tools,9,7,652,593
+34,00ee5c45b8ae1bd67a0594380d9903f1a626a977,benbaichmankass/ict-trading-bot,.claude/skills/before-asking-the-operator/SKILL.md,Agent Orchestration,2,2,1332,1143
+35,00dcc31d17b09fc3c363589ee34b412608d2462f,MikeCheng1208/BattleTree,.agents/skills/pokemon-tcg-pocket-skill-builder/SKILL.md,Agent Orchestration,8,2,1102,1065
+36,00fa7446c5a0a184797089c7341aaf0bfa13b3c7,HolobiomicsLab/asb-skill-collections,collections/metabolomics/v1/skills/uncertainty-quantification-rt-prediction/SKILL.md,Biology and Data Analysis,6,5,1207,1059
+37,0162f765bd1db6a5c9f631a03fbd40f5c1dee55f,Carloss616/seanime-extensions,.claude/skills/prune-comments/SKILL.md,Software Development,9,9,1176,1002
+38,0041f319dde42ae47c5d89670964f9f961bf4eb5,a5c-ai/babysitter,library/specializations/game-development/skills/decal-systems/SKILL.md,Game Development,7,2,99,98
+39,01ae55c6273d0c8a0b3df721d5e8c1eb72c14e76,saimatab/skills,SQAMockInterview/SKILL.md,Software Testing,3,3,1290,1155
+40,00ff6410864b115f93fb81d70e0afce1666f68e9,Rynaro/TabRelay,.claude/skills/idg-section-parallel/SKILL.md,Agent Orchestration,2,2,1096,912
+41,006f2e1198156bdff06c6dc9011889e59ee6f9f4,marcmontecalvo/waywarden,.agents/skills/plan-to-issues/SKILL.md,Project and Task Management,9,9,975,832
+42,00639354fe4d4cf2ef89b4e02aa0b6c2a62d46b7,dvcrn/openclaw-skills-marketplace,plugins/abhibavishi--verk/skills/verk/SKILL.md,Project and Task Management,8,8,789,721
+43,007c72db115325472a1f46dea5248ebe7915bb8d,kuboon/id.kbn.one,.agents/skills/gist-skills/SKILL.md,Agent Orchestration,9,6,293,276
+44,013f1d43bafa297a436927dc35df04e7be867803,huang-sh/DeepScience,packages/science/skills/data-engineering/bio-workflows-hic-pipeline/SKILL.md,Biology and Data Analysis,6,5,1400,1237
+45,0002b3dd7cb64f7991824b378de1c043c9fed7d8,arcasilesgroup/ai-engineering,.claude/skills/ai-skill-improve/SKILL.md,Agent Orchestration,2,2,1168,1078
+46,000305968581ee85280789c7070320c9b1e4c0b4,NeuralBlitz/buggy,ncx/.opencode/skills/supervised-data-visualization-implementation/SKILL.md,Data Engineering and Analytics,3,3,582,502
+47,0073f54efb2434d37aa61fb2455617b898118261,uukjtisa/systema-auxilium,skills/self-knowledge/SKILL.md,AI and Machine Learning,8,2,1147,955
+48,00d91acfb78b71b8f1f56c444fb3032384aabc17,hiyenwong/ai_collection,collection/skills/general-ml/universal-complementarity-identity/SKILL.md,Physics,6,5,1060,1014
+49,010a0af3b1ea889c77d8661a5e8e5b83795c8fd7,MerrillLi/openspec-superpowers,skills/openspec-propose/SKILL.md,Software Architecture,9,9,1005,835
+50,01891b39cd2c8502bf4731b609baaf9e8a3994f3,HolobiomicsLab/asb-skill-collections,collections/metabolomics/v1/skills/mass-spectrometry-peak-pair-analysis/SKILL.md,Biology and Data Analysis,6,5,1411,1269
+51,00552d791bf61d984c48c7ffef159b456d24f80d,Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-Website,.agent/skills/intelligent-routing/SKILL.md,Agent Orchestration,8,2,1211,1186
+52,006899c9cbdc363b83d71d7cded9112f724963b8,dcmirandah/agent-skills,powers/subagent-driven-development/SKILL.md,Agent Orchestration,2,2,1030,951
+53,018fd4c3cbfdb84ce55991e0099d7388c7206e3d,ruake/AWARE,.opencode/skills/superdesign/SKILL.md,Design and User Experience,7,6,650,561
+54,004a20c468f1d0d5b82bf623f1463ed76af7ed57,MikeCheng1208/BattleTree,.agents/skills/websocket-realtime/SKILL.md,Software Development,5,8,463,392
+55,0088dc800bb5a4a23987887e2be3a35b79669f7d,JasonRowe/Wahoo-KICKR-Randomizer,.gemini/skills/bluetooth-trainer-expert/SKILL.md,Software Development,8,8,1269,1187
+56,019127b2f03161af392a036d0fc8cb002dbbc50b,saitejreddy007/MIRA,.opencode/skills/typescript-pro/SKILL.md,Software Development,7,7,818,783
+57,012669d89e2eacfa03a9d810717469a68433ff73,vamseeachanta/workspace-hub,.agents/skills/_archive/business/productivity/today/notes/SKILL.md,Insufficient Information,1,1,48,46
+58,012e930f65e405754d956a65ae72d5ccf5d1ba7a,ngocsangyem/MeowKit,.claude/skills/jira-estimator/SKILL.md,Project and Task Management,2,8,612,579
+59,0080c1587c1ce1aaf73e0feeee8010babc101688,MikeCheng1208/BattleTree,.agents/skills/docusaurus/SKILL.md,Developer Tools,7,7,1032,1004
+60,01a9cbf7315397846bbb14cd52a36f2963a6875f,abdellaziz-ali/AI-Skills,skills/agent-room/SKILL.md,Agent Orchestration,2,1,1415,1267
+61,00d7ebb5e3b2c74fd0acb82743b297f15989f89a,ABBranca/go2_ws-,.claude/skills/ros2-expert/SKILL.md,Robotics,9,2,728,720
+62,003e0873e88915d0d95e4db536a2c3f172ee4bd8,NeuralBlitz/buggy,ncx/.opencode/skills/spectral-data-visualization-interpretation/SKILL.md,Data Engineering and Analytics,3,3,585,505
+63,005910408299e9714b3af032f0592a1fb7a01b10,AMindToThink/claude-code-settings,skills/read-large-md/SKILL.md,Developer Tools,6,6,306,259
+64,0145d8ac1ebc837e8cfa0ad2361ec86901fdcb38,I-Synergy/I-Synergy.Framework,skills/ui-blazor/SKILL.md,Software Development,7,7,1201,1127
+65,002bef8ce582b6d101d4ec5f09d3ff8cdfe4504e,dylanyunlon/Neuron_SP,Megatron-LM/skills/cicd/SKILL.md,DevOps and Infrastructure,9,9,1362,1267
+66,006eb1c8c840f55e5793fc85be8d88c29692024f,alexandrecastello/rails-pokedex,.claude/skills/stitch-rails-pages/SKILL.md,Design and User Experience,7,6,1250,1228
+67,00f6afbdc8dbb985ddf9a9648a81ae7386d8d537,bruce808/pet-central,.cursor/skills/build-pet-central/SKILL.md,Software Development,2,7,1174,1064
+68,00722560b089bb3ed9d89c8a563483f94ff62803,testland/qa,plugins/qa-search-relevance/skills/hybrid-search-eval-author/SKILL.md,AI and Machine Learning,6,1,1223,1094
+69,0110401a61ea9ac68e44caa55cae40a2173c297d,wagleanuj/aha,skills/debug/SKILL.md,Software Development,2,9,1143,944
+70,015b31aad8a3311d2012e43557c6f989d9b4c5ee,Mikacr1138/claude-bug-bounty,skills/web2-vuln-classes/SKILL.md,Cybersecurity,5,5,1451,1414
+71,0001a2f8d5a0a99d5c7c4a170ff440cfe16c37c3,BEKO2210/Firstbrain,03 - Resources/Skills/seo-keyword-strategist/SKILL.md,Marketing and Communications,1,1,624,578
+72,00e4ecf99306250d28ef5b537ad57ea7ad137d1c,ShubhamManachekar/GeoSupply,.claude/skills/portal-designer/SKILL.md,Software Development,8,8,361,355
+73,00403b3671a77804d3cb8b02aa0086d0a4e41dc1,brycewang-stanford/Awesome-Journal-Skills,ECCV-Skills/skills/eccv-submission/SKILL.md,Research and Academic Publishing,1,5,934,813
+74,0065cf4316862c986b35f7739390d63377d32244,HamishT26/Beyonder-Real-True-Journey,skills/deep-materialize-regression-v11-operations/SKILL.md,DevOps and Infrastructure,6,7,134,121
+75,015b62c19fac129015b94e8e4710286ee21bbee9,diegosouzapw/awesome-omni-skill,skills/tools/commit-wakepon/SKILL.md,Developer Tools,4,4,758,758
+76,0158c48a21e4568ad6cd52a810f037853ef84613,ronanrodrigo/monster-energy-generator,.opencode/skills/scaffold/SKILL.md,Software Development,9,7,110,109
+77,00b007b76bd3f15f2e2113749396af2590e9a115,jerelvelarde/visualize-skill,visualize/SKILL.md,Data Engineering and Analytics,7,1,1304,1101
+78,00a15635eb311dd05052cb594d719783dd731081,minhtranin/personal-skills,skills/summary/ps:summary/SKILL.md,Writing and Editing,6,6,1158,1058
+79,015a69c20ee182b75f50db1a38bf2f875cb7f740,choguun/pi-extensions,extensions/aidlc-workflow/skills/finishing-a-development-branch/SKILL.md,DevOps and Infrastructure,9,9,1214,1117
+80,00e80915717eba0c0590d7ba8d1353b95f0db01d,wxul/openrouter-generate-image-skill,skills/generate-image/SKILL.md,Design and User Experience,8,8,625,576
+81,0085e50bde8f8b8347411f9fe419f7ed9865bf45,dongtingshuo/academic-word-codex-skill,artifact-template-academic-word/SKILL.md,Research and Academic Publishing,1,4,1032,884
+82,00d6519538a876f3058bcd5bc3a6b64ec45fa7b9,munisp/farmer-data-collection,.agents/skills/testing-ui-ux/SKILL.md,Software Testing,7,7,1144,1062
+83,00d5f5b6262b85746388befe3ef3b899fe57c80e,vheins/Notulensi,.agents/skills-src/debugging/log-interpretation/SKILL.md,IT Operations and Incident Management,6,5,749,721
+84,01a317d38524e2931cd237bd99a955d9061eb462,Amankumar006/Cadence,.agents/skills/fastapi-streaming/SKILL.md,Software Development,8,8,614,556
+85,004130de041d5ea05769313aaa2720af28cc47f1,lionelsimai/claude-skills-collection,skills/incident-management-ops/SKILL.md,IT Operations and Incident Management,2,1,352,346
+86,00fe33e21e093f5aad1493a54e9441c82f7fa3f6,ranbot-ai/awesome-skills,skills/github-actions-templates/SKILL.md,DevOps and Infrastructure,9,9,554,516
+87,0130fcffae6eb409c9419a7492ab82ea56cf5517,Michae2xl/claude-skills-michael,skills/awesome-design-md/SKILL.md,Design and User Experience,7,6,1170,1129
+88,015fe0a51e8a856583c1f21634979fdced42634f,zgid123/skills,skills/react/SKILL.md,Software Development,7,7,611,544
+89,003d2dfb05be0af20c57cb0413d74d7909783930,ejkaz/claude-mac-security,skills/security-scan/SKILL.md,Cybersecurity,5,5,1309,1166
+90,00a85570b65145c2fd0a431e7b0aae6b5a8c98e4,flight505/skill-forge,skills/15-api-development/bearer-token-validator/SKILL.md,Software Development,8,8,475,438
+91,00d46df07de1d4fb3018581e9483d5ee2445fdbc,diegosouzapw/awesome-omni-skill,skills/communication/writing-project-technical-writing/SKILL.md,Writing and Editing,1,1,873,782
+92,00db9a3657b0adb0eb5c282c48f31639afebfa88,qianxian-yang/harness-plugin,skills/td-debugging-and-error-recovery/SKILL.md,Software Development,2,9,990,802
+93,01962fe29727ae7a270c9436a2b4b81885495208,b3belov/security-superpowers,plugins/security-superpowers/skills/performing-cve-prioritization-with-kev-catalog/SKILL.md,Cybersecurity,5,5,1359,1267
+94,0157f7c2bf3eb50eb5791c35839e4f55fc1e93c5,POPCORNBOOM/ShadowDocumentDotMD,shadow-document/SKILL.md,Software Architecture,9,6,846,673
+95,0120caa71762266243315f8bf46e1567267f5887,RenseiAI/donmai,daemon/testdata/released-kit-packages/go/skills/go-debugging/SKILL.md,Software Development,9,6,428,393
+96,007def6743fe984fa0a5d3e0182f4783a89fe8c7,Bhavana-2916/4-moods,Documents/ai-career-coach/.claude/skills/career-coach/SKILL.md,Software Development,1,3,65,61
+97,010c0ace6669ba15fd38643244eee192d62c1f93,JesseQin123/clipmarts,products/mcp-bundles/productivity-mcp-bundle/SKILL.md,Productivity and Scheduling,8,8,358,329
+98,00206367421df60fbd42a32f83a7a0e5222f123f,derekhu0002/Argo,.cursor/skills/architecture-diff-plantuml/SKILL.md,Software Architecture,9,9,144,136
+99,000633a4e2cbb841c75005818b05cdfe89488aba,pranaysuyash/waypoint-os,skills/scenario_case_study_replication/SKILL.md,Software Testing,2,9,420,387
+100,002660e7749bb9389adaf10a00b94049f0323c99,tuanfung/pqt-agent-skills,skills/idea-refine/SKILL.md,Product and Business,4,4,1784,1774
+101,004e9c8f69ecf032f78d5f3284cc9133db5dd9eb,msrv-tech/skills,web-info/SKILL.md,IT Operations and Incident Management,4,4,541,541
+102,000cf661ba69729dd7e9dcbef8e6a92d7f3309f0,u007/ocode,skills/gws-accounts/SKILL.md,Productivity and Scheduling,8,8,304,295
+103,00809abe48e0878d079ce238d1c26e934dce5938,martelogan/pi-autoclanker,skills/autoclanker-hooks/SKILL.md,Agent Orchestration,8,8,848,738
+104,006e97457dbad1124ea1f753837568d29ce9a341,germanros1987/agentic-swe-workflow,templates/skills/orchestration/skill.md,Agent Orchestration,2,2,712,592
+105,0075da0ac1e352958e5b9f01b06cf6aa2588acf4,Vigilox/evelyn-tax-copilot,.claude/skills/harness-orchestrator/SKILL.md,Software Testing,2,2,56,50
+106,00bfca24a5c5f82dd0af017ef075287d9e2b82e3,membranedev/application-skills,skills/gpt-trainer/SKILL.md,AI and Machine Learning,8,8,1120,921
+107,00a847eb7f76e50fb0bb11418b00ecf2c464e1d4,majiayu000/claude-skill-registry-data,communication/slack-message/SKILL.md,Marketing and Communications,8,8,1040,921
+108,0076b72cc27987a1ac37bdb251843c1328bafeff,epicrunze/JaRVIS,skills/jarvis-validate/SKILL.md,Agent Orchestration,9,6,354,311
+109,00c0830fe4f1340f7e7d5c130e0d56c8621a5fca,Jiachen-T-Wang/curation-bench-pro,curation-bench/skills/data-synthesis/phi-3-technical-report-a-highly-capable-language-model-locally-on-your-phone-arxiv-2404-14219v2/SKILL.md,AI and Machine Learning,3,3,863,767
+110,0100d5499c6e3f6a124485090edbf7f7cdbf2059,luciafrancinewu-beep/group14,skills/math/SKILL.md,Mathematics and Statistics,3,3,517,467
+111,002136eba9027c0253a2be6014029e10b1b26754,Emasoft/ai-maestro-visual-communicator-plugin,skills/amvcp-charts-part-of-whole/SKILL.md,Data Engineering and Analytics,1,1,1535,1449
+112,0005e6a6954312a438e8096861bd9d8d83c6bbcc,jukeyman/jukeyman-skills,skills/saas-packs--castai-pack--castai-install-auth/SKILL.md,Cloud and Infrastructure,8,8,722,682
+113,019e1c1cb6511cc074ffffdebf5b5a0877201689,roo2323/ce-part-repo,solocheck-skills/skills/security-design/SKILL.md,Cybersecurity,4,4,858,858
+114,00c4ec6b1679b2fbae17be875346732c4f3b882f,LoganDark/get-shit-done,skills/gsd-sketch/SKILL.md,Design and User Experience,7,2,630,590
+115,00a4b8815ceb723b87759115fd19cd2455ae177d,laurelye/humanities-to-ai-pm,humanities-to-ai-pm/SKILL.md,Career Development,1,1,913,827
+116,009f2e54b5e529417d7f35eb936542d09f1034bf,Klotzkette/claude-fuer-deutsches-recht,aussenwirtschaft-zoll-sanktionen/skills/aussenwirtschaft-embargo-russland/SKILL.md,Legal and Compliance,4,4,1643,1638
+117,0109747aae96975d993875e98dd59cc6ade78851,parhumm/jaan-to,adapters/codex/skillpack/skills/skill-create/SKILL.md,Agent Orchestration,9,2,1383,1299
+118,0188faf6109c9b26d64386c73927f548bbd5ce10,HolobiomicsLab/asb-skill-collections,collections/metabolomics/v2/skills/database-integration-and-linkage/SKILL.md,Biology and Data Analysis,6,5,1348,1198
+119,004000aeb4d45b228ea79d653014e6e47c1df45f,miaodi/llm_config,skills/cpp-performance/SKILL.md,Software Development,2,7,789,666
+120,011ab14addbf3700792de0f2a417001098d26835,mtfum/openai-build-ios-skills,skills/ios-ettrace-performance/SKILL.md,Software Testing,2,8,877,734
+121,01981d6dc032775076511a0ec6a943d7d745dffb,bryonjacob/ffflow,plugin/skills/spec-first-development/SKILL.md,Software Development,2,9,927,799
+122,00dbff3af86cb4373d51a2deed0c80a2fb7832f0,diegosouzapw/awesome-omni-skill,skills/business/seo-djnsty23/SKILL.md,Marketing and Communications,1,1,970,931
+123,01040fa22554503b31637330780fb410483c9631,MikeCheng1208/BattleTree,.agents/skills/mypa/SKILL.md,Productivity and Scheduling,8,8,1273,1134
+124,005e00b3fadad84d38615b57a669668a701a2156,SobshDev/audio-anything,agent/skills/migrate-radix-to-base/SKILL.md,Software Development,7,7,1135,1004
+125,0045b7d74fb1d546b724707b100314b5d54599c9,maqitong/harness-architect,SKILL.md,Agent Orchestration,4,4,1471,1463
+126,00a8abcb008e0eb5ee3eb3df41514ed64fe9d392,adobe/ffcpe-custom-node-sdk,skills/ffcpe-custom-node-sdk/SKILL.md,Software Development,8,8,1648,1530
+127,016db3b6c98e2333604f5c518f221dbd660b8fc1,majiayu000/claude-skill-registry,skills/domains/audit-domain/SKILL.md,Software Development,6,5,766,720
+128,017280c1c3d6999dece03fa4bef65b731c77ca43,exilonX/ap2,.agents/skills/vtex-io-application-performance/SKILL.md,Software Development,7,7,1352,1231
+129,012b8f81381baf5caf6b23d336ff4bb3dd557fa6,dvcrn/openclaw-skills-marketplace,plugins/kenswj--openclaw-shield-1-0-3/skills/openclaw-shield-1-0-3/SKILL.md,Cybersecurity,5,5,473,452
+130,014584d36a9b148bf7890d65888be7b26adf4fa5,jamon8888/cc-suite,copywriter-w/skills/icp-creator/SKILL.md,Marketing and Communications,1,1,1153,1002
+131,012d78b6c84a6dabf79d731aaa35c10f199dd212,MikeCheng1208/BattleTree,.agents/skills/resume/SKILL.md,Career Development,6,5,1169,1094
+132,0048d4de30b86bce036062332fe0c26c5a73a372,arvinty/cddc-image,skills/cddc-skills/cddc-unknown/SKILL.md,Cybersecurity,2,5,1409,1226
+133,015323d0637db6800d86146e3ff2de6de26a4096,JDL440/nfl-eval,.squad/skills/stage5-valid-draft-fixtures/SKILL.md,Software Testing,2,9,379,337
+134,0081100796c3505d1c71f7a37f6c6b98ea6e3051,zwright8/OpenClaw-Code,skills/generated/8761-scientific-hypothesis-prioritization-for-childcare-support-systems/SKILL.md,Research and Academic Publishing,2,3,662,600
+135,0136542e28abf320342d7569a16c7281fb1573fa,26zl/cybersec-toolkit,.claude/skills/extracting-browser-history-artifacts/SKILL.md,Cybersecurity,5,5,962,876
+136,0059892912e89babff492820fc00d1d4c8691712,Gabriel-Operator/team-agents,nodes/node-structured-output/SKILL.md,AI and Machine Learning,6,8,327,304
+137,0143f8bb0ce04690fb344230da94bc5e44a6f8b3,NeuralBlitz/buggy,ncx/.opencode/skills/spatial-environmental-engineering-measurement/SKILL.md,Engineering,3,3,563,483
+138,015a3e16065dafd0c33213ec310720931fd2e6c5,Saiderlux/Turmalin,.claude/skills/verify/SKILL.md,Software Testing,4,4,518,517
+139,018013218cdd432aa6327d0ad8294af9685f07ae,pankajpm/kanban-app,.agents/skills/kanban-design-guidelines/SKILL.md,Design and User Experience,7,7,624,556
+140,01872518ad0862b55491cdf028bcb45a355bd027,TheTrickeyOne/claude-harness,skills-catalog/_vendored/GPL/red-run/skills/web/browser-exploitation/SKILL.md,Cybersecurity,5,8,1085,954
+141,016e7f0d6005354a2688ab7d56004f549395edea,weholt/weholt.github.io,.opencode/skills/wire-photography-gallery/SKILL.md,Software Development,9,6,725,672
+142,006a190a65130c69e62cf325f66a0510a90058d1,tukaelu/skills,compose-commit/SKILL.md,Developer Tools,9,4,3022,3022
+143,01295990cfc5caed1d72efae898e3402e71ca92f,oskarostlind/nextwatch,.cursor/skills/ios-appflow-build/SKILL.md,DevOps and Infrastructure,9,9,697,682
+144,0034a60c7633b6ddd9a1f23fe60e1c2f84bc73e6,ohwiki/llmwiki-template,.agents/skills/ma-sanli-writer/SKILL.md,Writing and Editing,4,4,2407,2407
+145,00441960f9a0e9696d1cc1a48edc58126b915527,fractary/core,plugins/file/skills/fractary-file-move/SKILL.md,Developer Tools,6,6,236,233
+146,0026f4ee6426e6bce8a0549def71109dbd7cd64e,docxology/template,infrastructure/search/SKILL.md,Data Engineering and Analytics,6,1,1087,989
+147,0156d95397f3e6d6fed389d8b86fb0b27c0d1d2d,s977043/river-review,skills/upstream/migration-safety/SKILL.md,Databases,6,5,1667,1667
+148,0029aefc34835ebe8e47accf90ca59a5b11ca4dc,h102-log/pdfrag,.claude/skills/moai-tool-ast-grep/SKILL.md,Developer Tools,6,6,1310,1192
+149,002f8e48cddecb01d2e4aa1360eef84963a84e74,Sandeeprdy1729/skill_galaxy,skills/spatial/spatial-expert-123/SKILL.md,Insufficient Information,3,3,257,247
+150,0040041c4321053370207af8c8b403676988815c,0x1337c0d3/claude-security,skills/sentinel/skills/api/SKILL.md,Cybersecurity,5,5,1216,1151
+151,0047e935a2c532d9180135a71717a568b2ce2af6,mage0535/hermes-memory-installer,skills/memory-archivist/SKILL.md,Agent Orchestration,4,4,395,395
+152,0118f07a4322b7d076d816b912f6e9ed970d3471,berlinguyinca/autospec,crates/autospec-cli/tests/fixtures/validation-cutover/documentation-contracts/skills/autospec-define/SKILL.md,Insufficient Information,9,9,29,27
+153,005fedc51c3a89e09f928ef85a0775d6ce8994a4,Harsh2227kumar/anonymous-defi-reputation-passport,agent/skills/midnightskill/SKILL.md,Software Development,8,2,1115,1029
+154,004138ed75c0343dcba1418d2102e641f49f61c8,MikeCheng1208/BattleTree,.agents/skills/m4-api/SKILL.md,Biology and Data Analysis,6,5,1109,1048
+155,0138c60825622eb4b370f6d1a5683a9684a373ac,sky770825/openclaw-console-hub,docs/openclaw-taskboard-skill/SKILL.md,Project and Task Management,4,4,1284,1284
+156,00a5ef90ca097a02bcf2653e4b8701fa66921d43,hatch3r/hatch3r,skills/hatch3r-design-system-detect/SKILL.md,Design and User Experience,2,2,1262,1168
+157,018df5d7df5fad8f4621180a20ba06df0a36570d,GiulSposito/r-claude-skills,.claude/skills/r-bayes/SKILL.md,Mathematics and Statistics,6,5,599,563
+158,01a65a7bc9d582a60b68a45efa74642e53821626,Mutfak-Yazilimevi/.github,project-template/.claude/skills/sec-performing-network-traffic-analysis-with-zeek/SKILL.md,Cybersecurity,5,5,1252,1181
+159,0133ea693a99a0ef4d7f9d4f51a8314862be801d,Ayushh-is-here/premium-web-design,skills/accessibility-engineer/SKILL.md,Design and User Experience,7,3,1105,1012
+160,018135c39f49e45a7ad648aa674e720ff1c1856f,brycewang-stanford/Awesome-Journal-Skills,Current-Anthropology-Skills/skills/curranthro-transparency-and-data/SKILL.md,Research and Academic Publishing,1,1,982,821
+161,0059501ea872737c9b26cd76090fa803da2b5393,Klotzkette/claude-fuer-deutsches-recht,berufsrecht-wirtschaftspruefer/skills/aufbewahrung-pruefungsakte-kammerantwort/SKILL.md,Legal and Compliance,4,4,1389,1385
+162,00a91edbcd0ad6fb7ac90a800964e316f0fba84e,MikeCheng1208/BattleTree,.agents/skills/quieter/SKILL.md,Productivity and Scheduling,8,8,107,95
+163,00b793b9b78f11f6c4e8924fd5786cc69d48e459,lowdefy/lowdefy,.claude/skills/l-pr/SKILL.md,Developer Tools,9,9,1020,882
+164,00290c96cce86d352461407e561b58c27bc587af,Klotzkette/claude-fuer-deutsches-recht,immobilienrechtspraxis/skills/immor-erbbaurecht-vertrag-spezial/SKILL.md,Legal and Compliance,4,4,1669,1661
+165,0027e049433c6bb37ae4a0700dc927e7bb7abd00,dansusman/skills,grill-me/SKILL.md,Product and Business,1,1,110,82
+166,013b3a7ac738c2c552d43a30cc86e8111b1f5882,AcidicSoil/skill-porter,examples/before-after/code-formatter-converted/SKILL.md,Developer Tools,9,7,207,195
+167,005a1725d1157e2f109137d81b4dd538ee3e54bf,datadog-labs/agent-skills,dd-apm/service-remapping/SKILL.md,IT Operations and Incident Management,5,8,1307,1160
+168,00c349a93802ba31bcb004c26a1c47adb040a164,Apartsalan/luxis,.claude/skills/bekende-fouten/SKILL.md,Software Development,6,6,1576,1553
+169,0161126791f89dee2f76ad5c614eb33d860eb067,jberlanga748-a11y/concrete-ops-2,.agents/skills/apex-sales-outreach/SKILL.md,Marketing and Communications,1,1,183,166
+170,00c14137f9a7a89d9be869b19e3a574d19e4fe20,dvcrn/openclaw-skills-marketplace,plugins/alirezarezvani--ui-design-system/skills/ui-design-system/SKILL.md,Design and User Experience,7,2,1227,1197
+171,004c66b1e7a5a7f3b08813b786475b9b60c08e62,BB-84C/omo-slim-superpowers-patch-kit,opencode-config/skills/best-of-n-with-judge/SKILL.md,Agent Orchestration,2,2,1173,1067
+172,008c0b7c9c064f0bdda211279fdcf9d51690f7ba,MikeCheng1208/BattleTree,.agents/skills/gh-ci-triage/SKILL.md,DevOps and Infrastructure,9,9,367,350
+173,010c77a1e2cf0e3fe0bdd460a053f408be7f6015,vamseeachanta/workspace-hub,.agents/skills/_archive/business/legal/canned-responses/required-customization/SKILL.md,Legal and Compliance,1,1,238,220
+174,00d476d8a7d210a3b154586cf297eb1eab4de946,diegosouzapw/awesome-omni-skill,skills/data-ai/monitor-db/SKILL.md,Insufficient Information,8,8,109,97
+175,003d27a522f2fe7ba7ecc89a643adb108cc15379,lxyeternal/MalSkillBench,Dataset/Skills/malware/task-swarm-controller/SKILL.md,Agent Orchestration,2,2,914,842
+176,01957ae18f377a070d187f3c52465f5ad529b7c6,stacklok/toolhive,.claude/skills/code-review-assist/SKILL.md,Software Development,2,9,1024,825
+177,005a7c7000118ecd2d20074f073d00e1bc82b215,MikeCheng1208/BattleTree,.agents/skills/file-archiver/SKILL.md,Developer Tools,6,6,160,157
+178,00d96e316eb36ced1ea63a5ee5823a9b11bac60e,yogsoth-ai/de-anthropocentric-research-engine,skills/forced-bridge-construction/SKILL.md,Product and Business,2,1,814,763
+179,014ee1bf27447b10f795618f056ef3ae673b8eae,ewe-studios/agentic-coding-starter,skills/code-verification/skill.md,Software Testing,9,9,1037,978
+180,011c857405b06bb421dd1680a9229abc7bb6595a,a-ng-d/claude-ui-color-palette,skills/gitlab-cli-skills/glab-auth/SKILL.md,Developer Tools,8,8,1192,1040
+181,01803e4ae3ea04fd74d94089804606240377aba6,arkilstsko/Codex-Game-Studio,codex-adapter/skills/ccgs-create-epics/SKILL.md,Project and Task Management,9,9,1198,1065
+182,00aae9c2a65b4e0842a7b59b66867311c18220a1,lichao689/woeai,.agents/skills/wechat-paper/SKILL.md,Writing and Editing,1,1,1041,880
+183,010d3212aa54083bacaf64306902a3bb39543331,stericishere/skills,build/SKILL.md,Agent Orchestration,2,2,1367,1238
+184,007031631305b3a76e2d0b2675aba179e5837835,lgjsd/StoryShell,openclaw/skills/story-authoring/SKILL.md,Game Development,9,6,275,256
+185,00bef2e1bafe5716d6d4cf3712daeca28a7ae024,caishengold/ai-agent-ops,skills/academic-paper-reviewer/SKILL.md,Research and Academic Publishing,4,4,2612,2610
+186,0132be48f9fe0380f1541bebd4a6ca9e2e0edb38,eose23-beep/hair-by-william,.agents/skills/specialized-workflow-architect/SKILL.md,Software Architecture,2,2,1005,826
+187,013a95309e4cb97e1cdc09e8a447855d2d57aeec,L1l1thLY/skill-creator-claw,skill-creator-claw/SKILL.md,Agent Orchestration,3,3,993,686
+188,00079874bb5784070d1f2180203195030d9ae12c,eliferjunior/Claude,.claude/skills/ts-code-reviewer/SKILL.md,Software Development,9,9,897,786
+189,00d4ebfd3badffd52464ca979b3cb93ee5f16305,kl3inIT/ai-agent-core,.claude/skills/jmix-create-list-view/SKILL.md,Software Development,6,8,1194,1035
+190,00cdad7087f52dedef549a769127a25639eb7563,modbender/skill-library-mcp,data/crow/SKILL.md,Finance and Cryptocurrency,8,8,587,536
+191,0066f7768705c680a30468ec54782cb9610c4a4f,levu304/claude-code-boilerplate,.claude/skills/review-pr/SKILL.md,Software Development,9,9,1235,1134
+192,01a48f2b21adfae295d507e7e180e700b3a82382,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/nonlinear-numerical-analysis-analysis/SKILL.md,Mathematics and Statistics,3,3,558,478
+193,00f033d964b5f7ef3283dc83745ff0df70e6f320,Dkalds/TenderFlow,.claude/skills/upstash-vector-js/SKILL.md,Databases,7,7,262,235
+194,00c5afde72313bce6bd8c4c3f78de51c143817ee,ComeOnOliver/skillshub,skills/jeremylongshore/claude-code-plugins-plus-skills/attio-debug-bundle/SKILL.md,Software Development,9,8,639,613
+195,0173b9206b61a03385c620699399b3bd9ce35ebd,NeuralBlitz/ncx,ncx/.opencode/skills/continuous-parasitology-troubleshooting/SKILL.md,Biology and Data Analysis,3,3,575,495
+196,017354eb7818d127e0e358afac9052eefaa1b515,engremran07/gsmvault,.claude/skills/static-assets/SKILL.md,Software Development,7,7,108,107
+197,00e9f7d1d5ec7831b68d0651068a7d9b725379c8,Nakshatra-Vashistha/forge2-qualifier-nakshatraold,skills/status-report/SKILL.md,Project and Task Management,1,1,106,86
+198,00f8079c44a9d9caec768ba0ff705f4bc915dd39,gaegulgaegul/gaegulzip,.claude/skills/pdca/SKILL.md,Agent Orchestration,2,4,2976,2932
+199,019bfb91384f40f1c334bf3845f84778f6234d43,RockaRhymeLLC/kithkit-a2a-client,skills/agent-comms/SKILL.md,Agent Orchestration,8,8,1279,1180
+200,00016d74de04c71bdbde7f41ae4a34b7849e9849,zwright8/OpenClaw-Code,skills/generated/shards/tools01/0036-jira-report-builder/SKILL.md,Project and Task Management,2,2,1025,933
+201,00808d98bc5733dbfd41fbbce4d666f08e3d2d3a,qhjqhj00/research-skills-pool,skill-factory/output/clicktok-eval/SKILL.md,Cybersecurity,5,5,640,568
+202,009d3dcad191ca08ef20308b0e2930214ec6cdfb,milanhorvatovic/skill-system-foundry,.agents/skills/local-ci-code-review/SKILL.md,Software Development,2,9,1127,1002
+203,008ff392da084af23a1f9d0591c205fe2b15252e,firebitsbr/Writeups-claudeskills,claudeskills/writeup-r0nen/SKILL.md,Cybersecurity,5,5,89,86
+204,0186d81d095eb6a597359c425f34af399b4ec391,ali-master/skills,skills/orpc-batch-requests/SKILL.md,Software Development,8,8,220,195
+205,0061ac29be8ab1d28f858d3f7379ca369e3acbf2,Jaseelkt007/Robotics_berlin_hack,.claude/skills/box-stacker/SKILL.md,Robotics,7,2,1371,1155
+206,01389264bec96f4a1acdc209ecf2f7ac4c4d7d18,selmer512/mira_assistant,skills/music_audio_toolkit_skill/SKILL.md,Audio and Music,1,2,111,84
+207,01814d0b225df447390331981a83d25f659a66b5,togorashi45/skills-directory,re-appointment-setter/SKILL.md,Marketing and Communications,1,1,555,510
+208,0119637095ea8fe31cdfae7f55052fd1f3a35bb3,avvale/aurora-back,.claude/skills/aurora-tools-scripts/SKILL.md,Databases,6,2,971,940
+209,005d76cd388acbc590a3ee2f950b8b5156468222,smyx-sunjinhui/smyx-open-claw-skills,skills/smyx-grooming-effect-assessment-analysis/SKILL.md,Pet Care,4,4,3034,3026
+210,014501d65f2df5572ce7986822f1528b2834c95c,Demerzels-lab/elsamultiskillagent,public/skills/linhui1010/asdasdsasdasa12312/SKILL.md,Insufficient Information,3,6,66,52
+211,0041a1faa4ad5914f6cdd703d6a2eff4444163ce,hiyenwong/ai_collection,collection/skills/neuroscience/naimark-qnn-measurement-circuits/SKILL.md,Physics,8,5,1030,979
+212,01199328d45c8acead630b84d9aed97b42be5ad3,pcitalian/pcplayground,openclaw/workspace/skills/device-management/SKILL.md,Cybersecurity,8,8,578,496
+213,008f6be1201742d7db166ad7e90f19bb5c9e3505,Aradotso/mcp-skills,skills/vulnerable-mcp-servers-lab/SKILL.md,Cybersecurity,5,5,1143,1092
+214,0061ea0c97016b898d650b65f5513e84bc506ee8,sbetav/fortnite-item-shop-scraper,.agents/skills/pytest/SKILL.md,Software Testing,8,9,1451,1405
+215,00a2ec4efdeea39be6db50dcad24d7b55dc2649a,gabrielmoreira/agent-skills-mirror,mirrors/repos/dadbodgeoff@drift/drift v1 depreciated/skills/sse-resilience/SKILL.md,Software Development,8,8,369,344
+216,00322e030fb818e62bb30ff61933344541952c93,cic8822-cpu/20260710,skill 모음/1._(skill)_harness-100 skills/ko/76-travel-planner/.claude/skills/budget-calculator/skill.md,Travel and Tourism,4,4,2207,2207
+217,00b9681431fdb1b84208b506306f61eb0853846a,gaaschk/gaasch-family,.claude/skills/gstack/.agents/skills/gstack-plan-design-review/SKILL.md,Design and User Experience,2,2,1221,1041
+218,01aed9297187a1b61949f4e565a0c69eeb45b6b3,RUC-NLPIR/ClawTrojan,claw_trojan/envs/cs_delay_002/step_1/workspace/skills/planning-with-files/SKILL.md,Project and Task Management,2,2,1579,1463
+219,019f3c3395ec3cc3dc7e289b5e04852d236654e7,christophacham/agent-skills-library,skills/agents/memory-systems/SKILL.md,Agent Orchestration,7,1,806,686
+220,0190a6e28506ae5ea5fe58422a19cfff122f56d2,third774/dotfiles,opencode/skills/systematic-debugging/SKILL.md,Software Development,2,9,995,885
+221,001ba5ff5db6c905e55cd6c997e07bf0451e1aec,karais89/agent-skills-for-codex,harness/source/full/root/.agents/skills/security-and-hardening/SKILL.md,Cybersecurity,5,5,990,884
+222,0067baa815128ecc3c68666b50d58c4120c9f70e,abdulbasit742/anydesk,.agents/skills/skill_gen_397/SKILL.md,Software Development,2,2,166,152
+223,00b15a35dcfb5cd5c46f1a5f550c785e10f32b70,waldokilian2/unravel,skills/extract-api-contracts/SKILL.md,Software Development,5,5,1267,1116
+224,010d8f4b51db5a6929a55ab210896b57b7504a12,Lord1Egypt/awesome-skill-forge,community/clawhub/h/hr-ai-assistant/SKILL.md,Human Resources,8,8,2248,2066
+225,00c5ca9deb2ff01450b534739f6f745998f9de32,dg/agent-persona,skills/kkrdboys/SKILL.md,Writing and Editing,4,4,1947,1921
+226,011cf1003160dad2cb3eb3971a741461c8c895ce,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/continuous-clustering-design/SKILL.md,Data Engineering and Analytics,3,3,566,486
+227,0019a291648900c3bcf96c5535fcc9980c5ff36f,UitbreidenOS/UitKit,plugins/uitkit-backend/skills/nodejs__react/SKILL.md,Software Development,7,7,739,658
+228,00e7d86a79b473c46b83a52657bcb0c36edac7cd,OrangeViolin/content-pipeline,SKILL.md,Marketing and Communications,4,4,2917,2914
+229,00d012edd9326a30a600e4f2db3c2789a416230f,MikeCheng1208/BattleTree,.agents/skills/nova-net-worth/SKILL.md,Finance and Cryptocurrency,8,8,884,814
+230,0057a5f72d895daaa1898ada66cb5e7e1567a40b,knownasnaffy/prompthound,dataset/case_04351/SKILL.md,Marketing and Communications,4,4,3158,3149
+231,01826596f21aefd4213fce1295d779cdd7becbc7,ibragimov-oasis/name-navigator,.antigravity/skills/skills-antigravity/source-antigravity-awesome-skills/plugins/antigravity-awesome-skills/skills/ai-studio-image/SKILL.md,Design and User Experience,1,1,1463,1418
+232,01577138c13ef58e1ea30562189161fb0c89d879,David-Li0406/meta-skill-evloving,AutoSkill/SkillBank/ConvSkill/english_gpt4_8_GLM4.7/generate_presentation_notes/SKILL.md,Writing and Editing,1,1,574,498
+233,00764146bf70a920a17d5b5fac29972e7f506c18,duc-cute/course-english,course_english_frontend/.cursor/skills/admin-exam-editor-ui/SKILL.md,Design and User Experience,4,4,1718,1716
+234,01114be17b38f2d7dbaa9bbe5fda3305794ae87d,mrilikecoding/dotfiles,home/.vibe/skills/argument-audit/SKILL.md,Research and Academic Publishing,1,1,1018,856
+235,014f8ecbcb92464a8af680a95a86334977a63a68,creator-hian/claude-code-plugins,csharp-plugin/skills/csharp-xml-docs/SKILL.md,Writing and Editing,4,4,1135,1080
+236,010f6a227f0ea5a2ba1e550970ca07c50b7bd3e0,aibot88/sec_skill_store,skills/claudskills/radicale-self-hosted-caldav-carddav-server/SKILL.md,Cloud and Infrastructure,8,8,365,321
+237,002f0b2f4209b2d4690204dd9894f923fec25ab2,nomotomo/syn-grid-client,.cursor/skills/godot-input-and-controls/SKILL.md,Game Development,7,8,384,340
+238,0103b0be26815c1c3ba1d9ba9797c0d3b72bd7aa,marconardelli/rl-skills,skills/designing-deterministic-eval-loop/SKILL.md,AI and Machine Learning,2,3,573,527
+239,01383399da6cecd844f70a0c67522139166e421d,Baltsat/harness,tools/claude/skills/agent-browser/SKILL.md,Developer Tools,8,8,224,208
+240,0067d980b45dc19cbbfa656a2e74d856287db353,johwer/marketplace,skills/request-refactor-plan/SKILL.md,Software Development,2,9,856,700
+241,004d9f1844fc677e7c1602d7a6f8cc47b602e7b1,William-kelvem94/Will-obsidian,.continue/skills/bigquery-basics/SKILL.md,Data Engineering and Analytics,6,5,1465,1406
+242,007fb9f541359b8220174dbe72317a674879ce11,mshron/polynumeral-assistant,workspace/skills/agent-browser/SKILL.md,Developer Tools,8,8,352,323
+243,002933a63cc0487cec5cc4665f8d817d350f6709,FerroxLabs/wayland,src/process/resources/skills-library/bodies/skills/career-development/skill-gap-analysis/SKILL.md,Career Development,3,3,1029,894
+244,0160f157f0cc860650cf5860458f928c4bcef035,Brmbobo/Web2podcast,.claude/agents/enterprise-frontend-design/agents/saas-packs/exa-pack/skills/exa-core-workflow-b/SKILL.md,Insufficient Information,8,8,365,354
+245,01059636d74954b81bf8f5cd11dad995b2cd2b3d,ygolan93/BeaverMania,.agents/skills/unity-ui-controller/SKILL.md,Game Development,7,7,305,265
+246,00b5483dcb137e064173cacb059dd30d1f58a0f4,MikeCheng1208/BattleTree,.agents/skills/gitlab-ci/SKILL.md,DevOps and Infrastructure,9,9,1188,1134
+247,00f2519647155837492baad80befed68c2d5c26a,phuccodenub/Kit_Analyze,Antigravity_Kit/packages/springboot-kit/src/skills/spring-security/SKILL.md,Cybersecurity,5,8,524,509
+248,00f50a5f939b7f9d68a413649b872c5e24244147,Kimurist2024/rverythong-skills,skills/implementing-continuous-security-validation-with-bas/SKILL.md,Cybersecurity,5,5,1125,1069
+249,00f7a9045b547a34004b928e91469d5a984c202d,theycallmeigor/Thermoslim-Intel-Platform,.claude/skills/code-reviewer/SKILL.md,Software Development,5,5,525,505
+250,012d7bc1c7c82c917120056a2f7624ec7ae6736d,ifernandez89/productos_crud_bkd,skills/assistant-behavior/skill.md,AI and Machine Learning,1,4,209,208
+251,009b280195bb4cf470fde40630db0e08c8069b76,MikeCheng1208/BattleTree,.agents/skills/create-feature-branch/SKILL.md,Developer Tools,9,9,543,509
+252,019b999d43402b3ffb79551069c63cfad3955d8c,apresmoi/unpack,.claude/skills/up-init/SKILL.md,Project and Task Management,9,6,74,56
+253,00104ab552e3b8dc88538a199b3a56d1ebb6cdab,majiayu000/claude-skill-registry,skills/performance/storefront-health/SKILL.md,Software Testing,1,1,537,476
+254,008154c83d3dc826a1e50eaa27bd0a8f5d2c16ed,roseDwayane/forecasting_the_brain,.claude/skills/bilingual-translation/SKILL.md,Writing and Editing,4,4,1122,934
+255,00b44c813032d93c97cc2f12596560f00ab64a14,Joshu2001/Regaarder-Compose,.agents/skills/color-hierarchy-resolution/SKILL.md,Design and User Experience,7,7,450,407
+256,00d8aa5a4adc90089a76c6e6d901d9db1313c1cb,heymishy/2x2-v3-28-03-20216,.github/skills/ea-registry/SKILL.md,Software Architecture,5,5,1196,1047
+257,0185534395a283f08b434c864ff31e66970ac5c2,Klotzkette/claude-fuer-deutsches-recht,gebrauchsmusterrecht/skills/lizenzvertrag-gebrauchsmuster/SKILL.md,Legal and Compliance,4,4,1105,1102
+258,0172e77e9cda3264fffe95973ab18c4d1f0f036b,marketingLendario/cohort-de-marketing,.claude/skills/design-md/SKILL.md,Design and User Experience,4,4,1738,1705
+259,016ebe4c467461968b5e174cd02f9d56b949b07c,majiayu000/claude-skill-registry-data,integration/web3-manager/SKILL.md,Finance and Cryptocurrency,5,5,161,155
+260,006c7e8791fc740f107263b218e7fedce91e54a6,MikeCheng1208/BattleTree,.agents/skills/cdd-gather-context/SKILL.md,Software Development,9,2,922,834
+261,0195ca1b23dae98d732817c5a19bd1695a05baf3,viloc2b-a11y/Vilo-Research-OS,vilo-skills/stock-analysis/SKILL.md,Finance and Cryptocurrency,6,5,350,350
+262,003c7d54fd1a517b88a339e03b40d1b0059318ba,DVampire/AgentEvolver,agentevolver/skill/creator/skill_creator_skill/SKILL.md,Agent Orchestration,2,2,1199,989
+263,004c340fdf90f18c8e6526abcce78db79b7d0e3c,muminkoykiran/uptime-sage,.agents/skills/telegram-dispatch/SKILL.md,IT Operations and Incident Management,8,8,393,369
+264,0005bfdfffae9c0aa20b16c806c33b47bb41cc1c,vitorsoratto/skills,mongodb-expert/SKILL.md,Databases,6,1,1329,1246
+265,000d08c366f931a70d8e5b62c8b4a52f3fdeeaff,jwnichols3/bmad-kiro-agents,.kiro/skills/create-epics/SKILL.md,Project and Task Management,1,1,135,121
+266,004ddd2276892bd9010466bb25d9899ec602b43b,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/numerical-mineralogy-interpretation/SKILL.md,Earth Science,3,3,566,486
+267,00ad9eba9e2f08d5c39f82d30ae4e806d21f5b33,billydeeii136/black-opps-gstack,devex-review/SKILL.md,Software Testing,2,9,1209,1087
+268,00ffaec6208faf7436da10a0603798709ca4747b,ComeOnOliver/skillshub,skills/jeremylongshore/claude-code-plugins-plus-skills/coderabbit-local-dev-loop/SKILL.md,Developer Tools,9,9,744,708
+269,00b9df82312b38d3e4fbe05fbf42e91b8487518b,laudoluxDev/lawtasksai-api,loader/eventplanner/SKILL.md,Event Planning,8,8,1069,940
+270,01b1d73b559bc2383c629e03f5b67b178de7b6a9,ComeOnOliver/skillshub,skills/CharlesWiltgen/Axiom/axiom-xctrace-ref/SKILL.md,Software Testing,6,5,1052,1005
+271,000bb0ca148f052c677bb7e86b9a843ac3cc0794,MikeCheng1208/BattleTree,.agents/skills/clawhub-auto-publisher/SKILL.md,Agent Orchestration,4,4,346,342
+272,00e876f2057774fa2894e45b89b0861e5205485d,codekiln/logseq-encode-garden,.agents/skills/readwise-skills-sync/SKILL.md,Agent Orchestration,2,2,740,648
+273,00d210853a80c94c4d15a0860ed744f53dc7e906,microsoft/vscode-team-kit,github-inbox/skills/inbox-mark-all-read/SKILL.md,Developer Tools,9,9,85,76
+274,00881feef82c5a520bf77981b4d1da9ca8b4195a,MikeCheng1208/BattleTree,.agents/skills/ops-detection-incident-routing/SKILL.md,IT Operations and Incident Management,2,2,542,509
+275,015fe7a74230831f1bae19000847192629402e83,jimiryquai/pi-agent,skills/compound/SKILL.md,Project and Task Management,1,2,329,291
+276,00e3442800f2685a76be32060852957fb7e9a954,MAMAOUTALIBE/GESTION-ECOLE,.claude/skills/developpeur/SKILL.md,Software Development,7,7,787,786
+277,00d13abfe709370d3d1e3b997e2fe7bfbf2c44c4,MaTriXy/babysitter-codex,upstream/babysitter/skills/babysit/process/specializations/domains/science/chemical-engineering/skills/corrosion-materials-selector/SKILL.md,Engineering,3,3,276,261
+278,0174c5daf4195dfac6e08da97e1258f92d853f5b,nyvlemyt/MultiAgentOS,packages/skills/library/seo/SKILL.md,Marketing and Communications,1,1,1362,1234
+279,01895e923cda2c610d36cbeb75be967ad15cca68,tmdgusya/hermes-provider-switcher,skills/setup/SKILL.md,Agent Orchestration,8,8,655,619
+280,00f9ae8a983c55c21b30d3939a5c59aebe82375a,Lord1Egypt/awesome-skill-forge,community/clawhub/a/audio-translator/SKILL.md,Audio and Music,4,4,1071,1068
+281,00d3a836c7f8008ad350132a1b51a449c05d7863,flight505/skill-forge,plugins/saas-packs/juicebox-pack/skills/juicebox-webhooks-events/SKILL.md,Software Development,8,8,554,537
+282,015758f75665614b6a381997b54f99014e851d29,ForceInjection/domain-driven-design-skills,relative-skills/claude-skill-registry/skills/productivity/kanban-qa-simonblancoe-kanban-mcp/SKILL.md,Software Testing,2,2,401,361
+283,010c025744a92c874ca09a973d4caf6fec65b8bf,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-36k/skillsmp/merged-d7313a687dcd3fc3-fetch-rss-feeds/SKILL.md,Data Engineering and Analytics,5,8,583,547
+284,00ea8bd7ff03f02293c8a18c11fc14a14f658f1c,MikeCheng1208/BattleTree,.agents/skills/security-checklist/SKILL.md,Cybersecurity,5,5,1095,938
+285,001b467f6f3ece7e02b25748cacef74dd2e7a1e1,ramzihizi/dotfiles,claude/skills/handoff/SKILL.md,Project and Task Management,9,2,1294,1164
+286,017affe30735dcc04c7ad0ec5d04568edeb77965,aj1126/antigravity-token-optimizations,templates/skills/git-check-commit-push/SKILL.md,Developer Tools,9,9,164,151
+287,01a5e21f3becd625e2eff7822cd2fd7bf14a2450,johfrah/voices-vercel,.cursor/skills-archive/theme-dark-scan/SKILL.md,Software Testing,7,6,1785,1763
+288,0160f68477e82baf36b03e5b42b4b789e985e0f0,harshana-ukhsa/govask,.github/skills/build-presentation/SKILL.md,Writing and Editing,9,9,936,792
+289,0137fa2a88dddc1b4e5087979780942d9f478105,vmaia00/claude-specs,plugins/pm/skills/porters-five-forces/SKILL.md,Product and Business,1,1,817,701
+290,011f17598d774065c3a44df1eae1bb15de64b3ec,grahama1970/agent-skills,skills.pre-symlink-1776435493/tts-horus/taxonomy/SKILL.md,Data Engineering and Analytics,6,5,353,337
+291,003108d679304bcdfd3aa59cc51fc3aee74f685b,harir03/promptwars2.0,.antigravity/skills/karpathy-guidelines/SKILL.md,Software Development,2,1,500,440
+292,003ca49c31ace2f3e6b012a3105fb51ed7cff1d4,klod68/littlerae,.claude/skills/grpc-standards/SKILL.md,Software Development,5,8,1060,992
+293,00176ea6ecefd30a5749d68f63b23e2e8a03571f,etacCAD/my-claude-skills,skills/test-engineer/SKILL.md,Software Testing,2,9,298,253
+294,00b12086d5e187497fc5602dc28b300ac8fe3141,k821209/co-scientist-mcp-public,apps/local-mcp/co_scientist_local/skills/paper-export/SKILL.md,Research and Academic Publishing,1,6,1161,1033
+295,01784c9b973147e135ce2499c249fb03596644e2,devjotaduo/picoclaw,internal/saas/api/baseline-workspace/skills/vendas/agendar-reuniao/SKILL.md,Marketing and Communications,4,4,265,263
+296,013c7636085eb13f46f0e0972346af860c6766ad,continuity-bridge/continuity-bridge,.claude/FOUNDATION/SKILLS/FOCUS_SHEPHERD/SKILL.md,Productivity and Scheduling,1,1,570,511
+297,006362c61c091464d8f7e838094c2f9f0b58775a,epci971/claude-epci,archive/5.4/skills/core/breakpoint-display/SKILL.md,Agent Orchestration,8,8,1447,1444
+298,008c11f198453be76e53c9d724449477433f77ba,KarubiOhayo/Dev-Agent-Orchestrator,.agents/skills/round-main-control/SKILL.md,Agent Orchestration,4,4,1489,1489
+299,005c81548490a3296d61b905dc2a2bc423022a5d,RelevanceAI/agent-skills,SKILL.md,Agent Orchestration,8,2,1162,1039
+300,016dee437eb6c7a12f63bb64b964a13eb8ea0e01,Tassadar2499/NovaTune,.codex/skills/add-outbox-pattern/SKILL.md,Software Architecture,8,8,514,485
+301,00936cf7d4f538d5925e68cd2a38b88d1b959d07,tools-only/X-Skills,development/075-agents_2b784408/skill.md,Software Development,2,2,1022,875
+302,013da72f921d0e5d55e24d03b6cdb81db0f4e3cb,eladb/2nd-hand-seller,.claude/skills/post-to-yad2/SKILL.md,Marketing and Communications,6,6,1267,1073
+303,01161e87618db1135f14aefafaa346b9132fc495,opencue/skills,skills/rust/sccache/SKILL.md,Developer Tools,9,6,367,345
+304,00748695f17767b1280e359d178100114f5ab694,kbaseincubator/BERIL-research-observatory,.claude/skills/remote-compute/SKILL.md,Cloud and Infrastructure,8,8,1241,1053
+305,00bd1daf2e2289f03b67e8cdd7545d04ba783b37,mahg-es/araya,skills/pm-status/SKILL.md,Project and Task Management,2,2,464,397
+306,014f9d98da6296aaac8debf409137e1b742a6987,blame19/claude-skills,terraform-tests/SKILL.md,Software Testing,2,9,1120,988
+307,000ff011c6054482a58a7e9386f183a3e31095b3,Hbah8/swade-app,.github/agents/skills/release-procedures/SKILL.md,DevOps and Infrastructure,9,9,326,297
+308,000c0571a199f121252a6166399060745cb3934a,simtransforma/HAOS_CC,skills/haos-memory-triple/SKILL.md,Agent Orchestration,4,4,275,274
+309,008e50d1c4119fa0c1d1189aa193f25bdf94f7d9,plops/cl-cpp-generator2,.agents/skills/cl-cpp-generator2/SKILL.md,Developer Tools,7,7,1676,1519
+310,01521aaa4aa54aefa5a732a455cd33c9149aa350,blackplume233/UnrealMCPHub,skills/use-unrealhub/SKILL.md,Game Development,4,4,2522,2519
+311,018009e26226c8aebc7e62f994edf62ffb72a860,ToanPV90/dotfiles,claude/.claude/skills/unfreeze/SKILL.md,Developer Tools,9,6,119,104
+312,00deb5afa6870869a64ae86f2c4a10d0eddc7e26,AI4Scientist/nano-scientist,skills/arxiv/SKILL.md,Research and Academic Publishing,6,6,1237,1115
+313,00e60fc035f051b8550f87b9f3982b535eb7f76b,euroconic/noter,skills/electron-ipc-bridge/SKILL.md,Software Architecture,5,7,1111,1003
+314,0035b10f2193bbff27c19e28c057a31bea081da7,monotio/spa-vue-template,.claude/skills/bump-deps/SKILL.md,Developer Tools,9,6,703,643
+315,0116c78e21c33e42f856104ba3f3e7d970bd3d97,davidkdickson/dotfiles,agent/skills/todo-opez/SKILL.md,Productivity and Scheduling,1,6,139,119
+316,0181c73c94ebb71d4dd94cbc7b95e6402fda4b56,modbender/skill-library-mcp,data/homepod-tts/SKILL.md,Audio and Music,4,4,577,577
+317,010fe6970da5e06d0f5c79ec946cb7488eb14640,dededecline/dotfiles,claude/skills/security-review/SKILL.md,Cybersecurity,9,9,901,791
+318,002b2fec5738dfd8461071a3d448bb4bba541805,contentincubator2-ops/sowork-agents,skills/content-calendar/monthly-report-content-plan/SKILL.md,Marketing and Communications,1,1,955,797
+319,014553ac2abf20f70664497c2f830e35ead0e6d5,Aznatkoiny/zAI-Skills,consulting-toolkit/skills/consulting-frameworks/SKILL.md,Product and Business,1,1,596,572
+320,005b44b764b7ef67cadb91a303753ab7188e8946,dominicusin/Surypus,.codebuddy/skills/gsd-validate-phase/SKILL.md,Software Testing,2,9,199,188
+321,010dcb48bd85b242e3bf51192a3fd96a7ae3d3dd,findsun-vn/E-Commerce,.codex/skills/backend-code-guideline/SKILL.md,Software Development,8,7,1048,1008
+322,00a9a62a92ce5a2b15ef09f65fb49a862211368e,MikeCheng1208/BattleTree,.agents/skills/fix-validation-errors-with-overlays/SKILL.md,Software Development,9,9,247,238
+323,0123f4d0765aad8c9bf5c9866ea1db75525786d1,majiayu000/claude-skill-registry-data,development/check-physics/SKILL.md,Physics,3,3,239,218
+324,005515f5cb4c8171faeb3ef2aa5eda3979245a1b,AIA-11-HN-MIB/MIB-MockInterviewAIBot,.claude/skills/ffmpeg/SKILL.md,Audio and Music,6,3,1180,1125
+325,006d5b406b1d388c1f2238a0c87f4dbf43ba6f0c,jf3096/personal-configs,.codex/skills/planning-loop-orchestrator/SKILL.md,Project and Task Management,4,4,605,602
+326,00b5df83f047177f03b6197f2801b735f8aa8e61,richfrem/Project_Sanctuary,.agent/skills/obsidian-graph-traversal/SKILL.md,Data Engineering and Analytics,6,5,475,423
+327,008dda50b1e52d6e3a8362d2d36163d57e21abb4,boshu2/agentops,images/gemini/skills/reverse-engineer/SKILL.md,Software Architecture,2,2,1234,1038
+328,001c2bd2c93d91054f583fa67ef20cf4cb57fda5,uygnoey/skills-from-claude-blog,2025.10.16_skills/skills/agent-skills-overview/SKILL.md,Agent Orchestration,2,2,455,383
+329,015752fa5d302ae47034c075fdb0660c7528a2d1,MarceloClaro/OpenCode_Ecosystem,skills/agency/engineering/minimalchange/SKILL.md,Software Development,2,2,189,185
+330,00ca6bd2a61a48da307444b75dab6e4260bdb67e,azigler/dotfiles,agents/skills/fix/SKILL.md,Agent Orchestration,2,9,1311,1148
+331,004028b5b1bc2ca4da7b932e529939e532118700,ever-oli/io,skills/social-media/xitter/SKILL.md,Marketing and Communications,8,8,1196,1036
+332,00608b31b7279b6cfe1ef0aab45058d68272c5d2,SatangThevalue/ai-skills,skills/gaming/pokemon-player/SKILL.md,Gaming,8,8,1093,933
+333,008fac81fad58e568d55e6ac273b03c11c68fec2,CyberStrikeus/CyberStrike,.cyberstrike/skill/CIS_benchmarks/Server_Software/Apache_HTTP_Server/CIS_Apache_HTTP_Server_2.4_Benchmark_v2.3.0/cis-apache24-5.17/SKILL.md,Cybersecurity,5,5,690,589
+334,01a91ea1ecea027385bd5bfbf0d5879395082d84,DCx7C5/ai-marketplace,skills/webapp-operations-logging/SKILL.md,Cybersecurity,5,8,409,375
+335,009d02d7f9ea8206b37afee4f9dd54ff6e2d3ab9,Vincent1949/claude-homelab-config,homelab-plugin/skills/delegate-task/SKILL.md,Agent Orchestration,8,8,340,298
+336,00960def616f13144a61345849cb3c987f517ddd,giannis-vasilopoulos/greek-sports-forum,.cursor/skills/validation-crud/SKILL.md,Software Development,6,6,1223,1165
+337,0126fc334bd63505eaa5b91e6937e877b710566c,JayKim88/claude-ai-engineering,plugins/frontend-toolkit/skills/third-party-scripts/SKILL.md,Software Development,7,7,1135,1024
+338,00b596be0f0402db0159fa0dd6b57e81c87bd965,Mutfak-Yazilimevi/.github,project-template/.claude/skills/ali-content-strategy/SKILL.md,Marketing and Communications,1,1,1015,878
+339,00741ae4949baf9767b8b2031f183bfbf5e6275a,tools-only/X-Skills,development/233-api-setup_25282acf/skill.md,Marketing and Communications,8,8,366,354
+340,017c180bfb3d89f29b7b718259a81b2999315f74,akourmaz/translate2,.agents/skills/architectural-planning/SKILL.md,Agent Orchestration,4,4,1518,1455
+341,011ced5d7f88cffdb39237f3e472a32b9f7e48b4,DCx7C5/ai-marketplace,skills/db-mysql-credential/SKILL.md,Cybersecurity,6,5,171,165
+342,013c48aa8cff26c1606136cce92438c0b17ce273,antonsmedberg/HermesAnton,.agent/skills/scoped-xcode-tests/SKILL.md,Software Testing,9,9,268,246
+343,01407256bce9ff8812238aac6cb5a2f0573c9358,Animism001/skills,.agents/skills/bilibili-search/SKILL.md,Marketing and Communications,4,4,1042,1038
+344,011e309aa3782f3dc8c2ae0f53291de99e3f2e9e,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/computational-neuroscience-troubleshooting-fundamental/SKILL.md,Biology and Data Analysis,3,3,570,490
+345,0076df62fc489ee24c01b17a2da9425b2a7052c2,Saturate/agents,skills/norriq-writing/SKILL.md,Writing and Editing,1,1,1315,1147
+346,002f38ad95fad17b4bf8c29559da43ccfd9f9752,majiayu000/claude-skill-registry-data,ai-ml/ml-pipeline-avav25-ai-assets/SKILL.md,AI and Machine Learning,2,3,1123,996
+347,003fc052336727f3d5845936a3d7596bdca93e06,toly1994328/flash_im_by_ai,.kiro/skills/fx-event-emitter/SKILL.md,Software Development,4,4,861,859
+348,011ff902030b6adace0c91f9071cd2482d2286c3,Jeeva0104/connector-service-mini,.claude/skills/angular-migration/SKILL.md,Software Development,7,7,728,680
+349,0157cd4d59ee7e263369bab86f9ceb2aa87d41ab,91zgaoge/memoh-X,internal/skills/defaults/docx/SKILL.md,Writing and Editing,1,6,1084,944
+350,00db3d8442687d353ef6b18aa0498d64a4773e99,adarshp/adarsh.cc,.claude/skills/cv-add-paper/SKILL.md,Career Development,1,1,532,439
+351,001f33032dbd264a15935603a600f7e0f4b5aa89,jdinkla/user-story-skills,skills/story-questions/SKILL.md,Project and Task Management,1,1,766,640
+352,00171e28a75e1ffaa6411adc3e2ec356196d8cc5,MikeCheng1208/BattleTree,.agents/skills/ccn-create-topic/SKILL.md,Productivity and Scheduling,9,6,693,617
+353,004a37e30f75520220ff8baa753d44c713704dcd,byerlikaya/claude-starter-kit,claude-starter/skills/docs-writer/SKILL.md,Writing and Editing,9,9,670,582
+354,0154184707acd7f205cdd8841ca40125477a6afc,dgroch/higgsfield-prompt-engineer,skills/12-brand-story/SKILL.md,Marketing and Communications,1,1,1220,1107
+355,013e887ecee830e1b12fdd897493ef3b9923fb96,tools-only/X-Skills,development/1140-readme_flat_claude-md_az_79249ca0/skill.md,Insufficient Information,7,6,1842,1788
+356,0038049227ac035ba78f779c48dda9fa77675274,revfactory/harness-100,en/47-strategy-framework/.claude/skills/strategy-framework/skill.md,Product and Business,2,1,1346,1274
+357,00ebc817ab1b5bc60f52ece90f92f103a3a98ee1,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/univariate-big-data-simulation/SKILL.md,Data Engineering and Analytics,3,3,573,493
+358,014a22d897e93ec9ee2f07ade4f030436df75a25,Ubaldo-Santos/portfolio-v3,.cursor/.agents/skills/frontend-patterns/SKILL.md,Software Development,7,7,432,406
+359,0078dcd80b2c96326ffacfe27394697eff208153,CannonCoPilot/Project_Aion,.claude/skills/_disabled/mcp-builder/SKILL.md,Software Development,8,2,1168,1065
+360,00e478dc8a145882933554a30a8cf1b3944b6099,j-plugins/spiral-plugin,.claude/skills/kotlin-developer/SKILL.md,Software Development,9,7,1423,1320
+361,007f1ca1fe3cf516f356571274ed6a481fe4f825,KILWA73/MiniSoc,.agents/skills/framework-concept-mapper/SKILL.md,Software Architecture,7,7,245,212
+362,006a6819d2017767bda0ead242110d26b999d7e9,testland/qa,plugins/qa-sbom/skills/grype-scanning/SKILL.md,Cybersecurity,6,6,1470,1397
+363,01119ed8770a1b3546d273804a736d65b8c4621f,gensparx/GenSparx,skills/nano-banana-pro/SKILL.md,Design and User Experience,8,6,467,447
+364,0094a541c1881ffe36f06b25ce945be73aba65dc,pkirsanov/bubbles,skills/bubbles-anti-fabrication/SKILL.md,Agent Orchestration,2,9,871,746
+365,00a7918cf4384e2608ba4fa80a834294a59400e6,jcdoll/agents,.codex/skills/code-review/SKILL.md,Software Development,9,9,515,461
+366,009259137563b144b86b783ec3b2cdf688b2b44c,deepakkamboj/pwagent,cli/src/content/skills/ado/SKILL.md,Project and Task Management,2,2,1212,1127
+367,00bcdfa4cb6e5f32c6eb0544da4bc920a21c15ca,arkangelai/skills,skills/competitive-intel/SKILL.md,Marketing and Communications,1,1,1315,1243
+368,00a8a2c2890eb39276454d64bb02f0808826b197,MikeCheng1208/BattleTree,.agents/skills/feature-status/SKILL.md,Software Testing,6,6,456,393
+369,00cb67b0e103df70d0143f3cc1f26bb17cd84485,0xmariowu/Autosearch,autosearch/skills/channels/dblp/SKILL.md,Research and Academic Publishing,6,1,474,413
+370,008fc0a0c5ca5c10ea16a84a339e187e0f37d389,deOliveira-R/ORPHEUS,.claude/skills/numerical-bug-signatures/SKILL.md,Software Testing,6,5,1176,1001
+371,008d2f209986db596754efc805169e863ce524c7,kazukin123/anet-lab,.claude/skills/grill-me/SKILL.md,Product and Business,2,1,287,212
+372,014f708adb728044db74ee297fb793d0980d3baa,RobotFlow-Labs/skills-repo,skills/detecting-modbus-command-injection-attacks/SKILL.md,Cybersecurity,5,5,889,788
+373,00b9e495889471e783a267d7572486833e35c041,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-agentskillos-36k/skillsmp/nixos/SKILL.md,Cloud and Infrastructure,9,7,789,760
+374,0127d1cb75d7763952821968f0c211882b66d2ff,saintgo7/agents-skills,scientific-visualization/SKILL.md,Data Engineering and Analytics,4,4,334,334
+375,00fb2b7585e2e9b279be2fb0c24e007b76f8b652,novaainet2025/NCO-Dashboard,.nco-skills.backup/nco-task-master/SKILL.md,Agent Orchestration,2,2,306,299
+376,00b199b99470740e16823dfe9290233478596ef2,ArdenoStudio/dinaya,apple-ultra-skills/dag-task-runner/SKILL.md,Agent Orchestration,2,2,1113,912
+377,019e397ed9e6a2b1925f5280bda66339d2aa6bc4,hashgraph-online/awesome-codex-plugins,plugins/LVTD-LLC/skills/skills/htmx-foundations/SKILL.md,Software Development,7,7,1107,956
+378,010d179c517af2355164a2b9c9784728fcd9abbc,kocakburhan/Marketonomy,marketing-agent/skills/product-marketing/SKILL.md,Marketing and Communications,1,1,1000,855
+379,01acf44b18a29903b11103313059e4315daa88e1,BeltDoor/aios-template,.king-intelligence/plugins/king-intelligence/skills/codex-ready/SKILL.md,Agent Orchestration,9,2,1376,1178
+380,00ace031752ee73e8909d8c2c6f99d8c6974b3bb,diegosouzapw/awesome-omni-skill,skills/content-media/extract-page/SKILL.md,Writing and Editing,6,6,149,134
+381,008127b63e324a15fc6f49dacbfb72ef9aa7eaeb,luoluomashang/narrativespace,modules/knowledge-base/SKILL.md,Writing and Editing,4,4,1675,1674
+382,0107d5fb346331140a2675a380290a58a9c91216,cianfhoghlaim/cianfhoghlaim,dlthub-ai-workbench/workbench/dlthub-init-skills/skills/deploy-minimal-ingestion-pipeline/SKILL.md,Data Engineering and Analytics,9,9,1181,994
+383,009b777f2d43108869b100ab80ece66dc085cf6e,clowlove/Hermes-House,skills/marketing-private-domain-operator/SKILL.md,Marketing and Communications,4,4,2307,2307
+384,00a3eec3e70d9f9f26674d5b114828b9e20a727f,hadimiftahulf/antigravity-skills,stakeholder-translator/SKILL.md,Marketing and Communications,1,1,343,313
+385,0173db9e2f615a5c229fe8c0ff2fdbed046bc766,iblai/vibe-marketing,skills/iblai-marketing-analytics-tracking/SKILL.md,Marketing and Communications,1,8,1306,1233
+386,00f7f423a30fd0c665c94515e0625017eccda9d7,HolobiomicsLab/asb-skill-collections,packs/metabolomics/lc-ms/skills/feature-list-format-validation/SKILL.md,Biology and Data Analysis,6,5,1401,1287
+387,01675e9b2067f53f4ba75a3ec2b04aac2df3c045,lewisf94/Home-Controller,.claude/skills/sync-private/SKILL.md,Developer Tools,9,6,475,412
+388,00baff8b5b16ab96be2ba259ebfe3c8b229d061a,majiayu000/claude-skill-registry-data,development/tdd-jkitchin-skillz/SKILL.md,Software Testing,2,9,1139,1039
+389,00188bf11ea94c36fb9f88ef4151de00298d309d,Trompetilla/Skills,skills/kaicianflone/consensus-interact/SKILL.md,Project and Task Management,2,2,1390,1316
+390,00d110ecf2c5d212abae7c9189e8f8823bde80eb,LumenHelixLab/187WEB,.gemini/skills/187launch/SKILL.md,Marketing and Communications,2,2,1223,1129
+391,00f871fb202603aba7156f73e60013363977f804,shibukawa/spec-compiler-skill,skills/spec-compiler/SKILL.md,Software Architecture,9,7,1000,890
+392,01ac9a659c950facaa587b2d0f06cf61ea3cca1a,Zurybr/lefarma-skills,letta/benchmarks/trajectory-feedback/extract-elf/SKILL.md,Developer Tools,6,5,1042,943
+393,00b03cfa8730fd6b7a620e6b4f1fce4e54b0522e,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-autoskill-36k/skillsmp/merged-26da919ce135e1c4-skill-judge/SKILL.md,Agent Orchestration,3,3,1053,922
+394,000d31614a88f3bfd032a3ae5a313f087dedee35,krisnapradyana/Hermes-Agent-Slack,skills/security-policy/SKILL.md,Cybersecurity,8,2,1189,1058
+395,018d5203b9ed6a08398c242f3c25c7bc1f183c6d,Kelvin1761/Kelvin-Agents,.agents/skills/nba/nba_batch_qa/SKILL.md,Sports Analytics,4,4,1547,1535
+396,0118da88b61705c6b0839a4b1b12b5ba2f368b91,ChristineTham/aidou,.agents/skills/draw-io-diagram-generator/SKILL.md,Design and User Experience,7,6,1249,1125
+397,003f5c3341dc8369c3947a63fa73b37da6d85998,copilot-ld/copilot-ld,packages/libagent/SKILL.md,Agent Orchestration,8,2,250,226
+398,00622d9f8fbf1d2dad0d3a12d245b6e211c57381,zwj19950316-boop/claude-skills,game-voice-content-inspiration/SKILL.md,Marketing and Communications,1,1,1762,1652
+399,0099fa6a1bca76bbe9efb3dc080ebc428271ccf1,watmin/datamancy.dev,purgare/SKILL.md,Software Development,6,6,1055,818
+400,0189ec30cee9c7caaa0219b8db88e0da3ccb795e,Dokhacgiakhoa/Agent-skills-setup-for-AntiGravity,tests/manual-repair-test/.agent/skills/server-management/SKILL.md,IT Operations and Incident Management,2,2,345,337
+401,0146abe62837e7107f6659e321ae40768bb6c570,TronLink/tronlink-skills,skills/tron-resource/SKILL.md,Finance and Cryptocurrency,8,8,1351,1226
+402,00ba16fe5583f383a8be8d7a7218e1bf0149106a,miguelbacalhau/orca,skills/config/SKILL.md,Agent Orchestration,2,2,1376,1166
+403,000491b78290b9021d48ef6a7d5870d1cfdc8867,aws-samples/sample-ai-agent-skills,ram-troubleshooting/SKILL.md,Cloud and Infrastructure,5,5,1099,983
+404,019dd39011812a60e3831e9953519f95b7562625,majiayu000/claude-skill-registry,skills/design/workflow-orchestrator-zenobi-us-dotfiles/SKILL.md,Software Architecture,2,3,805,779
+405,010d74f0a61dcd2695333214b5de2b2f5d9c8caf,chenxin-yan/crust,packages/skills/tests/fixtures/bundle-second/SKILL.md,Insufficient Information,1,1,37,35
+406,0195b2ac2c9002b477a0918ff1e4cb74ece939ce,XerafinaTaleSedrin/FI-skill-suite,skills/redirect/SKILL.md,Finance and Cryptocurrency,1,1,1561,1335
+407,01b32911eab28fa44281996986731354fdd6fca0,mattwynne/yaks,skills/yak-mapping/SKILL.md,Project and Task Management,2,2,1095,916
+408,0077ff9a64aaff497298f31897a38f6d42eaa2f6,majiayu000/claude-skill-registry-data,development/rebase-stack/SKILL.md,Developer Tools,9,9,1024,834
+409,0036a85f6b23fd17edc9f551acfab09d52994a60,JantonioFC/skillsbank,skills/performance-profiler/SKILL.md,Software Testing,6,7,660,615
+410,019b1d2b3743776ea850a05445cdb6692721ff05,Sompote/Tiger_bot,skills/search-x/SKILL.md,Marketing and Communications,8,8,501,462
+411,002cefa17759c4cdcc5ce926c466835f79ef63b9,tnikhil-24/handy-claude-skills,plugins/my-skills/skills/clarify-first/SKILL.md,Productivity and Scheduling,1,1,388,317
+412,008087d93840c926c0347fe1b957b8dfcb5334de,Prorise-cool/prorise-claude-skills,.claude/skills/product-specialist/references/domains/product-management/saas-revenue-growth-metrics/SKILL.md,Product and Business,1,1,1308,1204
+413,01848ad8fd2ea21d16e32c239bc7576f02a631fe,hongyangAndroid/blog_ai,.trae/skills/fogsight-skill/SKILL.md,Design and User Experience,7,1,1076,991
+414,01a67e1b868646ebc9d7ab7d8989673a5c9e3ab4,drvoss/everything-copilot-cli,skills/documentation/api-documentation/SKILL.md,Writing and Editing,8,8,507,469
+415,00ee3a8ba258ab9c0c12c69f8f8f4c1786275c3e,tomharris/dev-rag,.claude/skills/rag-first/SKILL.md,Developer Tools,6,1,514,419
+416,013c9d064a41a6a1e48362e72ffea4fa5a36fd0c,brittanie945/bri-learing,.agents/skills/deploy-castrel-sit/SKILL.md,DevOps and Infrastructure,9,9,513,503
+417,010f6988fcef20aab7abf16ff38b5149f893f0e9,Demerzels-lab/elsamultiskillagent,public/skills/heiheimaoya/xiaohongshu/SKILL.md,Marketing and Communications,4,4,434,434
+418,004b2631d2eb5ff6ac07246a02b73bf2cfe938de,jukeyman/jukeyman-skills,skills/configure/SKILL.md,Developer Tools,8,6,1278,1154
+419,0125da24aec2001aff6a6be8e610d72d70bd7cae,charlesnpx/mise-en-place,skills/pr/claude/pr__colon__review__colon__local__colon__no-file/SKILL.md,Software Development,9,9,1040,901
+420,00378d8900035c9f638fd80c5e797da7eec2cf65,tercel/gemini-forge,skills/gskills-forge/SKILL.md,Agent Orchestration,2,2,572,529
+421,00040072c732d16ea2d3a1c84844d7ae473e1035,mediastormDev/dream-to-video-skill,skills/dream-to-video/SKILL.md,Design and User Experience,4,4,3046,3044
+422,011927b1e383eb7576c6282181b87516f1fdccd6,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/astrophotography-troubleshooting-research-level/SKILL.md,Astronomy,3,3,584,504
+423,00da44ace3fe3b4a1c976502e2c7e9944d53e44e,MikeCheng1208/BattleTree,.agents/skills/agentguard/SKILL.md,Cybersecurity,5,8,1528,1465
+424,002c90c2bb0b0444d96cbbc9e3facbc5efba896f,DonaldMurillo/momentum-cms,.claude/skills/agent-browser/SKILL.md,Developer Tools,8,8,1007,963
+425,01aeb015c35fca16b79a67880dd9daa8a4d95f81,tcytan/tecton,.claude/skills/team-perf-opt/SKILL.md,Agent Orchestration,2,2,1070,1050
+426,00cbad793ea8158a0b22ee0d640ad8ab9ab6aa01,shushuitie2017/design-agent-skills,agent-skills/codex/elevenlabs-tts/SKILL.md,Audio and Music,4,4,1006,1004
+427,015bffa5c807936a0743327349cc934f8922c9d1,Dach-Coin/claude_rules_1c,.claude/skills/form-patterns/SKILL.md,Design and User Experience,4,4,2946,2946
+428,008b0de16e97978d194f00615aba7920000e09df,mouadja02/skills,skills/llm-tooling/openai-image-gen/SKILL.md,Design and User Experience,8,8,450,431
+429,01297688d994a72dd776a929897495f743a60a03,dcc-mcp/dcc-mcp-3dsmax,.claude/skills/vx-commands/SKILL.md,Developer Tools,6,8,1009,959
+430,00b972b8ed1ea9e632f4d6c6a876c9eff97783df,izkreny/agentifico,skills/socratic-tutor/SKILL.md,Education,1,2,524,392
+431,012fc28541ba92b76e80be7693cf25cfe3367597,rock-hu/agent-skills,skills/circuit-event/SKILL.md,Insufficient Information,7,5,73,70
+432,0111eb328e0102c4cab9183040083fe4d0e98c06,MikeCheng1208/BattleTree,.agents/skills/methylation-variability-analysis/SKILL.md,Biology and Data Analysis,6,5,598,538
+433,01958cd651c22dc065be38016698a202085ac34c,DatBeat/GIFMakerz,.claude/skills/media/interview-transcript/SKILL.md,Writing and Editing,2,1,653,577
+434,0086793f4f33b187e95523c882fd1487ad70588b,svenflow/dispatch,skills/contacts/SKILL.md,Productivity and Scheduling,8,2,824,745
+435,009a23a1af4af0a83366ab2b3d9ae10dd5c90741,kingpinzs/claude_parallel_templates,spec-kit/.claude/skills/spec-parallel/SKILL.md,Agent Orchestration,2,2,292,274
+436,0126c32bf4904609d50394f8dd5b0ad4faa13884,iTzFaisal/agency-agents,.agents/skills/legal-document-review/SKILL.md,Legal and Compliance,1,1,901,766
+437,00407b4706de4159f3c5a8da3011f06101e4d2c9,meghal86/stacksignal,.agents/skills/bexio/SKILL.md,Product and Business,8,8,485,467
+438,01a2e6bdb5e5672dff29c145574f49fc733b1d43,stanislavorlov/chess-game,.agents/skills/docker-expert/SKILL.md,DevOps and Infrastructure,7,7,327,303
+439,00038ee41b82f76f5161f0541a562cb493f89d02,MikeCheng1208/BattleTree,.agents/skills/sojustack-best-practices/SKILL.md,Software Development,7,7,954,876
+440,009448c2b8a35b5817da18fa015f9cc8d783cbfd,zgbrenner/agentcounsel,skills/privacy/vendor-privacy-diligence/SKILL.md,Legal and Compliance,1,1,1368,1101
+441,015a9172938d1db2afe6dbc64fff0bbbed479d2a,DCx7C5/ai-marketplace,skills/net-traffic-arppoisoning/SKILL.md,Cybersecurity,5,5,796,769
+442,012a7e5d51ad3f5d37fe71f395d008e301428642,qa-aman/claude-skills,skills/by-role/devops/postmortem/SKILL.md,IT Operations and Incident Management,1,1,1043,868
+443,008d939d5cfa6bb56b51e04f70955487f8f6c3df,Lord1Egypt/awesome-skill-forge,community/clawhub/p/proposal-generator/SKILL.md,Product and Business,1,1,1055,929
+444,0049ccb9734f2674e380516fd9f2c302c26c5698,modbender/skill-library-mcp,data/book-brain/SKILL.md,Agent Orchestration,6,6,1175,1028
+445,006f8d6b7a0ba2743cdd99d7df6af343b0f5d987,diegosouzapw/awesome-omni-skill,skills/development/frontend-functional-validator-detective/SKILL.md,Software Testing,8,8,633,578
+446,0056e4117ca3c29b25960545cb1abf5f93d78b1e,yusuken1121/boilertemplate_ai,.gemini/skills/architecture-overview/SKILL.md,Software Architecture,5,8,546,532
+447,016b588aca5676bdbc1af4c727aec0a8910e5973,fierzone/agent-skills-standard,skills/react-native/state-management/SKILL.md,Software Development,7,7,341,328
+448,000f65f8f28f107a90784ab212bdf128e39ea616,ComeOnOliver/skillshub,skills/jeremylongshore/claude-code-plugins-plus-skills/anth-security-basics/SKILL.md,AI Security and Governance,5,8,592,572
+449,00971155a44ced33463ab896ab3d20edc635d338,MikeCheng1208/BattleTree,.agents/skills/polaris-local-forge/SKILL.md,Databases,5,8,1587,1493
+450,0019920a4b6b7982fedc60bf75be5ac20f130177,ssiumha/dots,prompts/skills/documentation/SKILL.md,Productivity and Scheduling,4,4,1698,1697
+451,013787806da488929f792f0b9f45c4243095003d,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/environmental-engineering-based-derivation/SKILL.md,Engineering,3,3,555,475
+452,004999d648fa0140eeae98d4639784e2e918ca04,edithatogo/conductor-next,conductor-vscode/skills/conductor-newtrack/conductor-newtrack/SKILL.md,Project and Task Management,2,2,1014,847
+453,00758602f6cb12c803e59600c4c23ea56b049cd6,a5c-ai/babysitter,library/specializations/domains/science/nanotechnology/skills/targeting-ligand-designer/SKILL.md,Engineering,3,3,325,313
+454,0124e7234f03a200d9b615f61baea88bc8a36cea,jamiojala/skillforge,skills/privacy-preserving-analytics/SKILL.md,Data Engineering and Analytics,6,5,1480,1283
+455,00f83db96eec0f56dfcad62c24120810d5bd46e2,DDS-Solutions/AI-TadPole-OS,.agent/skills/code-review-checklist/SKILL.md,Software Development,2,9,1207,1104
+456,006b4fd0dcc9abef023050e1e0d4433ce91d5146,typemd/typemd,marketplace/plugins/typemd/skills/vault-guide/SKILL.md,Productivity and Scheduling,6,6,1432,1359
+457,00a0f996bf7922e0680b5a5fccca16ba2462c36d,psprowls/agent-research,plugins/graph-wiki/skills/writing-plans/SKILL.md,Project and Task Management,2,2,958,765
+458,014bbb1359182cd92736940f18f9e332fc274a65,control-ui-kit/control-ui-kit,resources/boost/skills/control-ui-kit-development/SKILL.md,Software Development,7,7,1345,1295
+459,00f4c11d54c4127f56f46f0d283d13082a9ae198,JantonioFC/skillsbank,skills/prd/SKILL.md,Product and Business,1,1,732,626
+460,010ce11f935aa61ff88a6b1a04db0100be3a4357,GGEdu/claude-god-mode-template,skills/logistics-exception-management/SKILL.md,Product and Business,5,5,999,894
+461,0039b8bb47efa7ba2de38fc20a79ef22b3962198,geobarteam/github-copilot-configs,skills/add-blazor-page/SKILL.md,Software Development,7,7,1508,1445
+462,01b2b6ec05be4b66b568cf0c98d01e41027ee1ee,majiayu000/claude-skill-registry,skills/data/domain-driven-design-builder/SKILL.md,Software Architecture,2,3,614,548
+463,00cadba6693b99c62293851ca54806faa5fe6947,MikeCheng1208/BattleTree,.agents/skills/newt-blueprint-generator/SKILL.md,Cloud and Infrastructure,7,7,1131,1060
+464,00997f2b8e26414d0fa26aab120abe2c9b5467e6,Nkzono99/emout,plugins/emout-context/skills/emout-script-review/SKILL.md,Software Development,6,6,1034,939
+465,0052bd2e73e955f28a6408a774b39fdf7e12ced3,jamon8888/cc-suite,solo/skills/invoice-generator/SKILL.md,Finance and Cryptocurrency,4,4,932,855
+466,00c280b125ac3ad7732b4f9e746f52e08a4b7925,eliasisrael/n8n,.claude/skills/adopt-workflow/SKILL.md,Software Development,8,2,1321,1190
+467,000df8b3b3b716a8f2ba9647ed6815495866aede,qmfpdls4908/Vigos-s-Paradox,.opencode/skills/conversation-filter/SKILL.md,Agent Orchestration,1,1,1000,913
+468,002aec7e443f69d122d8e42ce6471d2b83f14bd3,majiayu000/claude-skill-registry-data,quality/code-review-laurenceputra-goal-portfolio-viewe/SKILL.md,Software Development,9,9,193,178
+469,017344545f2a339e05be65763dcd41bf0f7b13de,NeuralBlitz/buggy,ncx/.opencode/skills/supervised-behavioral-neuroscience-analysis/SKILL.md,Biology and Data Analysis,3,3,561,481
+470,00f3495ebf0cc1192c2b31d9f53c3b13c76ae623,ZiolkowskiJakub/DiGi.CityGML,.agents/skills/coding-general/SKILL.md,Software Development,9,2,1208,1116
+471,0001bb8971e2d167ca63e4bfe5a11ef656e94edd,ivegamsft/basecoat,skills/ux/SKILL.md,Design and User Experience,7,7,337,306
+472,005b5d53faacdef17addf8a9529b8734248c2d7f,Njones17/AI-agent-master-cyber-skills-list,skills/penetration-testing/performing-aws-privilege-escalation-assessment/SKILL.md,Cybersecurity,5,5,1009,890
+473,00f756cbd0c3786d46c54e90e22bbcd38a347ee5,mnemon-dev/mnemon,internal/setup/assets/kimi/SKILL.md,Agent Orchestration,6,1,348,331
+474,01b056dfe8fbc4b41baa7543fe916947ac259e64,Miosa-osa/osa-framework,examples/browser-qa-agent/agent/skills/qa-report/SKILL.md,Software Testing,1,1,45,43
+475,011728c6b59be74e3b7bb7974d60d2329ea7f505,esphome/aioesphomeapi,.claude/skills/pr-workflow/SKILL.md,Developer Tools,9,9,1134,973
+476,00bf2445a6552715068d1be17a0d9ab8056fd412,secretkeylabs/sats-connect-skills,skills/sats-connect-stx-deployContract/SKILL.md,Finance and Cryptocurrency,8,8,112,93
+477,00eba9e3837494aee69b230b7724f4cdc6fc2fb6,operationd8979/ai_assets,.codex/skills/speckit-clarify/SKILL.md,Software Architecture,9,9,988,879
+478,00199dbe366ecc3250e055d40191d985be91fbb3,Jmbarrienp/vitals.fit,ai-system/skills/persona-communication/SKILL.md,Writing and Editing,1,1,1110,940
+479,01b146a8a7e94d4e3f973291f6e711348673b759,HolobiomicsLab/asb-skill-collections,packs/metabolomics/nmr/skills/summarized-experiment-object-handling/SKILL.md,Biology and Data Analysis,6,5,1400,1268
+480,008879b39af3cdf0bd5bb73f5c40a0f98abd283e,modbender/skill-library-mcp,data/openclaw-skill-ansible/skills/ansible-skills-admin/SKILL.md,Agent Orchestration,9,9,454,417
+481,009392aa9112f6af6278eb29083dcbd20e7b978d,modbender/skill-library-mcp,data/scholargraph/paper-analyzer/skill.md,Research and Academic Publishing,4,4,525,525
+482,009f9ed6fe1eac60618e8c4fb6705535da0a0aff,anortham/razorback,skills/executing-plans/SKILL.md,Project and Task Management,2,2,1038,886
+483,019db4613388befc9ea1bf6e069b625679798662,ericmikkelsen/code-scaffold-mcp,.github/skills/frontend-ui-engineering/SKILL.md,Software Development,7,7,285,257
+484,010c3a1261baafa4e74b7d29268bcb8723aef748,argen/hornero,skills/ingest/SKILL.md,Project and Task Management,1,1,1549,1301
+485,0075b59cb4af63be3e01f56f9d9a2663c246b57a,LG13-21/lg13-skills,plugins/lg13-skills/skills/chatgpt-force-read/SKILL.md,Agent Orchestration,1,2,1680,1667
+486,008cff333b8f19d3b7330afe167f4b0d8c04b03c,yanacuti1121/Yana-AI,.claude/skills/performing-brand-monitoring-for-impersonation/SKILL.md,Cybersecurity,5,5,1054,1005
+487,01497a7aedc2729549e84abed9f59e3effef4ba4,ochtum/TechBlogWriter,.github/skills/02_ArticleSectionCreation/SKILL.md,Writing and Editing,4,4,437,437
+488,006f10bc05bcc281f58f12f9895934c1d1bb7b92,deswalpratik/claude-harness,skills/interview/SKILL.md,Software Architecture,2,2,1223,1037
+489,01a3c5722142d1c27b9477495f1c234a36489cca,ReadyToGo-Education/fluxo_criativo,.claude/skills/biblioteca-anuncios/SKILL.md,Marketing and Communications,4,4,1791,1749
+490,015b1e7bd4e38743c4752dc09caff3cb264d1a74,yohayetsion/product-org-os,skills/bet-invalidation-checkpoint/SKILL.md,Product and Business,2,2,1386,1192
+491,008107484faea2382f9ad5d47c1ad3b8d23ed21a,hndhr/software-dev-agentic,cipherpol-aegis/lib/developer/skills/procedures/developer-debug-add-logs/SKILL.md,Software Development,6,8,431,390
+492,016786c9b549e60cecbf72dac0ffd4c3c8d7985b,webdevtodayjason/subctl-rust,skills/argentos-positioning-and-website-rewrite/SKILL.md,Marketing and Communications,1,1,1052,957
+493,0169e82b4ead249d01f294c474a3d56c0109a997,Coalescence-Labs/Chronos,.claude/skills/privacy-preflight/SKILL.md,AI Security and Governance,5,8,769,621
+494,0190c4fd50482cde9e0118eabcb416a477595038,0xDarkMatter/claude-mods,skills/security-ops/SKILL.md,Cybersecurity,5,5,1351,1302
+495,016f6bb6cdd09912531acdb4bf39fb606c1783ef,Everyone-Needs-A-Copilot/codex-copilot,packs/writing-legal/skills/cs/SKILL.md,Marketing and Communications,1,1,240,188
+496,0157ae9207831ac60780cf5e8ce74bb8ba24aab4,zeis974/TaxDOM,.agents/skills/turborepo/SKILL.md,DevOps and Infrastructure,2,7,1193,1053
+497,0080c449d5156a532b1de0bedba4afee24017d03,hacktronaut/ai-sdlc-demo,.github/skills/changelog/SKILL.md,Writing and Editing,9,9,154,137
+498,01024884bdb88dd1b9dfaf1a3ab6d3c5d4385160,firebitsbr/OWASP-claudeskills,claudeskills/skills/www-chapter-indian-institute-of-information-technology-kottayam/SKILL.md,Cybersecurity,9,9,373,343
+499,00dede60c6323741f6bfbed870dde712778396f8,Lap-Platform/claude-marketplace,plugins/azure-com-azure-com-resources-deploymentscripts/skills/api/SKILL.md,Cloud and Infrastructure,8,8,1022,990
+500,0111138fe0c71fd71c5ebde50797a4294df90153,hiddink-ai/hiddink-harness,templates/skills/evaluator-optimizer/SKILL.md,Agent Orchestration,2,2,1056,952
+501,00000818feedfd1e1d22f6bb42362f0c4e5213e4,alas-poor-ophelia/windrose-md,.claude/skills/obsidian-bridge/SKILL.md,Software Development,8,8,1230,1162
+502,000009fe40ffb92ccb4350995d114f838be78237,etendosoftware/etendo_schema_forge,.agents/skills/testing-delivery-gate/SKILL.md,Software Testing,9,9,894,733
+503,00000f2a9d8359900f2075b536b435ca9473a5b9,obot-platform/obot,.claude/skills/draft-release-blog/SKILL.md,Marketing and Communications,1,1,1142,921
+504,000011cf09114922342962431de29bea54807b28,Klotzkette/claude-fuer-deutsches-recht,fachanwalt-gewerblicher-rechtsschutz/skills/fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung/SKILL.md,Legal and Compliance,4,4,1499,1496
+505,000015349a0cc3fe71d881963d9a151363efd447,OTOJulian/oto-hybrid-framework,oto/skills/writing-skills/SKILL.md,Agent Orchestration,2,3,1043,942
+506,00001617447cc026a1fca766e1b8413ad94af12c,okfriansyah-moh/crypto-sniping-bot,.github/skills/token-lifecycle/SKILL.md,Software Development,5,5,361,341
+507,000016393a7c8a729a5553e1904d06c2433934f7,frankyxhl/trinity,SKILL.md,Agent Orchestration,8,8,1318,1228
+508,0000298ae650d634180ad1b1ca38539b1e51def6,jukeyman/jukeyman-skills,skills/saas-packs--navan-pack--navan-migration-deep-dive/SKILL.md,IT Operations and Incident Management,8,8,1181,1123
+509,000032866d62d49e5abab2754e4a58dc8fd95910,Nodman/conveyor,plugin/skills/executing-tasks/SKILL.md,Agent Orchestration,2,2,1200,1091
+510,00003315878f3b0ec8082abfe529d8c3f8ce3e80,rolandknight/voice-chatbot,skills/spotify/stop_spotify/SKILL.md,Audio and Music,8,8,149,137
+511,00003364786d9725bbf2e157cbf6b9ba09df1218,diegosouzapw/awesome-omni-skill,skills/tools/release/SKILL.md,DevOps and Infrastructure,9,9,556,511
+512,0000349d6813df7a9c5c0b20c9244abe5b720bff,cstrahan/claude-plugins,skills/shell/SKILL.md,Developer Tools,9,6,1360,1175
+513,000041ef997179e0d940f1bc9e08bfccd5c00fd8,aibot88/sec_skill_store,skills/claudskills/babycai-agent/SKILL.md,Finance and Cryptocurrency,5,5,130,126
+514,000045638fec436c9c39ac0dcbbdeae670675e4f,twhsi/skills,skills/fantastical-calendar/SKILL.md,Productivity and Scheduling,8,8,543,447
+515,000047b30d7bfb69101be83f61a6dd9ca83798ac,RipeMangoBox/BITE,.claude/skills/reviewer-stress-test/SKILL.md,Research and Academic Publishing,2,1,582,520
+516,000050a706b4f628641f2990ede1a4424c3bcbb2,Construct-AI-primary/agent-companies-core,skills/learningforge-ai/skills/learningforge-ai-curriculum-design/SKILL.md,Education,2,2,232,213
+517,00005476ec717a3124826e19a2527b7e7ecd3b44,terrylica/cc-skills,plugins/kokoro-tts/skills/server/SKILL.md,Audio and Music,8,8,931,880
+518,0000570c3d0c78531c1006a20eeabcf2ada98b12,fvnju/noteey,.agents/skills/auth0-quickstart/SKILL.md,Cybersecurity,8,8,1716,1664
+519,00005a2b69394d522895e80eb53ccc7da1d04770,mostafa-drz/claude-skills,code/create-pr/SKILL.md,Developer Tools,9,9,1186,1108
+520,000071155a19641bc46d1592420f2c78e6f0a658,bpnrockstar/UnifiedBugHunter,skills/web2-vuln-classes/SKILL.md,Cybersecurity,5,5,1472,1397
+521,00008941445c74f4ea16482d499c7870c3a6fd06,MAJD-AI78/acuterium-skills-marketplace,registry/skills/wagha/print-design/SKILL.md,Design and User Experience,1,5,281,277
+522,000096e7cdc7bcd4a8031e889dd6021e7bc05fb7,maxvaega/skillkit,tests/fixtures/skills/invalid-yaml-syntax/SKILL.md,Insufficient Information,6,6,36,28
+523,00009a13ac1585155030c88723c6661610031a56,diegosouzapw/awesome-omni-skill,skills/data-ai/deep-research-thepexcel/SKILL.md,Research and Academic Publishing,6,1,1206,1165
+524,0000a9e8d6f00cd038046e5edfdb78256c7b5ac7,znlgis/opengis-skills,cad/openscad/SKILL.md,Engineering,4,4,1930,1928
+525,0000abfa65579c478ea2be9bb1c608576c8108d8,atman-33/atman-marketplace,plugins/stack-react-router/skills/react-router-v7-app/SKILL.md,Software Development,7,7,908,831
+526,0000acbe72917ea47293198e6f6a529cdda60603,MikeCheng1208/BattleTree,.agents/skills/overseer-plan/SKILL.md,Project and Task Management,2,2,752,700
+527,0000b457e388df103b65fc64f88eeb8b1b554aa8,ngpestelos/skills,github-code-review/SKILL.md,Software Development,9,9,982,905
+528,0000bb34d56e7651b71fde16aa7d57be528514af,kickthemoon0817/simul,skills/isaac-scripting/SKILL.md,Robotics,8,6,1405,1299
+529,0000c5c7566573f1c4b432200fda627d3dab317b,enchantednatures/.dotfiles,.config/opencode/skills/context-persistence/SKILL.md,Agent Orchestration,2,2,902,851
+530,0000cd09c2333c804cb6b44a1f6c4e5818e518a8,samkhawase/magictales,magictales/.codex/skills/gsd-map-codebase/SKILL.md,Software Development,8,2,1252,1140
+531,0000cdd0c0b145463eeb8353ca701dacfc6c0a15,api-platform/skillset,skills/serialization-groups/SKILL.md,Software Development,6,5,1136,975
+532,0000d71485d176ceda25d2b28af218cfe754f794,Alex-stack-hub/myres,vllm-ascend/.agents/skills/vllm-ascend-model-adapter/SKILL.md,AI and Machine Learning,2,2,1157,1059
+533,0000dd559cd28774c6b3a1d42d1931d5be5fe660,VibeBrainsProjects/Fresta,.vibe/skills/update-skill/SKILL.md,Agent Orchestration,4,4,2021,2021
+534,0000e45054402785f95f8bfc454b1774dd8b839e,26zl/cybersec-toolkit,.claude/skills/implementing-identity-governance-with-sailpoint/SKILL.md,Cybersecurity,5,5,524,478
+535,0000f7f3721c9f97ffce1b7b55c3006922525eae,jukeyman/jukeyman-skills,skills/saas-packs--lokalise-pack--lokalise-migration-deep-dive/SKILL.md,IT Operations and Incident Management,6,6,1301,1223
+536,0000f8dbb4334eaee751410966b0875571fcfef5,modbender/skill-library-mcp,data/super-transcribe/SKILL.md,Audio and Music,8,8,1479,1369
+537,0000fc817e76c3460b6398803d5df13d72d99801,BdM-15/capture-insights,skills/vault-lint/SKILL.md,Productivity and Scheduling,6,5,203,197
+538,000100d7ed76e6364690e6c437ad9f1e8a6eef51,Salahsr01/Cleanbot,workspace/skills/campaign-planning/SKILL.md,Marketing and Communications,4,4,758,758
+539,00010b219d657e2e851c02a450693aaf0f32a102,santosomar/general-secure-coding-agent-skills,skills/security/taint-instrumentation-assistant/SKILL.md,Cybersecurity,5,5,608,569
+540,0001137a1c11bd8ff5db6074ec009582963869df,chenqin231/OhMyDesk,.agent/skills/update-codemaps/SKILL.md,Software Development,9,7,196,183
+541,0001140180109006d35668ecb6915944af8fa7c2,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/applied-developmental-biology-modeling/SKILL.md,Biology and Data Analysis,3,3,558,478
+542,00012e069cc45c637d9b5acb4730dc0c690b7a9a,micsapp/micstec-skills,claude-code/plugins-plus-skills/plugins/testing/load-balancer-tester/skills/testing-load-balancers/SKILL.md,Software Testing,5,5,976,884
+543,000138251e39e54fee5ef530913bc7b34b839495,denya/sonos-lastfm,skills/setup-sonos-lastfm/SKILL.md,Audio and Music,8,6,1209,1049
+544,000138b600b8df2ca17c7c1fe534a1f3060be2aa,Flexksx/alemar-capoeira-chisinau,.claude/skills/seo-maps/SKILL.md,Marketing and Communications,6,8,1357,1292
+545,00013907b50ed28135245980b4f5fca437fd1805,leogodin217/leos_claude_starter,.claude/skills/audit-docs/SKILL.md,Writing and Editing,2,9,837,767
+546,000149a67ebfe7e0940b7f56dc897dfa320e51a5,bennoloeffler/claude-code-personal-agent-plugins-skills,plugins/ai-heartbeat-timer/skills/ai-timer/SKILL.md,Productivity and Scheduling,8,8,1857,1832
+547,00016756682f06d3fc26345ce3184c157b2a920d,charlieviettq/awesome-agent-skill,.claude/skills/va-postgres-pro/SKILL.md,Databases,6,1,868,839
+548,00016954f97509a1cdb69c0aa42c8038c1d8e510,MikeCheng1208/BattleTree,.agents/skills/clawpod/SKILL.md,Developer Tools,8,8,1272,1134
+549,00016e6079ac7e85a60aea20e9abedf66ca7cb41,harryeslick/pyTemplate,.claude/skills/version-increment/SKILL.md,DevOps and Infrastructure,9,6,732,636
+550,000171c2f736a178c3f5e1ad4e346f10265b16a0,EmiRoberti77/hr_manager,.claude/skills/agent-tools/SKILL.md,Software Development,8,8,876,678
+551,00017a98740b1219034daa3c6f6751d49acc01a7,maneeshanif/todo-spec-driven,.claude/skills/dapr-integration/SKILL.md,Software Architecture,8,7,1021,1008
+552,0001958b8e6d00be32899d39bc66e8eaea43719c,timominkus/obsidian-para-gtd-ai,.claude/skills/setup/SKILL.md,Productivity and Scheduling,9,2,1115,954
+553,00019eeb303b96d83a69d59b58d47dd68be03df6,OrcaQubits/agentic-commerce-skills-plugins,acp-agentic-commerce/skills/acp-checkout-mcp/SKILL.md,Software Development,8,8,923,841
+554,0001a2d16875552db23ecad92f47385f8b7c17d9,MAJD-AI78/acuterium-skills-marketplace,registry/skills/commercial/threejs-postprocessing/SKILL.md,Software Development,7,7,275,273
+555,0001a8d57709101e5f8efe560f42db4e60a88769,MikeCheng1208/BattleTree,.agents/skills/mock-data/SKILL.md,Software Testing,6,7,187,178
+556,0001ace895b1df4953b89c5ab853bebc46818eb5,modbender/skill-library-mcp,data/yijing-divination/SKILL.md,Spirituality and Divination,4,4,979,979
+557,0001b4086bf6a97469f8abdd56afa20763bafe06,a3tai/openclaw-go,.opencode/skills/docs-site/SKILL.md,Writing and Editing,9,6,648,598
+558,0001b5d5a385a554faee7020f65b7cbc066aeb4b,santosomar/general-secure-coding-agent-skills,skills/verification/tlaplus-model-reduction/SKILL.md,Computer Science and Algorithms,2,5,1284,1153
+559,0001ba131490dbccb2eb14ae56562d5427fc8cb3,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-36k/skillsmp/modern-python/SKILL.md,Software Development,6,6,147,139
+560,0001bb7fdc48852a571f9f55b46c4f31d6705642,jbaruch/tamboui,skills/scaffold-toolkit-app/SKILL.md,Software Development,8,7,1114,972
+561,0001c819eb8faa59528a2388d3afa08a260bde5b,woocommerce/woocommerce-claude,plugins/hey-woo/skills/catalogue-merchandising-review/SKILL.md,Product and Business,1,1,1093,976
+562,0001d00ac99c8ee563f15193c37f9fc0680a6b58,levalencia/agent-god-mode,organized-skills/strategy-compare/SKILL.md,Finance and Cryptocurrency,6,6,637,591
+563,0001d10314508f89794ef70298d5c57b517ecb7f,xpickey/ice-skills-claude-plugin,plugins/ice-tools/skills/graphify/SKILL.md,Data Engineering and Analytics,6,6,1159,954
+564,0001d1631b3f52eeb1605232fd86158f3271e9a5,NeuralBlitz/buggy,ncx/.opencode/skills/static-atmospheric-science-simulation/SKILL.md,Earth Science,3,3,568,488
+565,0001d5831243541f3ecc8259ecdf5e14e00c173a,nexvigilant/.true,knowledge/pv-ksb/ksb-d02-k0003-type-c-reactions/SKILL.md,Medicine and Healthcare,6,5,498,478
+566,0001d5daa15353e83ba2c56053f4586c9b167ac7,Jeeva0104/connector-service-mini,.claude/skills/claimable-postgres/SKILL.md,Databases,8,8,1351,1239
+567,0001d6821f1322c74947799f2a1d760e77062db7,b3belov/security-superpowers,plugins/security-superpowers/skills/implementing-cisa-zero-trust-maturity-model/SKILL.md,Cybersecurity,5,5,997,919
+568,0001d8228ab78c9eb1ef1c59aeef5241dbb0195a,arthur900530/Agents-at-Work,backend/skills/user_dialogue_parser_2_5667e4/SKILL.md,Software Development,8,6,536,420
+569,0001dadab77319927019c1d13cc88bd44f84d7b1,khalilbenaz/claude-skills-collection,skills/agent-database-query-subagent/SKILL.md,Databases,6,5,1498,1497
+570,0001e3ef6d158377e6a44af1991981418c9073f8,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/multivariate-game-theory-verification/SKILL.md,Mathematics and Statistics,3,3,559,479
+571,0001e94e098c7b0181ac7c9975a90798be6ec2f9,ncarsner/agents-and-skills,.claude/skills/grill-me/SKILL.md,Product and Business,2,9,251,196
+572,0001f6b93877d9809d0127c5d9aa3048911ceb66,MikeCheng1208/BattleTree,.agents/skills/keynote-slides/SKILL.md,Design and User Experience,7,6,1191,1080
+573,0002095fbf07c7a3e8bbe20363b269ee616c6fc8,drivardxrm/pptb-customapi-events-manager,.squad/skills/managed-state-filter-pattern/SKILL.md,Software Development,7,8,734,682
+574,000226dcee2478e3129ea21461ff985162a34b76,getcher123/template-agentic-project,.agents/skills/issue-agent-readiness/SKILL.md,Agent Orchestration,2,9,353,314
+575,00023a9c14a0b38860b82fdfc3d37ac03dd9a98b,matt-riley/agent-skills,skills/go-docker-builds/SKILL.md,DevOps and Infrastructure,9,7,1290,1136
+576,00024699e4d03826491317625028f238c14c2acf,diegosouzapw/awesome-omni-skill,skills/data-ai/esp32-workbench-ota/SKILL.md,Engineering,8,8,831,780
+577,000251aa07309c7657d8f2c04eebf6c4b1e9f6f7,SorinS/go-speckit,testdata/golden/scaffold/proj-kimi/.kimi-code/skills/speckit-converge/SKILL.md,Software Development,9,9,1142,962
+578,00025728e4e0f1431826156dc6784b7747e46ca8,anantham/LexiconForge,issues/_meta/proposed-skill/SKILL.md,Software Development,9,9,1411,1199
+579,00025b2ac01880c09759a183b2f4b7d78979603a,hxiaodon/ai-broker,.claude/skills/build-and-test/SKILL.md,Software Testing,9,7,204,173
+580,000262ba2de1490f8bc2193b1bdf2158454c1714,PR3MM/Agentic-skills,git-pr/safe-commit-push/SKILL.md,Developer Tools,9,9,1250,1119
+581,00027fafd88abb355b45a28a322e87b9549584db,pedroct/treit-kit-agentes,.agents/skills/intelligent-routing/SKILL.md,Agent Orchestration,2,2,225,202
+582,0002884110190b51b72839840b872bd3f4d574d0,rene-wagner/vsgapi,.pi/skills/deploy/SKILL.md,DevOps and Infrastructure,8,8,1100,935
+583,00028954e3e0a3db124dea2f37b5ba29aae5147e,yeisme/pinax,.claude/skills/pinax-agent-router/SKILL.md,Productivity and Scheduling,8,2,1349,1272
+584,00029de8d339157c76e199ff826f58f51613f0ae,MikeCheng1208/BattleTree,.agents/skills/octave-mythology/SKILL.md,Agent Orchestration,6,4,1052,1022
+585,00029f45381ed978dd5961f1db0ff9fe97210be9,Kilo-Org/kilo-marketplace,skills/exploring-data-catalog/SKILL.md,Data Engineering and Analytics,6,5,1361,1223
+586,00029fa03974a3fd0912f21f74d795bd96fa39dd,combinate-me/Executive-Assistant,combinate-plugins/skills/01-General/combinate-presentation/SKILL.md,Design and User Experience,7,6,1160,1020
+587,00029fd14945df0f7d40173557d4713c1a57ae9a,fagemx/prismstack,skills/skill-gen/SKILL.md,Agent Orchestration,4,4,2036,2025
+588,0002a3147ca377da16432d09f6a682a1f20d3bf7,MerverliPy/calvin-opencode-system,.opencode/skills/local-model-routing/SKILL.md,AI and Machine Learning,7,7,251,236
+589,0002a3abb0df19f8349df7afa7c9dbe6d21e1915,acosmi/CrabCode-Plugin,plugins/crabwork-operations/skills/runbook/SKILL.md,IT Operations and Incident Management,2,2,434,344
+590,0002a3ad6167b9087fba09181dabb7e020574ceb,CDTRSFE/trsai-skills,skills/pinia-store-design/SKILL.md,Software Development,4,4,1313,1313
+591,0002adc17b990ee8e8046759f9856242fd484021,Mkrsun/agent-analytics,core/skills/generate-openapi-spec/SKILL.md,Software Development,8,8,1237,1126
+592,0002b5eecbd8b6ad5b9530429433f5af8c8a21aa,sc30gsw/vcsdd-claude-code,skills/vcsdd-git-integration/SKILL.md,Developer Tools,9,9,184,165
+593,0002baed61d6de0c3ba17633ba61141eeb2411f2,ComeOnOliver/skillshub,skills/hashicorp/agent-skills/terraform-test/SKILL.md,Software Testing,2,9,1070,982
+594,0002bd82cf7517dcc3727f14c3976113162c3bba,er1chu/claude-skills-weekly,skills/decision-extractor/SKILL.md,Project and Task Management,9,6,707,600
+595,0002cc9fc14254a816eb9ed5dccb4e969ee47414,AhmedKaram50/research,sdui/.claude/skills/bmad-pm/SKILL.md,Insufficient Information,8,8,135,118
+596,0002cd77f6cf16c658799378310bf314d287ddd1,5t111111/tailwind-theme-figma-variables,.github/skills/testing/SKILL.md,Software Testing,9,7,144,114
+597,0002d5305ffb1f9a59cff3a8624b2ab951a42e11,MikeCheng1208/BattleTree,.agents/skills/empirical-validation/SKILL.md,Software Testing,2,9,526,479
+598,0002d63a4400f68f4fd2676c6937d94f68f980ec,damionrashford/media-os,skills/ffmpeg-cut-concat/SKILL.md,Audio and Music,6,6,1392,1251
+599,0002e06338be77fecaa1c4ad6fc5f0f385ed5320,yogsoth-ai/de-anthropocentric-research-engine,skills/and-or-decompose/SKILL.md,Project and Task Management,2,2,281,256
+600,0002e73091dca85a696300827493bfe3bb9ea7af,Kydoimos97/ClaudeConfig,skills/codex/SKILL.md,Agent Orchestration,9,9,566,512
+601,0002e996d6c0fbe6fea263a6057dfb33e93f4d56,slyjeff/lucid-forge,app/skills/lucidforge-cancel/SKILL.md,Software Development,9,6,635,539
+602,0002ebe79238cca4f60fcb4c9802f793b8d2ac8c,moonskorch/ReverySky-Plugin,unity/ReverySkyMap/.codex/skills/cartographer-engine-eval/SKILL.md,Software Testing,2,9,928,817
+603,0002f08d023e0c3f78368c16733848e978215970,horaja/ml-research-vault,.agents/skills/note-refactor/SKILL.md,Productivity and Scheduling,1,1,316,282
+604,00030c41b3885d5971add21ea76087d81ccea668,datnp1003/anos,skills/security/SKILL.md,Cybersecurity,5,5,553,529
+605,000317870fb3482dc94eca0448e464cd436a1f40,1CestlaVie/astrbot-plugin-dev-skill,SKILL.md,Software Development,4,4,2184,2183
+606,000317e8de560fec373fb6c63f700e9c751942eb,majiayu000/claude-skill-registry-data,other/monetizing-innovation/SKILL.md,Product and Business,1,1,1190,984
+607,000343059c07758b1835365b4d3f3a3e865b762f,MikeCheng1208/BattleTree,.agents/skills/code-discovery/SKILL.md,Developer Tools,6,7,66,58
+608,000365280ebccaebeef4c87101c9687db0f7994b,maceteligolden/bigeye_server,.agents/skills/backend-routing/SKILL.md,Software Development,7,7,1065,923
+609,0003680ca466675ff680e081dd453c8138e69e57,26zl/cybersec-toolkit,.claude/skills/validate-all/SKILL.md,Software Testing,2,9,762,664
+610,0003928a4a066f30f964bb81a3e37caa3f7795b8,bs-koo/gx-security,skills/exploiting-broken-access-control/SKILL.md,Cybersecurity,5,4,2847,2842
+611,0003a41895f3ff99b5585d674e8f8a404890e8dc,Demerzels-lab/elsamultiskillagent,public/skills/glucksberg/cross-ref/SKILL.md,Project and Task Management,9,6,52,46
+612,0003a88eea9ace6c2e2adfb85f11bc1c576b2983,demircaliskan2009-pixel/BIST_ELITE_CORE,.github/skills/crypto-system-orchestrator/SKILL.md,Finance and Cryptocurrency,2,2,1095,1040
+613,0003b967297e75c0ed2362a107167f5210babe19,claudianus/superliora,packages/agent-core/src/skill/catalog/luokai-dhdna-profiler/SKILL.md,Psychology,1,1,1142,1068
+614,0003bdba67120cd2c70d15ec0abcde1297f2a7ac,logly/mureo,mureo/_data/skills/lead-form-create/SKILL.md,Marketing and Communications,8,8,1184,994
+615,0003e7ade92e57b0930fd68597fb73c2bf267fcc,MikeCheng1208/BattleTree,.agents/skills/orcaflex-model-generator/SKILL.md,Engineering,6,7,1285,1255
+616,0003e92984094ce6cf5d7b65e84fb9e2c81d535e,cyotee/crane,docs/reports/gap/.claude/skills/resupply-liquidation/SKILL.md,Software Development,2,9,266,249
+617,0003f0d4938d876a2845e1f93126476e4c5a36e9,lm93129/claude-for-audit,forensic-audit/skills/customize/SKILL.md,Finance and Cryptocurrency,4,4,318,318
+618,00040371d0cc31b7cfb0beb0209f4e4d72bfc9dc,Vintersong/NOVA-Cognition-Framework,forgemaster/library/autonomous-agents/web-search/SKILL.md,Research and Academic Publishing,1,1,465,393
+619,0004277d340d21eac4323f6aadf2aeaaf5c96e50,PracticalSwan/agent-skills,sharing-skills/SKILL.md,Agent Orchestration,9,2,1023,909
+620,0004314a114a096862e9a3a835acdda28b8b1692,delightful-ai/leaven,docs/specs/leaven_py/repos/harbor/skills/create-task/SKILL.md,AI and Machine Learning,2,2,1158,1007
+621,000432afe96102f283e5b82b0fa755f8d2d32c19,mwathiben/PropManager,.claude/skills/bats-testing-patterns/SKILL.md,Software Testing,2,9,676,635
+622,00043c4460e9bf986f43e78f812baf20462a0f4f,David-Li0406/meta-skill-evloving,skill-flow/data/skills-refined-36k/skillsmp/review-33/SKILL.md,Software Development,9,9,1432,1432
+623,00043dc642e9bb277845fe463aef373dec056c9d,seabasst/claude-smb-sverige,skills/moms-redovisning/SKILL.md,Finance and Cryptocurrency,4,4,1899,1889
+624,00043f735e2961eff00a6e696ba6a52f9ad6d8ab,k41531/agent-dashboard,tests/fixtures/fake_claude/skills/foo/SKILL.md,Insufficient Information,1,2,16,14
+625,00044402dc0bc6d612d79cd52f9d6b51febf3570,MikeCheng1208/BattleTree,.agents/skills/amia-github-thread-management/SKILL.md,Developer Tools,9,9,1144,1030
+626,00044ee8a88593dc1cc7430161a60cb870046222,majiayu000/claude-skill-registry-data,testing/bugfix-chrisallenlane-claude-swe-workflows/SKILL.md,Software Development,2,9,994,868
+627,00045af62821545014e9a6869c3f394882dd2479,abdtirtayasa24/myworkflows-skills,engineering/skills/shipping-and-launch/SKILL.md,DevOps and Infrastructure,9,9,1035,911
+628,000461df07f128f192713b2fa26e5140155546ff,tercel/code-forge,skills/tdd/SKILL.md,Software Testing,2,9,1189,1063
+629,00046d6e17688d6bf5908a8b19bf4fed59ed5a0d,Abdssamie/convex-ecom,.claude/skills/convex-component-authoring/SKILL.md,Software Development,7,7,563,533
+630,00046e8e69f56d2b47fa86e56df2bfb155d43167,firebitsbr/OWASP-claudeskills,claudeskills/skills/www-project-scan-it/SKILL.md,Cybersecurity,9,9,400,346
+631,00047f1233836f3c38bce543a1ccd924f61b8052,MikeCheng1208/BattleTree,.agents/skills/fullstack-feature/SKILL.md,Agent Orchestration,2,2,1165,1057
+632,000493158f492e4b7cd67047a9d6dd5764cd6452,opencue/skills,skills/security/agentshield/SKILL.md,AI Security and Governance,5,5,1285,1177
+633,0004a0bc5b1d1e6052b0a164f9c535930aa66f8f,Bryan-Roe-ai/Aria,.github/skills/aria-web-sync-workflow/SKILL.md,Software Development,8,8,709,646
+634,0004a5dd6647cef621a5d1549f6ae52369072ba4,ziri22/agency-roster,skills/business/agent-ppc-specialist/SKILL.md,Marketing and Communications,4,4,813,813
+635,0004ac7b174528ac60bd52d6e2256c608036ca6e,benthamite/dotfiles,codex/skills/design-audit/SKILL.md,Software Architecture,9,9,891,739
+636,0004acc951e4e6b99b0a1cf70a238e1f88900bb1,MikeCheng1208/BattleTree,.agents/skills/test-orchestrator/SKILL.md,Software Testing,2,3,935,919
+637,0004cb0f19bebca7036b2373a8eacd8ced30726e,dealroom-ai/agent-skills,skills/linear-issue-writing/SKILL.md,Project and Task Management,2,1,1005,822
+638,0004cca1c493f866d7f23a8b259a14cf7e2a8862,diegosouzapw/awesome-omni-skill,skills/business/content-marketer-majiayu000/SKILL.md,Marketing and Communications,1,1,595,556
+639,0004ced584a9c9893db5aea89f4b81ada3d8bf7b,Klotzkette/claude-fuer-deutsches-recht,hoai-leistungsphasen-praxis/skills/lph-03-terminsteuerung/SKILL.md,Legal and Compliance,4,4,931,928
+640,0004e3fbc64e6d857f2360c3dd51d69d0f8c0245,tenpei-peso/Souvenir_test1,.claude/skills/svelte-testing/SKILL.md,Software Testing,4,4,245,245
+641,0004e4bc2eac3fc02cecbcb8c49d6894a7d289a9,4citeB4U/Agent-Lee-The-Sum-of-All-Systems,agents/skills/code-analysis/security-vulnerability-scanning/SKILL.md,Cybersecurity,5,5,452,421
+642,0004e8823902b49c972fa2e49a05b4c09b2fcb30,binoy14/skills,skills/human-tone/SKILL.md,Writing and Editing,1,1,1155,935
+643,0004fb1b2dd571e47ca8d8a2fbdf173abb97c7a2,ADu2021/skillXiv,skills/skillxiv-v0.0.2-claude-opus-4.6/perception-aware-policy-optimization/SKILL.md,AI and Machine Learning,3,3,976,867
+644,000515588fdd15d79771ebad9a4d7264512a21d1,BrianJr03/InIndy,.claude/skills/profile-edit/SKILL.md,Software Development,8,8,958,887
+645,000515e1fafd0cba04bc73f707855a25fbee0e46,Klotzkette/claude-fuer-deutsches-recht,verbraucherschutzverband-durchsetzung/skills/flugportal-vergleich-pruefen/SKILL.md,Legal and Compliance,4,4,1221,1217
+646,00052f761e60a8a6a7a02b2878948549babf40e4,digitalygo/opencode-setup,home/dot_config/exact_opencode/skills/mycelium-plan/SKILL.md,Software Development,2,2,780,658
+647,0005406083da1fc6aa53c39bf012d385448058b8,hivgb1-ai/do-better-workspace-v2,.claude/skills/kakao-read/SKILL.md,Productivity and Scheduling,4,4,4732,4731
+648,000541374f14cf916fc2a5082a7b0b5d15d048ca,PaleoLipidRR/TEXAS,.claude/skills/notebook-sync/SKILL.md,Software Testing,6,6,1305,1221
+649,000562425c70f03475981ad9bd830048e4f15763,diegosouzapw/awesome-omni-skill,skills/design/co15-combinatorial-design/SKILL.md,Computer Science and Algorithms,7,2,537,473
+650,0005633e6138f9d906a0c4730a64ff6769158a9f,MikeCheng1208/BattleTree,.agents/skills/aspose-slides/SKILL.md,Software Development,7,1,898,834
+651,0005642142821ff33d0fd8ee96ccb9ad39891319,CofficLab/Cisum,.claude/skills/i18n-translate/SKILL.md,Writing and Editing,4,4,692,692
+652,000565260bc5acc47a5a9ec2352ae27f150b3632,krillinai/KrillinAI,skills/krillinai-pipeline/SKILL.md,Audio and Music,9,6,422,376
+653,000566d9fbbfe35fc2f5f9cdbe65d2cd99b5d477,dvcrn/openclaw-skills-marketplace,plugins/runeweaverstudios--subagent-tracker/skills/subagent-tracker/SKILL.md,Agent Orchestration,8,8,1217,1071
+654,0005681b16875ec3e441164ec734e9cedb1dd2d0,yaakaito/env,skills/discuss/SKILL.md,Software Development,1,1,232,183
+655,00056c69f19a9b7180f7ce421778033f534a2d58,NeuralBlitz/buggy,ncx/.opencode/skills/functional-analysis-based-estimation/SKILL.md,Mathematics and Statistics,3,3,557,477
+656,00056d7bd68d575363d119e959d9d10864044733,fabn/claude-plugins,plugins/github/skills/release/SKILL.md,DevOps and Infrastructure,9,9,1200,1053
+657,00057035578420c2fdfb9d94d23c9044e21b3dc5,brianmontero18/astral,.claude/skills/agent-opportunity-detector/SKILL.md,AI and Machine Learning,2,1,1126,920
+658,000573f30ca5375dbb707fca1a476a775c40894a,iyulab/claude-plugins,plugins/iyu/skills/run/SKILL.md,Software Development,9,9,1116,1046
+659,00057a084543922a8aa9d62949e79fbffd6a9e7e,egoisth777/arca-skills,skills/arca-lint/SKILL.md,Productivity and Scheduling,6,5,1522,1362
+660,00058ecd70d3f0c8dc08f917102ea1aad5a0193e,MikeCheng1208/BattleTree,.agents/skills/update-google-agent-models/SKILL.md,Agent Orchestration,8,8,270,259
+661,0005906e659cb4a7eda450316e51a3b8a114a0e7,Valjoha/dmrzl-framework,vault/dmrzl/skills-src/dmrzl-profile/SKILL.md,Software Testing,6,5,1127,1037
+662,00059ac34d83b8b93959a08aaa26718605f7f16b,MikeCheng1208/BattleTree,.agents/skills/nock-interpreter-engineer-assistant/SKILL.md,Computer Science and Algorithms,6,5,1196,1132
+663,0005a6cf513878a553760f49186e5fa55bcf90f9,MikeCheng1208/BattleTree,.agents/skills/direnv/SKILL.md,Developer Tools,9,6,254,241
+664,0005ab29a9ecee9a41bc056c5864d009054020d5,Cheggin/request-for-startups,skills/social-media/SKILL.md,Marketing and Communications,1,1,573,499
+665,0005addb508645b60507512c952ac32429f2d180,tarqd/skills,plugins/openai/skills/chatgpt-app-development/SKILL.md,Software Development,8,8,1242,1165
+666,0005b0a627972777600390a8be0c196f61c895c5,SatangThevalue/ai-skills,skills/finance/thai-business-law-guide/SKILL.md,Legal and Compliance,4,4,699,695
+667,0005bc0f5dba200041d59c09f2ddf77413232516,mkurman/zorai,skills/scientific-skills/wandb/SKILL.md,AI and Machine Learning,6,5,190,184
+668,0005c24af8c69172014593558365e77674f5649a,snake14v/antigravity-web-swarm,company/skills/deploy-manager/SKILL.md,DevOps and Infrastructure,9,9,1100,1043
+669,0005c590e7d498363d82a8c595f4d1233ff89c1b,NeuralBlitz/buggy,ncx/.opencode/skills/spatial-a-b-testing-modeling/SKILL.md,Mathematics and Statistics,3,3,591,510
+670,0005cb866c8675eb5cba9dd52159f0f61864b88f,colinmollenhour/dotfiles,.claude/skills/drizzle-orm/SKILL.md,Databases,6,7,1131,1065
+671,0005d47ccf5afd6f2b7f62793ad9ade02660a0be,ArogyaReddy/https-github.com-JuliusBrussee-caveman,skills/compress/SKILL.md,Insufficient Information,6,6,17,17
+672,0005f7a7bce8c9136a80faa9e923bdf67dee53a4,EnigmaThe1/autonomous-factory-platform,skills/capability-selection/SKILL.md,Agent Orchestration,2,2,166,145
+673,0005fd26fb9be76dda5d70e7bbe9ac138d6340e9,majiayu000/claude-skill-registry-data,gaming/unity-shader-gen/SKILL.md,Game Development,7,4,1456,1455
+674,0006129b190a41a6fca9d6861823209c2880e1b5,EmanuelRad169/EZQuest,.claude/SKILL.md,Design and User Experience,7,1,1014,911
+675,0006158d541a256a54b052cf574c317e528f9214,aashari/ai-agent-skills,skills/apple-mail/mail-search/SKILL.md,Productivity and Scheduling,6,8,382,333
+676,000617a779b41b2e18fb2f7a43b88ed645d32d61,grafana/interactive-tutorials,.cursor/skills/migrate-guide/SKILL.md,Education,7,7,1199,1029
+677,000619011f52b081f35aacc3c94d5af4411b7db9,dvcrn/openclaw-skills-marketplace,plugins/azep-ninja--tator-trader/skills/tator-trader/SKILL.md,Finance and Cryptocurrency,8,8,1499,1398
+678,0006238ab315f6666421f6272564f2e231aadf5c,FranGuh/RedirectLink,.agents/skills/conductor-status/SKILL.md,Project and Task Management,2,2,73,57
+679,00062a8f1fc28199cae258fbdcf1ea0b580d1980,MikeCheng1208/BattleTree,.agents/skills/git-pr-merge/SKILL.md,Developer Tools,9,9,350,300
+680,00062e50d6109e938bc36d1ba581d7c2110a8534,cloudthinker-ai/CloudSkills,skills/connections/aws-athena/SKILL.md,Data Engineering and Analytics,6,5,860,800
+681,00063931478539c7434fa40c06cfe0cd55e6d8a0,alo-exp/silver-bullet,skills/silver-agent-opencode/SKILL.md,Agent Orchestration,2,2,1359,1263
+682,00064a6a03bc833b4f06eee71c86a2d7dc6f9842,rishabhcli/FlowPR,skills/flowpr-autonomous-frontend-qa/SKILL.md,Software Testing,8,8,1006,892
+683,00064c579baadf5eb71d13e01a3019001cbca5a8,MikeCheng1208/BattleTree,.agents/skills/nano-pdf/SKILL.md,Productivity and Scheduling,1,1,1198,1099
+684,00064ec2e894f115172e8a637ed32ba0c0d51878,bigdra50/skills,workflow/session-recap/SKILL.md,Agent Orchestration,4,4,1619,1609
+685,00064f6675844eec646804fc3d2e7e098e7a4394,Wilder1222/superomni,skills/plan-review/SKILL.md,Software Development,2,2,1225,1119
+686,00064fa70212174ee54592785138fac701d63d87,filipas123/cuddly-waffle,openclaw-skills/backend-service-design/foundation/SKILL.md,Software Architecture,7,7,42,40
+687,000650deb8437d861501f955cdce2864a1057004,NeuralBlitz/buggy,ncx/.opencode/skills/environmental-engineering-interpretation-fundamental/SKILL.md,Environmental Science,3,3,560,480
+688,00065d6f4d19c47ec31742483924b4510171952c,NeuralBlitz/buggy,ncx/.opencode/skills/unsupervised-quantum-computing-calculation/SKILL.md,Computer Science and Algorithms,3,3,574,494
+689,0006607569643a6666359ec4389357f29ddfc9e3,beer-sakthai/Sak-Family-Agent,personas/sakking/skills/software-development/plan/SKILL.md,Software Development,9,2,1053,912
+690,0006617d83ac731b3c509d920cd876b801fbc348,MikeCheng1208/BattleTree,.agents/skills/sandboxes-js-sdk/SKILL.md,DevOps and Infrastructure,8,8,364,336
+691,0006643cd32a348902bb806fe8e5ea07dcd9c7e6,javimosch/supercli,plugins/xcolor/skills/quickstart/SKILL.md,Developer Tools,7,6,70,62
+692,0006658f73b7ccdc55540db22beb14ed3c42cd84,MikeCheng1208/BattleTree,.agents/skills/wikidata-search/SKILL.md,Research and Academic Publishing,6,5,1254,1205
+693,00067028cc26a8b9efecf083996d193624860100,RobGibbens/ConnectionsExplorer,.github/skills/azure-document-intelligence/SKILL.md,AI and Machine Learning,1,1,1217,1134
+694,00067d5ced5dc7f84cdd979941218f6401b803e6,mediazard/ccdock,plugins/ccdock/skills/dock/SKILL.md,DevOps and Infrastructure,8,6,852,739
+695,0006801762a38e0c88db945321e3eebab7c885bd,HolobiomicsLab/asb-skill-collections,packs/metabolomics/lc-ms/skills/custom-database-searching/SKILL.md,Biology and Data Analysis,6,5,1357,1185
+696,00068967a2c337c5ed417bc81396f703db333d3e,XSpoonAi/spoon-awesome-skill,enterprise-skills/debugging/evm-tx-debugger/SKILL.md,Software Development,5,5,1712,1624
+697,000695d42569e36e426048676935a977b19bc045,Cairnstew/nixos-config,templates/cli/.opencode/skills/cli-development/SKILL.md,Software Development,9,6,284,259
+698,0006996a56ebae875d20fdd4d1d4216da305873a,eric-chapdelaine/dots,.config/opencode/skills/macos-window-control/SKILL.md,Productivity and Scheduling,8,8,754,644
+699,0006999c1c9a96b18d2600ad1816d3bb68bb903a,ArchieSA/skills,socratic-tutor/SKILL.md,Education,1,1,1141,855
+700,0006ac950e673432667cb3bd58442c0141e47875,donstany/HotFixAmbulance,.claude/skills/elastic-query/SKILL.md,IT Operations and Incident Management,6,5,598,547
+701,0006aef6c1549f995c1891c323d39d134b763339,anubhavg-icpl/vibe,skills/client-event-listeners/SKILL.md,Software Development,8,8,133,125
+702,0006af9a25a43b16bdeaacdce3c01f2a8ef6ade4,mergesort/Recap,.agents/skills/recap-integration/SKILL.md,Software Development,8,8,660,587
+703,0006b5e54628b8e4d1798a50c3cb93db1a2ac48c,zhangwenm/java-coding,.agents/skills/autocli/SKILL.md,Developer Tools,5,8,1937,1899
+704,0006b731df70a05b2cd171af30c4e1f16c34952c,HolobiomicsLab/asb-skill-collections,packs/metabolomics/lc-ms/skills/spectral-match-threshold-application/SKILL.md,Biology and Data Analysis,6,5,1403,1296
+705,0006ba6e10fc55644dca3c7094f23a307b1be644,nakaj1214/nakaj_claude,.claude/docs/references/advanced-security/semgrep/SKILL.md,Cybersecurity,4,4,246,246
+706,0006bb46f3a58d580d525bb9643b018685984b7a,ulf1/mas-inquiry,.agent/skills/inquiry_bot/SKILL.md,Agent Orchestration,2,2,1008,873
+707,0006bed0c2d34b88b53939840974e334908958f7,uinaf/agents,skills/vite-plus/SKILL.md,Developer Tools,9,9,1280,1148
+708,0006c133a955366a2e25289e3a4151cab19c1821,vimalinx/bio-agent,.claude/skills/hisat2-build-s/SKILL.md,Biology and Data Analysis,6,6,534,487
+709,0006ef4a24e142e4950b3a83ff9687ccdc3476a8,Owl-Listener/ai-design-skills,claude-plugin/model-interaction-design/skills/mixed-initiative-flow/SKILL.md,Design and User Experience,2,2,531,414
+710,0006f38b5e12ac4ebc135ad8f362237271856a3e,lklimek/memcan,.claude/skills/smoke-test/SKILL.md,Software Testing,2,5,1224,1133
+711,00070c741854ccbaed35cf422f35fd868aff4a1b,KaivinC/openwheel,spin-wheel/SKILL.md,Education,7,2,1073,852
+712,000710ed2a70ae131aebf7fb14f67a985652380f,Snowwpanda/vibecoding-tutorial,.agents/skills/frontend-starter-guidance/SKILL.md,Software Development,7,7,689,577
+713,00071cad6ae3645aeb9fabe2282c35e6c23ef5d2,kerolos-samoul/MediBridge-Project,.agents/skills/speckit.taskstoissues/SKILL.md,Project and Task Management,9,2,91,79
+714,000732117eb919c49ad43fa0310f952f8ddd9c72,dmlin7777777/ideas-inbox,SKILL.md,Product and Business,2,2,1847,1825
+715,00073b91142f4c88cf65f6e74024489edd6c1bf3,softmg/product-tracker,.claude/skills/audit-workflow/SKILL.md,Software Development,2,9,1110,1034
+716,00073e73e28bfa947b347ad5e9ac26f94749cfec,jvolante/oc-config,skills/graphify/SKILL.md,Software Development,6,6,1052,867
+717,00074874e847a46c8a8e2f644cb221476c632925,KasperPac/Assemblio,.agents/skills/frontend-design/SKILL.md,Design and User Experience,7,7,1367,1295
+718,00074c78692793be6cef69dd72f7e7279bfc98a6,keji94/content-scanner,SKILL.md,Writing and Editing,4,4,2347,2343
+719,000758823821be45f2739ac5851e9338bdbe2877,getkyo/kyo,.claude/skills/readme/SKILL.md,Writing and Editing,2,2,1137,971
+720,000762735b701362b5dd0ca2db2a3d9ced57eb7c,dotoricode/tink-harness,.claude/skills/tink/SKILL.md,Agent Orchestration,2,2,1023,906
+721,000763e705d16593ba1945db13e57b60c7330b93,EZoneLai/claude-plugin-ronsunai-os,commands/caveman/SKILL.md,Writing and Editing,4,4,733,728
+722,00076c3cfabfd0e211079180b2cec3477fff432a,mcampbellr/.dotfiles,claude/.claude/skills/gsd-inbox/SKILL.md,Project and Task Management,9,9,376,359
+723,00076ce27b9f76713881603fa5db09732a93cef8,jnjsfmrnd/bookworm,.github/agents/imported-skills/react-best-practices/SKILL.md,Software Development,7,7,436,411
+724,00076d80638afd8f908fb922611024e489e853d3,ddmanyes/antigravity-skills-zht,skills/sp-executing-plans/SKILL.md,Software Development,4,4,454,453
+725,00076e07140992a1edeff235669e09b6ffe3fcd0,duany049/multi-skill-orchestration,i18n/zh/skills/poster/SKILL.md,Research and Academic Publishing,4,4,2311,2305
+726,000775c39d50607f786938c581cc240bd3374edb,rhpds/rhdp-skills-marketplace,skills/showroom-create-demo/SKILL.md,Insufficient Information,7,2,20,20
+727,0007856a3329c87234b8421f5025adc5a671dce8,majiayu000/claude-skill-registry-data,design/ui-polisher/SKILL.md,Design and User Experience,4,4,1050,1050
+728,000788c1effa7bdca199f6c3aed01c8a94426683,OneKeyHQ/onekey-wallet-skills,skills/onekey-swap/SKILL.md,Finance and Cryptocurrency,5,5,1177,1011
+729,000790b56cf70c8df3a7f8f868689fad7fad8aa3,gabrielmoreira/agent-skills-mirror,mirrors/repos/jeremylongshore@claude-code-plugins-plus-skills/plugins/saas-packs/langfuse-pack/skills/langfuse-multi-env-setup/SKILL.md,DevOps and Infrastructure,9,7,823,798
+730,000794abcb94fb907801e0c87c18681ecd6bc035,leaner-co-jp/leaner-waigaya,.claude/skills/release/SKILL.md,DevOps and Infrastructure,4,4,891,891
+731,000797af66e64a5e073a6947fca14bd883fa155f,vaadin-developer/security-for-flow,docs/skills/claude/jsentinel-standalone-hardening/SKILL.md,Cybersecurity,5,5,410,386
+732,00079a344224a725dd7c1053e38fafbcc2abc351,graeme-lockley/ai-assistant,packages/core/workspace-template/skills/cron-scheduler/SKILL.md,Agent Orchestration,8,8,214,186
+733,00079c214556f92eb2e0e137366177740b9f3610,netanel-abergel/pa-skills,skills/whatsapp-voice/SKILL.md,Audio and Music,8,8,548,499
+734,0007a7aed49e59a1c53be77baa4e206dd0d166f3,loulanyue/awesome-claude-notes,docs/zh-CN/skills/bun-runtime/SKILL.md,Developer Tools,4,4,859,859
+735,0007b975fb5f030507dc0a828c73c564386170c2,mx-space/core,.claude/skills/zod-patterns/SKILL.md,Software Development,6,5,130,127
+736,0007bba96210fceee25294d3f59d87fbff58869b,Borda/AI-Rig,plugins/develop/skills/fix/SKILL.md,Software Development,9,9,1454,1381
+737,0007c210818f80b981d2605663900dd3e6bb7434,tools-only/X-Skills,daily-assistant/164-remediation_1e971bbf/skill.md,Cybersecurity,9,5,41,40
+738,0007cf2b24597464d063a511374299dc16e32039,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/discrete-neurodegeneration-debugging/SKILL.md,Biology and Data Analysis,3,3,591,511
+739,0007d716b489ab6974017385adeb35d99ecd4b18,leandrosilvaferreira/gitai-js,.claude/skills/architecture/SKILL.md,Software Architecture,2,7,531,505
+740,0007e2dbd770c308be12e0a8bccf31cd2f9d03f9,NeuralBlitz/buggy,ncx/.opencode/skills/analytical-surface-chemistry-classification/SKILL.md,Chemistry,3,3,558,478
+741,0007e38567c2ee6dbaf02cda4d1cdadfb450819d,bomberoxenviosdosruedas/01EnviosDosRueda,.agents/workflows/agency-sales-engineer/SKILL.md,Product and Business,1,1,924,738
+742,0007ed68a065ccf07f69c77dc15a1a8a1a4e4683,curtisault/rust-skills,SKILL.md,Software Development,7,7,1513,1467
+743,0007f769d3cc5dd7520acbfb18bf0208a7495d09,majiayu000/claude-skill-registry,skills/development/articles/SKILL.md,Project and Task Management,4,4,291,291
+744,00080ea3f7ba40944699a8ca5c35eeb48ef7172f,TalonT-Org/AutoSkillit,src/autoskillit/skills_extended/mermaid/SKILL.md,Software Development,7,2,1346,1307
+745,00081dd1c7e9cc00a7538d000fd3003f67090ed5,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/analytical-neuropsychology-debugging/SKILL.md,Biology and Data Analysis,3,3,597,517
+746,0008214c0d3a7df171820b8af27f34e1af3d0638,ZTE-AICloud/Co-OmniSpec,skills/branch-management/SKILL.md,Developer Tools,4,4,1872,1872
+747,000826533ba7cd888ab45688c7642e9ef6eb7047,franklioxygen/agent-workflows,zh-cn/skills/performance-review/SKILL.md,Software Testing,4,4,640,639
+748,000828a3c3a319f2e18ced6850a4815ee886e042,luokai0/ai-agent-skills-by-luo-kai,ai-agent-skills/11-specialized-coding (by Luo Kai)/14-other-specialized/oc-mol-instant-messenger/SKILL.md,Productivity and Scheduling,8,8,582,549
+749,00082f12b5bf361c5f8acd953c2c0bce5002e5f8,claudianus/superliora,packages/agent-core/src/skill/catalog/luokai-oc-comfyui-local/SKILL.md,Design and User Experience,7,6,246,231
+750,0008302904f618f4dda52ca483cd932ce29eb749,dhruuvsharma/DaxAlgo-Terminal,.claude/skills/broker-gotchas/SKILL.md,Software Development,5,8,1514,1395
+751,000833a7907aab6365fadfa17e3c685ef650aaec,9aia/pachira,.claude/skills/nuxt-seo/SKILL.md,Marketing and Communications,6,6,835,801
+752,0008410fe802981578bddae04360609467a633ef,OpenVet-Projects/VetClaw,skills/literature/evidence-grading/SKILL.md,Pet Care,1,1,717,606
+753,000849004b8225bce107e8c07b1f303c4db9a3bd,dvcrn/openclaw-skills-marketplace,plugins/mainfraame--clawback/skills/clawback/SKILL.md,Finance and Cryptocurrency,8,8,1235,1119
+754,00084d66ade136505a22992f549493df2a2f65b6,Jahrome907/minecraft-agent-skills,.claude/skills/minecraft-world-generation/SKILL.md,Game Development,6,6,1454,1369
+755,00084e9406dc3d786bbe1109b63a117604bddfe2,dariosky/carun,skills/deploy-code-changes/SKILL.md,DevOps and Infrastructure,9,9,422,354
+756,00087a2af9632300b4ab086755a6facf67096e2d,arielsand/my-opencode-skills,architecture-map/SKILL.md,Software Architecture,9,7,1096,976
+757,00087e0801baa10a043321617e0b220173a6c78f,Klotzkette/claude-fuer-deutsches-recht,preussisches-allgemeines-landrecht-pralr/skills/fallloesung-historischer/SKILL.md,Legal and Compliance,4,4,1248,1243
+758,000885c35898ed69035d95db3633fea07a2289f6,arthurhuang09/yet-another-boss-request,.agents/skills/yet-another-boss-request/SKILL.md,Product and Business,8,2,702,614
+759,00088c5175bb2454311ff5bd6ac5e73b70895841,freestylefly/author-methodology-analysis-skill,SKILL.md,Marketing and Communications,4,4,3374,3374
+760,000891582951544ca4e9a53f3cc728eede9ebc2d,NeuralBlitz/buggy,ncx/.opencode/skills/geology-estimation-research-level/SKILL.md,Earth Science,3,3,557,477
+761,0008a1d8e2ee9f52620f0c710273bf2f084f0324,SriramGandhiS/Skills,web-assets/docs/zh-CN/skills/inventory-demand-planning/SKILL.md,Product and Business,4,4,3733,3728
+762,0008ad408a7717e54bdb700f1182926a08bfe147,duskmoon314/keine,.agents/skills/semantic-scholar/SKILL.md,Research and Academic Publishing,6,1,1470,1338
+763,0008b5ae8b94170101237b43fca02ab669f7859f,aibot88/sec_skill_store,skills/claudskills/web-debug/SKILL.md,Software Development,7,7,1210,1134
+764,0008b8306c6e5b786ac6ed6b1dc78020546125b9,webn77/opennexus,skills/prototype-flow/SKILL.md,Design and User Experience,4,4,1411,1410
+765,0008c4eb611c5815fe6d3cffae168e5b5413f485,MikeCheng1208/BattleTree,.agents/skills/link-deps/SKILL.md,Project and Task Management,2,2,852,756
+766,0008f238da08996940a95e88fc264af043b1ff9a,Xyrces/godot-ecs-gamedev-playbook,skills/player_feedback_systems/SKILL.md,Game Development,1,1,1122,1075
+767,0008f2a9fd4af30e08d5c7bc3b6369b66d6d041f,takeokunn/nixos-configuration,home-manager/ai-tools/agent-skills/skills/swift-ecosystem/SKILL.md,Software Development,6,7,1011,959
+768,0008fa57fba17593566883e0f2aa3926cc717146,Klotzkette/claude-fuer-deutsches-recht,sozialversicherungsstatus-pruefer/skills/statusbescheid-bestandskraft/SKILL.md,Legal and Compliance,4,4,1623,1619
+769,000906222b2f7cf9b74a01a5cdc3579da8968699,AceDataCloud/Skills,skills/x/SKILL.md,Marketing and Communications,8,8,1212,1049
+770,00090af5682dec7ff097969b8d0c3852a58dde29,leomancini/projects-site-generator,.claude/skills/push/SKILL.md,DevOps and Infrastructure,9,9,84,67
+771,0009246d48269d02f87eefc2e613c167622369b3,a-mart/forge,apps/backend/src/swarm/skills/builtins/brave-search/SKILL.md,Research and Academic Publishing,8,8,431,386
+772,00092ea8a5c4426e7b63693571572a32b886aa0c,ssrjkk/claude-skills,.claude/skills/product/scrum-basics/SKILL.md,Project and Task Management,9,9,171,164
+773,000939a89c09f9a13385e85b5fe28ece09083d81,JAPHARYROMAN/NEXT,.cursor/skills/next-master-build/SKILL.md,Software Architecture,2,7,443,402
+774,00093e71c05f8b3ab22b7ad90b8cd72d0c549797,tools-only/X-Skills,development/1155-contributors_b462a0b1/skill.md,Insufficient Information,9,2,1235,1191
+775,00093e92e90742f4a1735e07f334a9124ca01162,mutsumi-yamamoto/claude-data-analysis-marketplace,plugins/data-analysis/skills/data-define/SKILL.md,Data Engineering and Analytics,4,4,1248,1248
+776,000957c73a555b1776d2edac343385de8b053b90,majiayu000/claude-skill-registry-data,skills/skill-launcher/SKILL.md,Agent Orchestration,4,6,184,177
+777,0009613a104875cc3fa4b6b61ecbd7ee285bc775,ssrjkk/claude-skills,.claude/skills/devops/jaeger-storage/SKILL.md,DevOps and Infrastructure,8,7,175,168
+778,00096bbebcee80d7dbb5182e66b86b7c86afcf3f,mkurman/zorai,skills/scientific-skills/econml/SKILL.md,Mathematics and Statistics,6,5,227,217
+779,00096e11d936eddbfec06a365785053daf2b78f9,qazz92/oh-my-droid,oh-my-droid/skills/task-bg/SKILL.md,Agent Orchestration,8,2,1231,1158
+780,00096e183af4a37ec0fda1445e4905bdc7282c88,NoMoneyDaddy/One_Botton_Done_Project,skills/deprecation-and-migration/SKILL.md,Software Development,7,7,101,92
+781,00098a5b353245f9343414e6fcb5d9a7c8d79574,NeuralBlitz/buggy,ncx/.opencode/skills/formal-verification-measurement-fundamental/SKILL.md,Computer Science and Algorithms,3,3,570,490
+782,00098b5c627840dbac09a359680975a3b7b662f7,liuyu520/cc-connect-fork,.claude/skills/vibe-chat-history/SKILL.md,Software Development,8,8,2304,2272
+783,00098bdcfa1ee40e7478ae65574e7561e4e0453f,MMorit00/fund-portfolio-bot,.claude/skills/roadmap-guide/SKILL.md,Project and Task Management,4,4,502,497
+784,00099b62ffa0a6acae0be5f2225f920352157a9e,block/proto-fleet,.claude/skills/asicrs-build/SKILL.md,Developer Tools,9,6,436,379
+785,0009a400d633e87a0c083d5ae6b828da08a6798a,NeuralBlitz/buggy,ncx/.opencode/skills/stochastic-numerical-analysis-verification/SKILL.md,Mathematics and Statistics,3,3,559,479
+786,0009ad770eae101c57fa2ac4d9f151f842975e62,antob/pi-agent-config,skills/grill-me/SKILL.md,Product and Business,1,1,143,107
+787,0009c3f8e975b57eee5d42299c797075775057f8,modbender/skill-library-mcp,data/harmonyos/SKILL.md,Software Development,8,7,643,633
+788,0009c7583fcea5bc4b0a9ab9d4e8f69883a95aa8,loft-lang/loft,.claude/skills/loft-debug/SKILL.md,Software Development,2,9,1356,1225
+789,0009d03e03f551f73dde18927688b89b530e48c6,MikeCheng1208/BattleTree,.agents/skills/godot-profile-performance/SKILL.md,Game Development,6,7,1300,1235
+790,0009dcdf33cee8ec11976cf27351358c390eb40a,thisisAhsanIqbal/nextjs-seo-audit,skills/international-seo/SKILL.md,Marketing and Communications,6,4,968,912
+791,0009e1bc2f70ec8dea89abba4e16aef450190d11,jose-compu/self-improving-skills,self-improving-negotiation/SKILL.md,Product and Business,2,2,1127,1074
+792,0009e4618c6485567d92e082bdbad150f7744f92,AWolf81/memory-lane,.claude/skills/memorylane/SKILL.md,Agent Orchestration,6,1,1119,992
+793,000a031b1304b6412ef25b4560984e4e487ab414,gabrielmoreira/agent-skills-mirror,mirrors/repos/laravel@agent-skills/laravel-nightwatch/skills/configure-nightwatch/SKILL.md,DevOps and Infrastructure,5,8,1025,953
+794,000a147b34e2655d09b6e88b4121e1d606848cf8,closedloop-ai/claude-plugins,plugins/code/skills/find-plugin-file/SKILL.md,Developer Tools,9,6,562,494
+795,000a323f40a92caa16c278194fe4a4101e15704a,juaniitos/AnyoneAIInterviewerBackend,.codex/skills/gsd-debug/SKILL.md,Software Development,8,2,1150,1071
+796,000a3513836eca7b8872ec715b983826d7d58304,MikeCheng1208/BattleTree,.agents/skills/feedback-observing/SKILL.md,Agent Orchestration,2,2,852,797
+797,000a36e8587246b990f9b079aab6959b0b120d8b,lawzava/megapowers,plugins/mega-go/skills/greenfield-go-stack/SKILL.md,Software Development,7,7,1248,1130
+798,000a593fa5fd468f0ee5ad4898270844aa0dbdf3,tomcounsell/ai,.opencode/skills/sync-claude-config/SKILL.md,Agent Orchestration,9,2,1226,1108
+799,000a5bfe66eff6c0cb7e00cc38583d1d75440d62,Esonhugh/Marketplace,plugins/detective-plugin/skills/review-board/SKILL.md,Project and Task Management,2,6,491,427
+800,000a69df6ce9216790b7947d8a93ced0c8cfbaa3,rolldown/rolldown,.claude/skills/rolldown-repl/SKILL.md,Developer Tools,5,8,1441,1242
+801,000a6d4b087d4cc2da0d4fea91aab4faaa8723c1,riverosmejia/financial-ai-system,.qwen/skills/docker_compose_qdrant_dependency_workaround/SKILL.md,DevOps and Infrastructure,4,4,796,789
+802,000a83cef63f8974bcf28fc0cccfe87495a26aba,MikeCheng1208/BattleTree,.agents/skills/u09613-writing-and-rhetoric-optimization-for-household-logistics/SKILL.md,Productivity and Scheduling,2,2,580,529
+803,000a86b9ec6b23fd85ed99287398880c295ad24c,MikeCheng1208/BattleTree,.agents/skills/u3550-plan-quality-evaluation-for-civic-participation-platforms/SKILL.md,Product and Business,2,3,585,536
+804,000a8944b4d6878920e8d373dd588ff35f29b2e1,OrcaQubits/agentic-commerce-skills-plugins,medusa-commerce/skills/medusa-payments/SKILL.md,Software Development,6,8,1294,1254
+805,000a8abd356bcf0e9cfdfb5eb60a3271285a2bbf,Anhvu1107/all-agent-skill,.agent/skills/robius-app-architecture/SKILL.md,Software Architecture,8,8,827,765
+806,000a8e631aefa8bbab1dc1f982ef06296617fe2d,cuioss/plan-marshall,marketplace/bundles/pm-dev-oci/skills/oci-standards/SKILL.md,DevOps and Infrastructure,9,7,1107,1045
+807,000aa3b2774cdd04bde6c8adc2c9156f153e93f5,MikeCheng1208/BattleTree,.agents/skills/lc-test/SKILL.md,Software Testing,9,6,147,132
+808,000aacec4ac4c65f9e1722c7df7915cbec3c9112,Maruthi18/Forge-Development,.agents/skills/forge-app-review/SKILL.md,Software Testing,2,7,1059,944
+809,000ab24dfa14dd9f7c18b3beba529f6228c7d308,HolobiomicsLab/asb-skill-collections,packs/metabolomics/ms-generic/skills/file-interface-integration-and-extension/SKILL.md,Biology and Data Analysis,6,5,1368,1234
+810,000ab8aef843865b9e4a4af77895a83701bb4061,Klotzkette/claude-fuer-deutsches-recht,insiderrecht-compliance/skills/analystencall/SKILL.md,Legal and Compliance,4,4,1523,1518
+811,000abf55fe854127c93a8ea4e9f71c5e14e19989,Awannaphasch2016/jousef-landing,.claude/skills/infrastructure-verification/SKILL.md,DevOps and Infrastructure,5,5,1089,1044
+812,000adff7b8371405c7578d92501c1a71e3c23de7,dvcrn/openclaw-skills-marketplace,plugins/logesh2496--openburn/skills/openburn/SKILL.md,Finance and Cryptocurrency,8,8,1013,862
+813,000ae23e1545fea59652d8c8f7913d0b3d103a23,HenriqueMC17/agente-core,modules/business/odoo-shopify-integration/SKILL.md,Software Development,8,8,530,463
+814,000ae3d6c059cc82489f65945027a8fb4626bae3,vamseeachanta/digitalmodel,.claude/skills/engineering/gmsh-agents/gmsh/SKILL.md,Engineering,6,5,1153,1100
+815,000ae51704411e4c88f5e4a48faf9b830021f41e,wanliyang2025-rgb/Backup,skills/月度往来对账/SKILL.md,Finance and Cryptocurrency,4,4,784,783
+816,000afa752b3fa6e9ddc5b8605dbcc91348d92af1,MikeCheng1208/BattleTree,.agents/skills/stop/SKILL.md,Agent Orchestration,9,6,277,266
+817,000afb47313b200a3c6e26a2ab642a71975f7c8b,chrisliu298/dotfiles,agents/skills/codex-first/SKILL.md,Agent Orchestration,9,2,872,790
+818,000b04150126f406130996774f93cd5094639acd,MikeCheng1208/BattleTree,.agents/skills/memo-stress-tester/SKILL.md,Writing and Editing,1,1,1128,911
+819,000b078b402eac7fe57be6d8a29b708bff9cef55,majiayu000/claude-skill-registry,skills/integration/github-cli-erebusbat-chezmoi/SKILL.md,Developer Tools,9,9,344,318
+820,000b097a1f71d3111335d91aab87c7bf5e032c7e,skomax/skills,.claude/skills/telegram-bot/SKILL.md,Software Development,8,8,489,471
+821,000b10b7b3ec00cadf457f60b19914d074b14a50,camillanapoles/bioeolica-dev,.specsmd/fire/agents/builder/skills/run-execute/SKILL.md,Software Development,8,2,1167,1112
+822,000b19ea11dcae59304a7e701fe03b2940027941,danielsef/ai-native-saas-platform,.claude/skills/data-query/SKILL.md,Databases,6,5,177,163
+823,000b1a92cfbbff2765f684358a2145252460af2c,diegosouzapw/awesome-omni-skills,skills_omni/data-engineering-data-driven-feature-v2/SKILL.md,Data Engineering and Analytics,2,1,1285,1132
+824,000b1b4bd49be5b3e4b8940ddca84af818bd08e9,Klotzkette/claude-fuer-deutsches-recht,fachanwalt-sozialrecht/skills/laienhilfe-hilfsmittel-ablehnung/SKILL.md,Legal and Compliance,4,4,1656,1647
+825,000b1c2e3f9a8abe9b8a46f6d97670bab6443f85,MikeCheng1208/BattleTree,.agents/skills/sync/SKILL.md,Agent Orchestration,2,6,533,488
+826,000b203c77936c97a77f6b3d37d56f7a4436b52e,majiayu000/claude-skill-registry-data,writing/grant-proposal/SKILL.md,Research and Academic Publishing,1,4,1415,1319
+827,000b2356cb1c8531520a4c834fba518ff516a968,MikeCheng1208/BattleTree,.agents/skills/xiaohongshu-cover-generator/SKILL.md,Marketing and Communications,4,4,1687,1687
+828,000b3444a56a03f72b8ea843828d9cf11553bed3,KayKaspers/Nova-Development-Framework,.claude/skills/ndf-product-discovery-runner/SKILL.md,Product and Business,1,1,503,461
+829,000b3c9c25fc8c05d2675cbe4e17d9990e83454d,SREphoto/TopGunPrompter,.agents/skills/oma-recap/SKILL.md,Productivity and Scheduling,1,1,1084,994
+830,000b46f38867bc7980c0336e523ad1f17c188ead,Undermybelt/hermes-skills,skills/community/day1global-skills/btc-bottom-model/SKILL.md,Finance and Cryptocurrency,1,1,1269,1136
+831,000b4963f49f7a0c19b667b6125343265b5da0a2,qhjqhj00/research-skills-pool,skill-factory/output/discharge-note-generation-eval/SKILL.md,AI and Machine Learning,1,1,676,607
+832,000b50d4301e964e2c4c942890d7e100c7b2db9c,NeuralBlitz/ncx,buggy/ncx/.opencode/skills/dynamic-genetics-characterization/SKILL.md,Biology and Data Analysis,3,3,534,454
+833,000b5a50f5fc203d991730498554de99186b2160,All-The-Vibes/ATV-Phoenix,skills/phoenix-craft/SKILL.md,Software Development,2,2,1146,989
+834,000b5cc724e1619da1d4f20a22b3e21e3af7ef32,DCx7C5/ai-marketplace,skills/intel-ioc-splunk/SKILL.md,Cybersecurity,5,5,585,549
+835,000b6768e534004e075a777e4cacbaa7a9f0a609,takuya86/slack-ai-tips-bot,.claude/skills/tips-status/SKILL.md,Marketing and Communications,4,4,300,300
+836,000b6b12124476456eae86df61b9b3d5489c0e31,davekim917/bootstrap,plugins/workflow-agents/skills/team-qa/SKILL.md,Software Testing,2,2,1168,1033
+837,000b710dfee99bde95966097bcbf10c87bd95e32,nomhiro/entire-poc,.claude/skills/codex-plan-review/SKILL.md,Software Development,4,4,284,284
+838,000b775a2d536dfcd05b19b7cad358cc41021ad3,Casper-Studios/casper-marketplace,casper/skills/youtube-tools/SKILL.md,Audio and Music,6,8,811,764
+839,000b7df74e5be03201ae90b2548f20f4811f0a14,stella/stella,.agents/skills/security-audit/SKILL.md,Cybersecurity,5,8,1014,881
+840,000b8410309262ce5926228b14800c3c6c7c06a3,tomas-chudjak/kleidi-task,.claude/skills/new-task/SKILL.md,Project and Task Management,8,2,793,678
+841,000b84677c98e843983e9041e81d4688bdc71fee,babico/TeslaCANModder,.opencode/skills/refactor-over-duplication/SKILL.md,Software Development,2,2,1213,996
+842,000b8676914ff4f29582c012f507af395e6468e0,NeuralBlitz/buggy,ncx/.opencode/skills/structural-engineering-based-verification/SKILL.md,Engineering,3,3,558,478
+843,000b93cd9880fbd1f3575980eff0079959e1333c,majiayu000/claude-skill-registry-data,development/reflex-browser/SKILL.md,Developer Tools,8,8,1060,927
+844,000baa8bb7d9a98a3cb8b7954a26014863e421cb,JoseCortezz25/notify,skills/notify/SKILL.md,Software Development,7,7,1216,1096
+845,000bc3938df562af339954182d080c8efa1b2b09,Infrasity-Labs/dev-gtm-claude-skills,.claude/skills/blog-locale-audit/SKILL.md,Marketing and Communications,6,6,1269,1175
+846,000bceaf26d6b5ac78d6f51886f485e4ac67572c,astahmer/nixfiles,assets/.agents/skills/readbro/SKILL.md,Developer Tools,6,6,1426,1308
+847,000bd249802aa0abebd6075989a429e425d8408c,loulanyue/awesome-claude-notes,docs/pt-BR/skills/blueprint/SKILL.md,Software Development,2,2,1031,895
+848,000bd95b7db7a3d73f6ca4a3bc3face02534f188,tools-only/X-Skills,development/941-metadata_enhanced_citations_af9faf48/skill.md,AI and Machine Learning,6,1,882,776
+849,000bdb942e63bff1a2810ea4de8cce2ae8cf61c8,luokai0/ai-agent-skills-by-luo-kai,ai-agent-skills/18-ai-agents-and-automation (by Luo Kai)/04-workspace-integrations/openweather-api-automation/SKILL.md,Earth Science,8,8,723,686
+850,000be17db1a0c41089c642efd70866a1c569407f,inntek15dev-lang/abastible-ai,.agent/meta/orchestrator/SKILL.md,Agent Orchestration,2,2,894,886
+851,000be67cf61308764264fa4aac6d9dff6d49e250,killvxk/cybersecurity-skills-zh,skills/implementing-aws-security-hub/SKILL.md,Cybersecurity,5,5,1573,1573
+852,000bf0d8cc78c00c772df3d712a72d34ce017c08,dmauser/network-desk,extensions/network-desk/specialists/network-troubleshooter/skills/packet-capture/SKILL.md,IT Operations and Incident Management,5,8,921,826
+853,000bfcb3e171dad226b2c8e962bafd7fdfdc437f,Habitat-Thinking/ai-literacy-superpowers,ai-literacy-superpowers/skills/portfolio-dashboard/SKILL.md,Education,1,6,1081,959
+854,000bfdcc452626db4c5211c1d748a1a5f1a9cf55,loclv/llm-lean-log,.agents/skills/bun/SKILL.md,Developer Tools,8,8,13,13
+855,000bfe931ea595446e83cf1ad482c2677fd4fa40,frvnkfrmchicago/skills-library-v2,.claude/skills/performance-tuning/SKILL.md,Software Development,7,7,1014,983
+856,000c00aabed2aa2107e02a805fb6be8d76240a22,eastmoon/tutorial-llm-prompt,skills/ask-question-api/SKILL.md,Agent Orchestration,4,4,177,177
+857,000c0546399d2296a63b3155a65e26e2d0744368,MikeCheng1208/BattleTree,.agents/skills/typescript-developer/SKILL.md,Software Development,7,7,544,460
+858,000c1b3e756e543ac7d8c0d37b93777569a44c30,RahmanBhuiyan/monthly-budget-planning-rd,.claude/skills/done/SKILL.md,Software Development,9,9,1177,1063
+859,000c1d6a726c890be8fbab60c0c588c16e9da60c,majiayu000/claude-skill-registry-data,development/code-translator-v2-majiayu000-claude-skill-regist/SKILL.md,Software Development,7,7,271,229
+860,000c2422ab6257539adbdf5c4441531dafb5ce31,gerald-ica/claude-code-config,plugins/data-engineering/skills/debugging-dags/SKILL.md,Data Engineering and Analytics,2,5,1077,932
+861,000c31f8273c7d44245079660e45d8f73427e48b,teeclaw/phorm-nft,skills/4claw/SKILL.md,Insufficient Information,1,6,8,8
+862,000c396732d6ebb9d0187872344fa0353ec07454,HHHHHejia/awesome-legal-aiagent-skills,intellectual-property/draft-complaint/SKILL.md,Legal and Compliance,1,1,862,734
+863,000c3ad8291abd875f7a3ad32c4286e70e2d4320,jonniesweb/skills,beads-workflow/skills/work-post/SKILL.md,Project and Task Management,9,9,191,154
+864,000c3e23fe4e5c843513ae690f80f7693cccb3fa,probabl-ai/ibm-workshop,.bob/skills/data-science-python-stack/SKILL.md,Data Engineering and Analytics,6,6,1497,1266
+865,000c4280cd9cb73fbea6703eaac6241fea30c4dd,MikeCheng1208/BattleTree,.agents/skills/heath-ledger/SKILL.md,Finance and Cryptocurrency,6,5,1309,1245
+866,000c4c32e9f0e2f8f163041ccc56e48c8e04ebb1,Boise-State-Development/agentcore-public-stack,.claude/skills/cdk-infrastructure/SKILL.md,DevOps and Infrastructure,8,7,1178,1071
+867,000c4dd3c31d0fc86bd5ba25ba5b69ea7490e01b,iFrescoo/gart,.agent/skills/agency-agentic-identity-trust-architect/SKILL.md,AI Security and Governance,5,5,901,746
+868,000c4e107f464475b9cef5f6258099c2b1810dc8,Xeyn19/Express-Node-React-Prac,skills/responsive-dashboard-ui/SKILL.md,Design and User Experience,7,7,603,538
+869,000c557ccfad631327b0b5ea2e06f540b7a5ec66,qhjqhj00/research-skills-pool,skill-factory/output/arabculture-eval/SKILL.md,AI and Machine Learning,6,5,692,584
+870,000c558de43d0f38704c22fcadca58067e78841a,gabrielmoreira/agent-skills-mirror,mirrors/repos/jeremylongshore@claude-code-plugins-plus-skills/plugins/database/nosql-data-modeler/skills/modeling-nosql-data/SKILL.md,Databases,6,5,1076,963
+871,000c606825973222052248ff0691267327511201,jlaws/dotfiles,.agents/skills/post-ship-doc-sync/SKILL.md,Writing and Editing,9,9,516,477
+872,000c63e1c154b55667c873a986294235678fe2ff,iart-ai/explainer-video-skills,skills/isometric-animation/SKILL.md,Design and User Experience,7,4,1271,1129
+873,000c710d57c2b4c76bb99ebd0c38a04399d656b4,Simplified-Reasoning/Pi-Bench,data/law_trainee/skills/jargon-translator-1.0.3/SKILL.md,Writing and Editing,4,4,496,496
+874,000c73ffa5c5cd0c31036871b59fc5bc2cf2357b,monsad/ai-politics,skills/ministry-spraw-zagranicznych/SKILL.md,Legal and Compliance,6,5,967,841
+875,000c78f8e36ea0d53087918378e0ea8cee63ea39,lumikavon/stream,.agents/skills/analyze-creator-performance/SKILL.md,Marketing and Communications,4,4,2656,2656
+876,000c79d841c7e8dfc73c641c17980c0ebf47a3b9,datashaman/agentfiles,skills/verify/SKILL.md,Software Testing,9,9,907,867
+877,000c84db0be791f6985129ea1701eb54d9eaf593,Prashu94/Notes,Learning/.github/skills/deploy-kit/SKILL.md,DevOps and Infrastructure,8,8,1220,1164
+878,000c89b7d93cbca5536207242ac5884a22e76222,eliferjunior/Claude,.claude/skills/ts-e2b/SKILL.md,Developer Tools,5,5,459,405
+879,000c903b1fd54833adcb9dea1cef3fdda3b906a1,ndpvt-web/arxiv-claude-skills,skills/alignagent-adaptive-learner-intelligence/SKILL.md,Education,3,3,1073,916
+880,000c922a9ce2ca88ff59d10b5240225868bd9f20,MikeCheng1208/BattleTree,.agents/skills/policyengine-aggregation/SKILL.md,Software Development,6,5,1177,1096
+881,000c9eb4c84fd49c69be0b95853b9e263ced3b03,corinB/live-class,.claude/skills/business-card-production/SKILL.md,Writing and Editing,4,4,2021,2019
+882,000caa1f8bf2c620692fe25a094e99b2909efe0d,adam-s/iep-challenge,.claude/skills/harness-run/SKILL.md,Software Testing,2,2,1261,1071
+883,000cb0d820129e7d4e57b0c39678f715a71a8436,gnelson-bantha/development-pattern-guide-skill,.github/skills/development-pattern-guide/SKILL.md,Education,9,6,1403,1211
+884,000cb56b231dea1e8529370e99517681526628cf,learning-with-court/learning-with-court,plugins/lwc-workshops-dev/skills/lesson-runner/SKILL.md,Education,2,2,1015,831
+885,000cd4d7d66b9f65a1e4ac6d8255e7d1eba4e38b,weshopai/skills,skills/clothing-magic-remover-openapi-skill/SKILL.md,Design and User Experience,8,8,679,633
+886,000cdc98e0cd61b2c53b3ffd7ed2de6abf63ef38,JDL440/nfl-eval,.squad/skills/copilot-session-artifact-harvest/SKILL.md,Research and Academic Publishing,9,6,513,474
+887,000cdf7f49370ccc24e5f335712cca0fffb7b62a,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/botany-based-synthesis/SKILL.md,Biology and Data Analysis,3,3,544,464
+888,000ce1b02522ef1dac01dd9d4d10fb1047e5de87,WariKoda/PlasmaWidgetAiUsage,.claude/skills/verify-widget/SKILL.md,Software Testing,8,6,307,263
+889,000ce4bd2b355177ccc7fa3a828cf07009a11ac4,GeorgeDoors888/GB-Power-Market-JJ,openclaw-skills/skills/buystsuff/experience-millennium-hodge/SKILL.md,Mathematics and Statistics,6,4,1227,1048
+890,000cf0dc3c82a0af30052e2d47091fb01df1f28b,Klotzkette/claude-fuer-deutsches-recht,schulrecht-laender/skills/handyverbot-und-digitalgeraete/SKILL.md,Legal and Compliance,4,4,1630,1626
+891,000cfa51af9298c6293f0fb2a48408b1d07e325f,Sandeeprdy1729/skill_galaxy,skills/ai-ml/llm-memory/SKILL.md,AI and Machine Learning,3,3,346,323
+892,000cfc81b75232e831a4bdbbed94b4a0d256c845,plurigrid/asi,skills/69-constructions/SKILL.md,Mathematics and Statistics,1,2,453,416
+893,000d0a243780f6825d39c76bc97cf622bd946e5a,NeuralBlitz/buggy,ncx/.opencode/skills/numerical-compiler-design-prediction/SKILL.md,Computer Science and Algorithms,3,3,573,493
+894,000d0f84f69bd453b7dc3f81ece6d32abcd5e508,Lord1Egypt/awesome-skill-forge,community/clawhub/s/safari-control/SKILL.md,Developer Tools,7,7,1040,871
+895,000d17c8b2cd9a3ab38d2b17c82548adaef4f1d3,MikeCheng1208/BattleTree,.agents/skills/ontopo/SKILL.md,Travel and Tourism,8,8,939,886
+896,000d1ef1cb4dbac66a21297bb82cad474fed8830,ranbot-ai/awesome-skills,skills/hyperexecute-skill/SKILL.md,Software Testing,2,2,1248,1166
+897,000d1f3237a26223479b9e511e12d8a560f214a2,edwinbustillos/opencode-agent-skills,.opencode/skills/project-setup/SKILL.md,Software Development,9,7,676,641
+898,000d2393e9a03553e64b245a481d725a79622312,ajohnson388/Skills,skills/mv-architecture/SKILL.md,Software Architecture,7,7,961,802
+899,000d240a4f50a93b8f87b1d4e8d455fc87838283,JoshuaShepherd/my-skills,claude/movemental/logo-strip-author/SKILL.md,Design and User Experience,7,7,1198,1077
+900,000d2eaaef70a9cc83edf3f39d5b27f01cf4231d,vigneshksaithal/reddit-civ,.agents/skills/design/SKILL.md,Design and User Experience,7,7,1014,974
+901,000d38f9798e9d87d116157602d5bd671d29e8eb,massimorofi/skillsmcp,skills/documentation-skill/SKILL.md,Writing and Editing,9,7,183,171
+902,000d3c075c61b7f05c86c76503acf493b3fd6068,membranedev/application-skills,skills/chatwoot/SKILL.md,Product and Business,8,8,1105,908
+903,000d3c4400dbbd8ea1fdf59b2dff3ad66797510e,orionpax1997/kickstart.opencode,skills/kickstart-creator-command/SKILL.md,Agent Orchestration,9,2,1175,1083
+904,000d42d0bc5531c84ca30c6fc2fbd2a308aebfc8,frootai/frootai,solution-plays/28-knowledge-graph-rag/.github/skills/deploy-knowledge-graph-rag/SKILL.md,AI and Machine Learning,6,1,864,837
+905,000d43707bbe9926732fee06abc595a091fed5c3,dev-khoi/AURA-conHack-2026,.opencode/skills/deliberate-practice/SKILL.md,Education,3,3,898,799
+906,000d44bc90178e8cf43d0a836aad9944fce2a46a,aramz33/memoire-clo,.claude/skills/voice-dna-creator/SKILL.md,Writing and Editing,1,1,716,606
+907,000d464a3a86cd960643852187c1ec8c9f8085a3,embedlab-tech/embed-log,skills/embed-log/SKILL.md,Developer Tools,6,8,1266,1113
+908,000d476676b45e0603fc4e94a95f68f4b080ad6a,Biyocon/CustomAgents,.vscode/archive/upstream-skills/skills/azure-maps-search-dotnet/SKILL.md,Software Development,8,8,1358,1330
+909,000d47fc3445b2bd216a9ece5dfb65793eab8885,amo-tech-ai/rocket-path-ai,.agents/skills/nano-banana/nano-banana-2-image-assets/SKILL.md,Design and User Experience,7,1,1148,1071
+910,000d4b1c25f6c66e84cdd357fe25a1ab6aa1adb7,ChenShizhe/paper-reader,paper-reader/SKILL.md,Research and Academic Publishing,1,1,1227,1146
+911,000d4c45a9bf8f172cae6734834517ac319a3785,NeuralBlitz/Agent-Gateway,agent-gateway/skills/user/bayesian-statistics-estimation-fundamental/SKILL.md,Mathematics and Statistics,3,3,582,502
+912,000d4d0c32a84d76df83101a13a9e5008598015e,AgentiveCity/SkillFactory,.claude/skills/cloudflare-d1-migrations-and-production-seeding/SKILL.md,Databases,2,7,1174,1011
+913,000d4e30c9a9aa8f92dff16576ca020d5435fa90,konippi/servo-fetch,skills/servo-fetch/SKILL.md,Developer Tools,7,8,1262,1139
+914,000d562e958839ec2ec6f5a5153c819d1be09f01,ed-donner/pounce,.claude/skills/notify/SKILL.md,Productivity and Scheduling,8,8,37,25
+915,000d5f8bf4bf739529f42ddd4af016be48820ad7,AndreaKinder/RomsManager,.agents/skills/frontend-design/SKILL.md,Design and User Experience,7,7,141,128
+916,000d7253ef46b0f2af3c94731ae7eb86b464ac86,dvcrn/openclaw-skills-marketplace,plugins/bob5-tensorslab--tensorslab-image/skills/tensorslab-image/SKILL.md,Design and User Experience,8,8,1231,1175
+917,000d728b888db7c2d20803300a8d5bc5da8c6cf9,majiayu000/claude-skill-registry,skills/devops/railway-environment-bjornslib-cobuilder-harness/SKILL.md,DevOps and Infrastructure,9,6,1063,954
+918,000d7782926bfb7183328f307cf735811eee2b00,MikeCheng1208/BattleTree,.agents/skills/dapp-sdd-specify/SKILL.md,Software Development,1,2,370,323
+919,000d848b4b76bfbabaaf937135313da32dd13216,menot-you/claude,skills/systematic-debugging/SKILL.md,Software Development,2,9,1201,1074
+920,000d84938448ad3c9fe556292bfb15c59c4381d1,thiagofernandes1987-create/APEX,skills/community/general/10-andruia-skill-smith/SKILL.md,Agent Orchestration,6,2,1588,1566
+921,000d99a612e69c82c4e86d12a12fd49b08f6fba5,richard-devbot/SDLC-rstack,skills/devops-deployment/appdeploy/SKILL.md,DevOps and Infrastructure,8,8,1196,1046
+922,000da2679942b4b8558b86ee339c2a316638a112,Artifex1/auditor-addon,skills/scribe/SKILL.md,Cybersecurity,9,9,1108,991
+923,000daab63fea2ad7cd8ce37ba8328c74a3c78aef,zoheth/vidya,skills/github-qa-extractor/SKILL.md,Education,9,9,1039,894
+924,000dba3b0acd25b57b3c51aa694f66258127bc75,Innei/Kagura,.claude/skills/writing-live-e2e-tests/SKILL.md,Software Testing,8,8,1174,1083
+925,000dbca58a5ff9b66999f73b512c7292052f08b5,Number-Pii/organisation,Teams/skills/startup-business-analyst-financial-projections/SKILL.md,Finance and Cryptocurrency,1,1,1109,1027
+926,000dc1410e399cfd571adc55b255d42a8bb67c6f,javimosch/supercli,plugins/mfplain/skills/quickstart/SKILL.md,Insufficient Information,9,6,147,141
+927,000dc3a9cb8d974035b4ccfb29230e8505891b72,MikeCheng1208/BattleTree,.agents/skills/evaluative-research/SKILL.md,Research and Academic Publishing,1,1,1049,926
+928,000dc42fc9d4116896fd144a069435bdb880b02c,Iwakishirokoshu/HermesUltimate,skills/note-taking/obsidian/SKILL.md,Productivity and Scheduling,9,6,897,759
+929,000dc4afd6d55ab1b877e96614744268ec7976e5,kaivyy/kabot,kabot/skills/voice-call/SKILL.md,Productivity and Scheduling,8,8,368,358
+930,000dc753c655472f0c896bfc2eb32f1706878b7b,Sharawelly/khedma,.cursor/skills/flutter-add-endpoint/SKILL.md,Software Development,8,8,506,471
+931,000dcc2b35dc93afbebefa4e6782bba2707dea95,KevinHubeli/Skills,.claude/skills/analizar-whatsapp/SKILL.md,Data Engineering and Analytics,4,4,236,236
+932,000dd9b1d62993997d33607600d1c4bc582324c7,asalt/iSPEC,skills/slack-tmux-bridge/SKILL.md,Productivity and Scheduling,8,8,840,719
+933,000df18d2253b094e8946b80d0c48f09027858ff,ohdaveed/director-hearing-manager,.claude/skills/find-docs/SKILL.md,Developer Tools,6,7,1110,930
+934,000dfaac036a466bfe95e413fdb0b63a57345537,ryok/claude-beatlab,.claude/skills/tech-blog/SKILL.md,Writing and Editing,4,4,567,567
+935,000dfc26dc3c2613afbd237c16ab5cb7192660e3,XuShuwenn/RedAct,data/skills/skill_extract/skills_raw/latex-formula-extraction/robust-latex-formula-extraction/SKILL.md,Research and Academic Publishing,1,6,1003,838
+936,000e01c7b98a1f0682dc52e974e0344221663112,MikeCheng1208/BattleTree,.agents/skills/refresh-content/SKILL.md,Writing and Editing,1,1,440,391
+937,000e0b676f165b9e8d8d447152e48271bad05d65,morikikaito/ASCENT-LP,SKILL.md,Design and User Experience,4,4,2449,2445
+938,000e0e3a460627851b1dc4f15a8301d66fc17ff7,ngoctruonggiang/Software-Maintenance---Idest,.claude/skills/aesthetics/SKILL.md,Design and User Experience,7,7,1057,996
+939,000e2d17fe65e606cdd67c70b3dd4082f408e613,frvnkfrmchicago/skills-library-v2,.agents/skills/ios-app-intents/SKILL.md,Software Development,8,8,1149,996
+940,000e386c163252f305755f0747809933e9611ad1,DarceyLloyd/pi-aftc-toolset,skills/bun/SKILL.md,Developer Tools,8,7,221,210
+941,000e38d809913975d125860def1e0759e4618081,GuanceCloud/pipeline-go,skills/dql/SKILL.md,Databases,4,4,878,877
+942,000e4d05a3b43f1d5fa73bdb5d94535b11c0d954,team-telnyx/ai,providers/claude/plugins/telnyx-platform/skills/telnyx-sip-integrations-python/SKILL.md,Software Development,8,8,1188,1125
+943,000e51241f4463c725b6ab2b4bba8bd26006fca1,TheSoftwareHouse/copilot-collections,.github/skills/tsh-jira-task-formatting/SKILL.md,Project and Task Management,2,2,983,824
+944,000e5646c1bef4b0ee12a79019314692b02521d1,calebchin04-jpg/websitebuilder,Website Builder System/15-feature-gallery/SKILL.md,Design and User Experience,7,1,871,722
+945,000e59227c42961d2c43d68a7c1f251149ad5bf1,mayurrathi/awesome-agent-skills,skills/rust-pro/SKILL.md,Software Development,7,7,903,800
+946,000e5dcf09ea06efbf056a07bd8a5b086cc003f7,MikeCheng1208/BattleTree,.agents/skills/quality/SKILL.md,Software Development,4,4,776,774
+947,000e5f8076004df5b92ca4c37edffc36bfb76a65,diegosouzapw/awesome-omni-skills,skills/it-manager-pro/SKILL.md,Product and Business,2,2,1052,867
+948,000e7537949adcbd60c49e1723e55cc700a5a62f,guitarbeat/slavv2python,.claude/skills/review-and-ship/SKILL.md,Software Development,9,9,290,254
+949,000e79c10ed3d61b4c2015b9531e8b4c4abea08a,gabrielmoreira/agent-skills-mirror,mirrors/repos/mozilla-ai@llamafile/docs/skills/llamafile/SKILL.md,AI and Machine Learning,9,6,1353,1240
+950,000e7c743034925f8d7dcdedff383954774d43ca,EndUser123/cc-marketplace,plugins/cc-skills-meta/skills/trace/SKILL.md,Software Testing,2,9,1195,1134
+951,000e825c6f85461a10d3160ecc7fe3f15f63bccc,MaTriXy/babysitter-codex,upstream/babysitter/skills/babysit/process/specializations/domains/science/industrial-engineering/skills/five-s-auditor/SKILL.md,Engineering,1,1,443,418
+952,000e8285deb008f045370e2032535b0f4e605357,Jeeva0104/connector-service-mini,.claude/skills/makepad-event-action/SKILL.md,Software Development,7,2,670,619
+953,000e888c1feefcf2a256bc02a0c069f46f6e9a0b,skeletorflet/opencode-supreme-setup,config/skills/async/SKILL.md,Software Development,7,7,126,118
+954,000ea7ca00eab7c77e8f3cf5ccd9f122bf5b27f1,darthlinuxer/Agentic-Skills,.claude/skills/game-design/SKILL.md,Game Development,2,2,753,733
+955,000ea983b91922bfccec231a25a5ce7045737b71,YanagiOrigami/slime-ttt,slime/.claude/skills/add-tests-and-ci/SKILL.md,Software Testing,2,9,1025,904
+956,000eaf263e4d43033e9955bc357c1e3091695ee3,NeuralBlitz/buggy,ncx/.opencode/skills/parametric-number-theory-debugging/SKILL.md,Mathematics and Statistics,3,3,576,496
+957,000eb59c5ca379adf22e424f2bcd628d80a07109,diegosouzapw/awesome-omni-skill,skills/development/beautifulsoup4/SKILL.md,Software Development,6,6,1304,1206
+958,000ec1b5aa5a5d5f3116a8b570e97a0a4705077e,organvm/a-i--skills,distributions/claude/skills/social-media-api-integration/SKILL.md,Software Development,8,8,614,595
+959,000ec7ff44f4e29e5aa5cc46e397905802d1f87f,AgentPMT/agent-skills,skills/google-meet-connector/SKILL.md,Productivity and Scheduling,8,8,948,832
+960,000ed228db8d486676037869a7349790a2e8e5f6,rore/bear-cli,tools/minimap/SKILL.md,Project and Task Management,9,6,985,811
+961,000edaea8978d5e32f41e139b379e32e5ccbf147,cegit27/moodle-proctor,.claude/skills/plan-design-review/SKILL.md,Insufficient Information,7,1,36,36
+962,000ee49d327010c2b88ae9e60ec22003c9bfffee,exafyltd/vitana-platform,services/openclaw-bridge/src/config/SKILL.md,Product and Business,8,8,374,352
+963,000eef61ad57d1069234e542cc8dcc0c39671593,Sw4mpf0x/code-review-prompts,skills/document-response/SKILL.md,Writing and Editing,1,6,341,277
+964,000ef8b016df423f4d78790c663b1b3a93bce32a,huangzesen/warren-buffett-persona,.lingtai/buffett-capitalism/.library/custom/buffett-capitalism/SKILL.md,Product and Business,1,5,1056,842
+965,000f0a909d21d115a2a2812e43fe4899f7b241b8,javi23ruiz/flight-tracker-cli,skill/SKILL.md,Travel and Tourism,8,8,474,421
+966,000f0e314277c76c163a0c46d82bec1962199f84,awesome-skills/manim-skill,SKILL.md,Design and User Experience,7,6,1212,1156
+967,000f0eb6ef2182001c5f396c227e761477470bdb,FDU-INS/Insurance-Skills,Skills/coverage/SKILL.md,Medicine and Healthcare,6,5,330,313
+968,000f0f5499a06a5ec79e157d4682920bb32a7543,mountgram/stack-chan-skill,skills/stack-chan-skill/SKILL.md,Robotics,8,8,1264,1144
+969,000f1db2e76b954adafa4259298a04819d133142,storm-software/powerlines,skills/powerlines-gc/SKILL.md,Developer Tools,6,6,137,124
+970,000f3b824a6eeca828e4bc77d6c433e471164049,pesap/khala,skills/workon-worker/SKILL.md,Agent Orchestration,2,2,976,828
+971,000f419a4f8828bbe15a27cd737e5aa80b04ffd4,diegosouzapw/awesome-omni-skill,skills/documentation/cgr-docs-governance/SKILL.md,Writing and Editing,9,9,217,205
+972,000f43d044721b9f580b06d73c85b32ac23fefd6,hefarica/arbitragex-v2,.agents/skills/arbx-k-k027-applied-post-quantum-migration-prep-in-arbitragex-v2/SKILL.md,Cybersecurity,5,5,798,796
+973,000f4de508b41255d9dfcabe6f79b246f04b865a,NeuralBlitz/buggy,ncx/.opencode/skills/quantum-field-theory-simulation-research-level/SKILL.md,Physics,3,3,581,501
+974,000f59bd4de52cfefe5abe17b1a9164c5675f837,jscraik/Agent-Skills,Skills/agent-ops/go/SKILL.md,Software Development,9,7,669,610
+975,000f6c7ecdf24a3f509a92a319922459cd02bca3,NVIDIA/DeepStream,skills/deepstream-profile-pipeline/SKILL.md,Software Testing,6,5,1554,1392
+976,000f71ab5ab3938d3de311c73cdf5c4980d2a6a5,JoseCortezz25/skills-kit,skills/forms/SKILL.md,Software Development,7,7,891,830
+977,000f76f0b0e500456e16bcd5a520597167653f56,uchidayuma/sales-management-laravel-portfolio,.claude/skills/playwright-skill/SKILL.md,Software Testing,4,4,3015,3015
+978,000f8740a1f063659593f503ef5ea47bbebfb614,anthonykewl20/fidex-codex,skills/fidex-grilling/SKILL.md,Product and Business,2,2,583,472
+979,000f96d40739518743412e34e532f374d0f31bbe,lidge-jun/cli-jaw-skills,obsidian/SKILL.md,Productivity and Scheduling,9,6,730,689
+980,000facedb75d4b6e49b8d37344250990968cc91e,majiayu000/claude-skill-registry-data,development/claude-skills-api-versioning-skill-md/SKILL.md,Software Architecture,4,4,2286,2286
+981,000fb011a37397a898c33092a45f552b2d683342,preset-io/agent-skills,plugins/preset-api-skills/skills/preset-datasets/SKILL.md,Data Engineering and Analytics,6,5,677,630
+982,000fb440240e4e43c0673523a1ae96d9cd722b87,whilmarbitoco/agent-skills,java/core-java/sequenced-collections/SKILL.md,Software Development,6,5,596,562
+983,000fc2b7f4e253d93d1be5b1468e8fa5a53afd78,MatthewDaw/fractions_tutorial,.claude/skills/reverse-prompt-codebase/SKILL.md,Software Architecture,9,9,1225,1072
+984,000fd87860456a5c728cb0556139092fcee183a8,qyb156/PoisonedSkills,poisoned_skills/V2/SKILL.md,Cybersecurity,1,1,176,156
+985,000fdf2e715cce7eaae13a6082edbc6d4491f0cf,woodartcrafts/apartmanweb,.github/skills/claude-code-guide/SKILL.md,Agent Orchestration,2,2,430,362
+986,000fedda044170c69b7a93af52f8ad2d324da713,MaparaGP/elara,.github/skills/ctx-advanced/SKILL.md,Agent Orchestration,2,2,980,828
+987,000ff03a7c1fe86c5f1694eafcf21511d2023ef5,MikeCheng1208/BattleTree,.agents/skills/pronunciation-specialist/SKILL.md,Audio and Music,1,4,1278,1209
+988,001000e01d2f1ddf52035aea7dc2297bcbb6115b,helgeu/setup,nix/ai/claude/skills/kickoff/SKILL.md,Project and Task Management,2,2,1011,789
+989,001001d80cf5320b62e990f8933d9438d3811b05,dvcrn/openclaw-skills-marketplace,plugins/quifago--idealista/skills/idealista/SKILL.md,Product and Business,8,8,332,310
+990,0010058d0d1d9ac932d9bcd50dfb8bb2c84f9f08,alex-voloshin-dev/ai-skills,plugin/skills/analyze-local/SKILL.md,IT Operations and Incident Management,9,9,1227,1103
+991,001009d93a474f14734df67b8800333d09e9e290,flalongflalong/simple-gstack-for-vscode,.claude/simple-gstack-en/skills/sg-cso/SKILL.md,Cybersecurity,5,5,1168,1108
+992,00100b74df09db24430a3e3c0a845cba880e336b,us/crw,skills/crw-self-host/SKILL.md,DevOps and Infrastructure,8,8,1422,1298
+993,001012915a228bffe6f6592ce7641ccba6c40961,owera/owera-fleet,skills/swarm/SKILL.md,Agent Orchestration,8,2,331,320
+994,00101eb6c9efc21aa23e061790ca6fc1e4496dac,lgoodcode/instamolt-seeder,.claude/skills/shared-package/SKILL.md,Software Development,7,7,1302,1233
+995,00102229adf7d59e88e6f0e53fd667104ca7a015,MikeCheng1208/BattleTree,.agents/skills/import-organization/SKILL.md,Software Development,6,7,142,134
+996,0010230f5883a65b83639e940059506797ea8b55,phant-app/phant,.agents/skills/go-functional-options/SKILL.md,Software Development,7,7,812,738
+997,001036f9b253ae31439bde78c8573b933c8a5f79,adriangmrraa/MultiAgents-Platform-ROI,.agent/skills/Skill_Sync/SKILL.md,Agent Orchestration,2,2,462,462
+998,001037c7f4ae4304fe0ab58ee568d4b384a0b724,JGtm/LevelUp,.claude/skills/plan-execution/SKILL.md,Project and Task Management,2,2,1307,1301
+999,0010452981d1a1ecde724533ecfb8b27a771e351,TonelliMG/tonelli-claude-skills,Pessoais/skills/tonelli-git-commit-generator/SKILL.md,Developer Tools,9,9,1298,1086
+1000,001045b557b1e04ac3822c576a4e6d426b3115a5,dekoza/oh-my-slop,skills/django/SKILL.md,Software Development,6,7,1288,1178
